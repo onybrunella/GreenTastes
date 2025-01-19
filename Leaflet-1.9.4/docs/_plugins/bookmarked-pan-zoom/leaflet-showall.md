@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:34c08ea9fd22fb4acf3128b7d753cec479f1c36b9fcd03d5f05cd60c0596b0bf
-size 361
+---
+name: Leaflet.ShowAll
+category: bookmarked-pan-zoom
+repo: https://github.com/florpor/Leaflet.ShowAll
+author: Mor Yariv
+author-url: https://github.com/florpor
+demo: http://florpor.github.io/Leaflet.ShowAll/examples/
+compatible-v0:
+compatible-v1: true
+---
+
+A control that can show a predefined extent while saving the current one so it can be jumped back to.

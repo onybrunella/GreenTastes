@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:71e632326a3ae33212387124e41e91ed549a46d73e1abf9a9fb44502fc2306ba
-size 287
+---
+name: Leaflet.jsf
+category: frameworks-build-systems
+repo: https://bitbucket.org/terrayazilim/leaflet.jsf
+author: Terra SI LLC.
+author-url: http://terrayazilim.com.tr/
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Comprehensive Java Server Faces(JSF) Component/Wrapper for Leaflet.

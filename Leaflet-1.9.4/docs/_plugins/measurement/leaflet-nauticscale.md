@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4bacfa3a46b4ee6905ada874b38c7dac31a715f9253434ba78a2422bbbd25391
-size 255
+---
+name: Leaflet.nauticscale
+category: measurement
+repo: https://github.com/PowerPan/leaflet.nauticscale
+author: Johannes Rudolph
+author-url: https://github.com/PowerPan
+demo:
+compatible-v0:
+compatible-v1: true
+---
+
+Display a Nauticscale on Leaflet maps

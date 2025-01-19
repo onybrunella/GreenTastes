@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:33cfcff117826256a00179d3f572c8f00acbfa573a2538a283361b2a51cbe4e3
-size 253
+---
+name: Leaflet.pattern
+category: markers-renderers
+repo: https://github.com/teastman/Leaflet.pattern
+author: Tyler Eastman
+author-url: https://github.com/teastman
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Add support for pattern fills on Paths.

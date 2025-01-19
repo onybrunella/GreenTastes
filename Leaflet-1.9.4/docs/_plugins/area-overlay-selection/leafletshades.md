@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bd1f7ff74f744778c4ea46a81a17a1cf67e9444096296b4e4a8092ba031b844d
-size 384
+---
+name: Leaflet-Shades
+category: area-overlay-selection
+repo: https://github.com/mkong0216/leaflet-shades/
+author: Mandy Kong
+author-url: https://github.com/mkong0216
+demo: https://mkong0216.github.io/leaflet-shades/examples/
+compatible-v0:
+compatible-v1: true
+---
+
+A draggable and resizable rectangle for selecting an area on a map and creating a gray overlay in unselected areas.

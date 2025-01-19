@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:66b4fd9ac266517fa59287272be29befdedc65db7830134ec54b48df4710c2f3
-size 343
+---
+name: leaflet.browser.print
+category: print-export
+repo: https://github.com/Igor-Vladyka/leaflet.browser.print
+author: Igor Vladyka
+author-url: https://github.com/Igor-Vladyka
+demo: https://igor-vladyka.github.io/leaflet.browser.print/
+compatible-v0:
+compatible-v1: true
+---
+
+Allows users to print full page map directly from the browser.

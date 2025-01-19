@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7603ad4fd61c008bbd42f678a5a5b102b147df75f2dee495f05d8515093c9bb9
-size 437
+---
+name: Leaflet.heat
+category: heatmaps
+repo: https://github.com/Leaflet/Leaflet.heat
+author: Vladimir Agafonkin
+author-url: https://github.com/mourner
+demo: https://leaflet.github.io/Leaflet.heat/demo/
+compatible-v0:
+compatible-v1: true
+---
+
+A tiny, simple and fast Leaflet heatmap plugin. Uses <a href="https://github.com/mourner/simpleheat">simpleheat</a> under the hood, additionally clustering points into a grid for performance.

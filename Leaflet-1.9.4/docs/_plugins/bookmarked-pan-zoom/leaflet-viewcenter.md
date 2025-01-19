@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dc9cfc8c68af33d11ffa1c43660de05a2b3d1550e4bf5beb987945e1f0028953
-size 353
+---
+name: Leaflet.viewcenter
+category: bookmarked-pan-zoom
+repo: https://github.com/pwldp/leaflet.viewcenter
+author: Dariusz Pawlak
+author-url: https://github.com/pwldp/
+demo: https://pwldp.github.io/leaflet.viewcenter/
+compatible-v0:
+compatible-v1: true
+---
+
+A simple control that adds a button to change view and zoom to predefined values in options.

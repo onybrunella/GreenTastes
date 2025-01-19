@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9f10bb92dbf254c010518120df0ec259d37a06ee8c5141dd25b9bfb4b7daf062
-size 470
+---
+name: Leaflet Control Bing Geocoder
+category: geocoding
+repo: https://github.com/sa3m/leaflet-control-bing-geocoder
+author: Samuel Piquet
+author-url: https://github.com/sa3m
+demo: http://sa3m.github.io/leaflet-control-bing-geocoder/
+compatible-v0:
+compatible-v1: true
+---
+
+A simple geocoder control that uses Bing to locate places. You may be also interested in its fork <a href="https://github.com/perliedman/leaflet-control-geocoder">Leaflet Control Geocoder</a>.

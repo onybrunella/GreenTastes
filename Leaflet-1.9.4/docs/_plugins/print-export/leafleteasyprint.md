@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bb516ec112e52c817f24ddf9a74bf0a6a6c92bbb76968a0c9b3018f6940b6424
-size 324
+---
+name: Leaflet-easyPrint
+category: print-export
+repo: https://github.com/rowanwins/leaflet-easyPrint
+author: Rowan Winsemius
+author-url: https://github.com/rowanwins
+demo: https://rowanwins.github.io/leaflet-easyPrint/
+compatible-v0:
+compatible-v1: true
+---
+
+A simple plugin which adds an icon to print your Leaflet map.

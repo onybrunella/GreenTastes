@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:22108fa556d55a3692ff68c09cf466dcf44fe3fabae518541ef0a6953d6531cd
-size 407
+---
+name: Leaflet.OpenCage.Geocoding
+category: geocoding
+repo: https://github.com/OpenCageData/leaflet-opencage-geocoding
+author: OpenCage
+author-url: https://github.com/opencagedata
+demo: https://opencagedata.com/tutorials/geocode-in-leaflet
+compatible-v0:
+compatible-v1: true
+---
+
+A plugin plugin that uses <a href="https://opencagedata.com">OpenCage's geocoding API</a> for forward or reverse geocoding.

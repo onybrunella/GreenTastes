@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:84b041331e91dada929af86b3599113fe31d147804f6d284b2189373d028e1fd
-size 630
+---
+name: Leaflet.Autocomplete
+category: geocoding
+repo: https://github.com/tomik23/Leaflet.Autocomplete
+author: Grzegorz Tomicki
+author-url: https://github.com/tomik23
+demo: https://tomik23.github.io/Leaflet.Autocomplete/
+compatible-v0:
+compatible-v1: true
+---
+
+Leaflet.Autocomplete is to expand the autosugestion plugin with the ability to geocode and show data on the map in the way you think you need. The <a href="https://tomik23.github.io/Leaflet.Autocomplete/">DEMO</a> is based on the use of OpenstreetMap Nominatim to locate places by address. Accessible, with full support for ARIA attributes and keyboard interactions.

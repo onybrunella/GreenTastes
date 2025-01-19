@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3913af052475c1382c3959d65ce34eb25cef47b16237d7aaa9785dfbecb65908
-size 399
+---
+name: Leaflet.ResetView
+category: bookmarked-pan-zoom
+repo: https://github.com/drustack/Leaflet.ResetView
+author: Wong Hoi Sing Edison
+author-url: https://github.com/hswong3i
+demo: https://drustack.github.io/Leaflet.ResetView/
+compatible-v0: false
+compatible-v1: true
+---
+
+A reset view control for Leaflet. Design for [Drupal Leaflet Module](https://www.drupal.org/project/leaflet) integration.

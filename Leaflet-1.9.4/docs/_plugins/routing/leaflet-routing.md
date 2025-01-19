@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6b50de5c2bb35bdad4b7f16fac15412f41910b9fa04570e25404d4d12df0e452
-size 352
+---
+name: Leaflet.Routing
+category: routing
+repo: https://github.com/Turistforeningen/leaflet-routing
+author: Norwegian Trekking Association
+author-url: https://github.com/turistforeningen
+demo: 
+compatible-v0: true
+compatible-v1: false
+---
+
+Leaflet controller and interface for routing paths between waypoints using any user provided routing service.

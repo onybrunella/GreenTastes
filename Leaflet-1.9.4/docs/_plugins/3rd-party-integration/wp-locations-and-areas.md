@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a73346ce0e9b16eaebfab7da4e2d9ac2d66b328dea27152ebfc682750beb6a5a
-size 468
+---
+name: Locations and Areas
+category: 3rd-party-integration
+repo: https://wordpress.org/plugins/locations-and-areas/
+author: 100plugins
+author-url: https://www.locations-and-areas.com/?ref=leafletjs.com
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+WordPress plugin to showcase widely distributed locations on a single map with additional navigation tabs for regions. The map is based on Leaflet JS and offers you several free map styles. Gutenberg Block included.

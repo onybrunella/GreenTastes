@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f1329a211c43fd324bf43aca2025e84897a1f8c0fe0fecafbadaf0a397cd5805
-size 319
+---
+name: Leaflet.MapPaint
+category: edit-geometries
+repo: https://github.com/SINTEF-9012/Leaflet.MapPaint
+author: Antoine Pultier
+author-url: https://github.com/yellowiscool
+demo: http://sintef-9012.github.io/Leaflet.MapPaint/
+compatible-v0:
+compatible-v1: true
+---
+
+Bitmap painting plugin designed for touch devices.

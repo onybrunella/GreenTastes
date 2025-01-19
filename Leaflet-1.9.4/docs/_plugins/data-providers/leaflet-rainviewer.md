@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2992110d9454c363ec7ad581b0a8658c0fbe4f5742265e720ca494110ec22ed8
-size 306
+---
+name: Leaflet.Rainviewer
+category: data-providers
+repo: https://github.com/mwasil/Leaflet.Rainviewer
+author: Marcin Wasilewski
+author-url: https://marcinwasilewski.eu/
+demo: https://mwasil.github.io/Leaflet.Rainviewer/demo/
+compatible-v0:
+compatible-v1: true
+---
+
+Plugin for RainViewer radar data API.

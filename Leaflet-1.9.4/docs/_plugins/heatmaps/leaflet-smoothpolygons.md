@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:135e99e31ead72b2fad13e6a992e3a1a712ebd747437b9b3eb27a105b04c6842
-size 365
+---
+name: Leaflet.SmoothPolygons
+category: heatmaps
+repo: https://github.com/sanchezweezer/Leaflet.SmoothPolygons
+author: Sanchez Weezer
+author-url: https://github.com/sanchezweezer
+demo: https://sanchezweezer.github.io/Leaflet.SmoothPolygons/docs/
+compatible-v0:
+compatible-v1: true
+---
+
+Uses [paperJS](http://paperjs.org/) under the hood to draw paths on canvas.

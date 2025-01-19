@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e1e2c2de158e07977fbff0417b25647c9f2650feff45a619852b7bfbdb2674d0
-size 219
+node_modules
+.DS_Store
+tmp/**/*
+.idea
+.idea/**/*
+*.iml
+_site
+*.sublime-*
+_site
+dist/*.js
+dist/*.map
+dist/reference.html
+coverage/
+*.js.html
+.mailmap
+component.json
+debug/local/
+Gemfile.lock
+yarn.lock
+*.log
+.eslintcache

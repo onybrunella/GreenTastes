@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:65481b1e829726ffb8b551c1d89625b6bd2aab0ad5742df01534930be78382a5
-size 282
+---
+name: Leaflet.FileGDB
+category: overlay-data-formats
+repo: https://github.com/calvinmetcalf/leaflet.filegdb
+author: Calvin Metcalf
+author-url: https://github.com/calvinmetcalf
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Put an ESRI File GeoDatabase onto your map as a layer.

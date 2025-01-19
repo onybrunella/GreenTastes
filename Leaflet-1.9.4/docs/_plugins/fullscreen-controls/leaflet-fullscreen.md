@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bd1bfd3ced75814981119884e2cc5c7bee846417bb3d569a7d264700c2830588
-size 343
+---
+name: leaflet.fullscreen
+category: fullscreen-controls
+repo: https://github.com/brunob/leaflet.fullscreen
+author: Bruno B
+author-url: https://github.com/brunob/
+demo: https://brunob.github.io/leaflet.fullscreen/
+compatible-v0:
+compatible-v1: true
+---
+
+Another fullscreen button control but for modern browsers, using HTML5 Fullscreen API.

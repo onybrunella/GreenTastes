@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3b2c7029fcaba16ed0c14406b300dcc3a26ad1f5b467dfca39b54358d63a5bfd
-size 334
+---
+name: Leaflet.Path.Transform
+category: edit-geometries
+repo: https://github.com/w8r/Leaflet.Path.Transform
+author: Alexander Milevski
+author-url: https://github.com/w8r/
+demo: https://milevski.co/Leaflet.Path.Transform
+compatible-v0:
+compatible-v1: true
+---
+
+Scale &amp; rotate handler and interaction for polygons and polylines.

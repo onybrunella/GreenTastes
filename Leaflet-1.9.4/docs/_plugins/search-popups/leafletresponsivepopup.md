@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f4ec0c559f404cd941caa1a211b672123731e40d93e1a24c95f159ddf6ddd41d
-size 361
+---
+name: leaflet-responsive-popup
+category: search-popups
+repo: https://github.com/yafred/leaflet-responsive-popup
+author: YaFred
+author-url: https://github.com/yafred
+demo: https://yafred.github.io/leaflet-responsive-popup/default-marker-tip
+compatible-v0:
+compatible-v1: true
+---
+
+Removes the need to move the map to be able to see the content of the popup.

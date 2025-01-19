@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e7e62bc137f181544868961a92da4acb898090b4262953ff8fbd5aa89a2d9988
-size 525
+---
+name: Leaflet TripGo routing
+category: routing
+repo: https://github.com/skedgo/tripkit-leaflet
+author: SkedGo
+author-url: https://skedgo.com/
+demo: https://skedgo.github.io/tripkit-leaflet/
+compatible-v0:
+compatible-v1: true
+---
+
+The <b>TripGo</b> mobility platform lets you create apps providing seamless and personalised door-to-door trips using any public, private or commercial mode of transport.    		TripGo Leaflet's plugin motivation is to provide an easy way to include its functionality in an external platform.

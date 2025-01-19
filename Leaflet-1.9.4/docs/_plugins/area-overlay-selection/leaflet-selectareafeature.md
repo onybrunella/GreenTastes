@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6ec574717bcbeb00b84e102a87272645da44528f4c40952910bc96d856100492
-size 373
+---
+name: Leaflet.SelectAreaFeature
+category: area-overlay-selection
+repo: https://github.com/sandropibia/Leaflet.SelectAreaFeature/
+author: Sandro Pibia
+author-url: https://github.com/sandropibia
+demo: https://sandropibia.github.io/Leaflet.SelectAreaFeature/examples/index.html
+compatible-v0:
+compatible-v1: true
+---
+
+Selecting feature layers on a map by drawing an area.

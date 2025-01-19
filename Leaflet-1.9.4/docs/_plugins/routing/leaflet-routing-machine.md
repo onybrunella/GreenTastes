@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d8e1111e34f2c0501d069034cd98f105910b90dddf48b61296363bf5d55ea633
-size 572
+---
+name: Leaflet Routing Machine
+category: routing
+repo: https://github.com/perliedman/leaflet-routing-machine
+author: Per Liedman
+author-url: https://github.com/perliedman
+demo: https://www.liedman.net/leaflet-routing-machine/
+compatible-v0:
+compatible-v1: true
+---
+
+Control for route search with via points, displaying itinerary and alternative routes. Uses			<a href="http://project-osrm.org/">OSRM</a> by default, but also supports			<a href="https://www.graphhopper.com/">GraphHopper</a>,			<a href="https://docs.mapbox.com/api/">Mapbox Directions API</a> and more.

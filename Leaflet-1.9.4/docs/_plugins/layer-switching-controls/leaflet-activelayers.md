@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:29158a1f082984b15b196fad56ef532f60e3732c495f48005735e38c89270416
-size 310
+---
+name: Leaflet.ActiveLayers
+category: layer-switching-controls
+repo: https://github.com/vogdb/Leaflet.ActiveLayers
+author: vogdb
+author-url: https://github.com/vogdb
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Adds new L.Control.ActiveLayers with functionality to get currently active layers on the map.

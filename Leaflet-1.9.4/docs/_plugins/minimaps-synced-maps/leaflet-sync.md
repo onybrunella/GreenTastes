@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0d5f6c162abeb0b1c1f19ad0222c8c3fa877d3a4b36f31b0e7255f6bac4cd5f1
-size 294
+---
+name: Leaflet.Sync
+category: minimaps-synced-maps
+repo: https://github.com/jieter/Leaflet.Sync
+author: Bjørn Sandvik
+author-url: https://github.com/turban
+demo: https://jieter.github.io/Leaflet.Sync/examples/dual.html
+compatible-v0:
+compatible-v1: true
+---
+
+Synchronized view of two maps.

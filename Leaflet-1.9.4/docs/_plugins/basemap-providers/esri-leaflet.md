@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:932d93148d4904d12722b2cbf2679664d23fffaaa7f7b5bf0d90cdecd01c6e9e
-size 333
+---
+name: Esri Leaflet
+category: basemap-providers
+repo: https://esri.github.io/esri-leaflet/
+author: Patrick Arlt
+author-url: https://github.com/patrickarlt/
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+A set of tools for using ArcGIS services with Leaflet. Support for map services, feature layers, ArcGIS Online tiles and more.

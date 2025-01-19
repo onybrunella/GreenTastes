@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3b859b7bf5d0d8cd0c75f1d2516370620586baf625f25ad829372b2575b54688
-size 399
+---
+name: Leaflet.OverIntent
+category: events
+repo: https://github.com/makinacorpus/Leaflet.OverIntent
+author: Mathieu Leplatre
+author-url: https://github.com/makinacorpus/
+demo: https://makinacorpus.github.io/Leaflet.OverIntent/
+compatible-v0:
+compatible-v1: true
+---
+
+Adds a new event ``mouseintent``, that differs from ``mouseover`` since it reflects user			intentions to aim a particular layer.

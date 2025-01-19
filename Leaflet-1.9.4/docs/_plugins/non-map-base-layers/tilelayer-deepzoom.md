@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2ccd2d16e0b159968a629124f583eebe963499cd088f8e4d8b49017bdf979a29
-size 248
+---
+name: TileLayer.DeepZoom
+category: non-map-base-layers
+repo: https://github.com/alfarisi/leaflet-deepzoom
+author: Al Farisi
+author-url: https://github.com/alfarisi
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+A TileLayer for DeepZoom images.

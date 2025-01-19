@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d6dab8f5b0f4e1db10a5753005447f78a3194cb279c0dd8ec080e511da46b7d5
-size 413
+---
+name: Leaflet Map Builder
+category: frameworks-build-systems
+repo: https://github.com/gherardovarando/leaflet-map-builder
+author: Gherardo Varando
+author-url: https://github.com/gherardovarando
+demo: https://gherardovarando.github.io/leaflet-map-builder/
+compatible-v0:
+compatible-v1: true
+---
+
+It populates a leaflet map from a configuration object, can also creates zoom, layers, attribution draw controls.

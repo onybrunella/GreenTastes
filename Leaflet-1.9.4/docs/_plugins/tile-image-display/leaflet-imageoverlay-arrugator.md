@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a0b4dbbb33345e477153a07dab6c6388b74f37cbdbbde741afcec2905d3b5f44
-size 425
+---
+name: Leaflet.ImageOverlay.Arrugator
+category: tile-image-display
+repo: https://gitlab.com/IvanSanchez/Leaflet.ImageOverlay.Arrugator
+author: Iván Sánchez Ortega
+author-url: https://ivan.sanchezortega.es/
+demo: https://ivansanchez.gitlab.io/Leaflet.ImageOverlay.Arrugator/demo.html
+compatible-v0:
+compatible-v1: true
+---
+
+Displays reprojected ImageOverlays, given four control points and a proj4js projection function.

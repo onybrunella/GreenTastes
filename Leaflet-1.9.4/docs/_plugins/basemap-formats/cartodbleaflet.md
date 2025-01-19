@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:421eb3dfb55834c687141cbbc1f08a3d94f562eff36949d0376cd7059cb131ac
-size 281
+---
+name: cartodb-leaflet
+category: basemap-formats
+repo: https://github.com/vizzuality/cartodb-leaflet/
+author: Vizzuality
+author-url: https://www.vizzuality.com/
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Official <a href="https://carto.com/">CartoDB</a> plugin for Leaflet.

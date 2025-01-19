@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b68b23921db14d886226b1e661e4a1ffb5c8ca799e77becd9e811f0dcaabc14f
-size 363
+---
+name: Leaflet.Control.SideBySide
+category: tile-image-display
+repo: https://github.com/digidem/leaflet-side-by-side
+author: Digital Democracy
+author-url: https://www.digital-democracy.org/
+demo: http://lab.digital-democracy.org/leaflet-side-by-side/
+compatible-v0:
+compatible-v1: true
+---
+
+A Leaflet control to add a split screen to compare two map overlays.

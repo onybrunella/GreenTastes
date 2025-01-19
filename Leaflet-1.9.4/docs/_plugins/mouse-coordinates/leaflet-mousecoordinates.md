@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9c0241079c9dddf44358ef7154531b15822ddebe0be20afa5ca6c45970645072
-size 333
+---
+name: Leaflet.mouseCoordinates
+category: mouse-coordinates
+repo: https://github.com/PowerPan/leaflet.mouseCoordinate
+author: Johannes Rudolph
+author-url: https://github.com/PowerPan
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Displays the mouse coordinate in a box. Multiple formats are possible: GPS, UTM, UTMREF / MGRS, QTH

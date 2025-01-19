@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a0e585e471510df159c2c387f7f97ecccb46460d133775d213afac32b8bf5f86
-size 299
+---
+name: Leaflet.Radar
+category: overlay-animations
+repo: https://github.com/cygis2011/leaflet-radar
+author: cygis2011
+author-url: https://github.com/cygis2011
+demo: https://cygis2011.github.io/leaflet-radar/demo/index.html
+compatible-v0: false
+compatible-v1: true
+---
+
+Radar sector scan animation

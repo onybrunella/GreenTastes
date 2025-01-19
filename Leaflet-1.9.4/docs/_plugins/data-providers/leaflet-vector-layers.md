@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c17c3fd186a0b808be911f043b41551f5fec468a730a0688eaa5a8678158c032
-size 356
+---
+name: Leaflet Vector Layers
+category: data-providers
+repo: http://jasonsanford.github.io/leaflet-vector-layers/
+author: Jason Sanford
+author-url: http://geojason.info/
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Allows to easily create vector layers from a number of geo web services, such as ArcGIS Server, Arc2Earth, GeoIQ, CartoDB and GIS Cloud.

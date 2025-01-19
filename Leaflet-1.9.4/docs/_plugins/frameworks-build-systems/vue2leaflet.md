@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b43c6a6fe6a6e603ce4c56161b33a26a3c8e86fce57a776846111125b4b9d623
-size 472
+---
+name: Vue2Leaflet
+category: frameworks-build-systems
+repo: https://github.com/vue-leaflet/Vue2Leaflet
+author: Mickaël KoRiGaN
+author-url: https://github.com/KoRiGaN
+demo: https://vue2-leaflet.netlify.app/quickstart/
+compatible-v0:
+compatible-v1: true
+---
+
+<a href="https://github.com/vue-leaflet/Vue2Leaflet">Vue2Leaflet</a> is a JavaScript library for the <a href="https://vuejs.org/">Vue.js</a> framework that wraps Leaflet, making it easy to create reactive maps.

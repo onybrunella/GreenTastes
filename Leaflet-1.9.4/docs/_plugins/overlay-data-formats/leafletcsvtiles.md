@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4fdd292e1fbc0e1226b6fc374667b0c0800472af8e7c9783adb4eded7b697b9b
-size 413
+---
+name: Leaflet-CsvTiles
+category: overlay-data-formats
+repo: https://github.com/gherardovarando/leaflet-csvtiles
+author: Gherardo Varando
+author-url: https://github.com/gherardovarando
+demo: https://gherardovarando.github.io/leaflet-csvtiles/demo/index.html
+compatible-v0:
+compatible-v1: true
+---
+
+Load points from tiled csv files, using the amazing <a href="https://www.papaparse.com/">PapaParse</a> library.

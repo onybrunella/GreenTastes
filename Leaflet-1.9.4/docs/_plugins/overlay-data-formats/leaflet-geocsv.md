@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e475e468a51f5f83c6c0cbd4305a6fe112c112ae725b9ddaf555420e60e0ffd7
-size 268
+---
+name: Leaflet.geoCSV
+category: overlay-data-formats
+repo: https://github.com/joker-x/Leaflet.geoCSV
+author: Iván Eixarch
+author-url: https://github.com/joker-x
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Leaflet plugin for loading a CSV file as geoJSON layer.

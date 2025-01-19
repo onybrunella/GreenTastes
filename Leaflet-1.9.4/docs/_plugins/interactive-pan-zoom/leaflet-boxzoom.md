@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:70bc998fa5a126f42f77d6e00d6a2307b12726dc49a63b8b8075940275872fd7
-size 357
+---
+name: Leaflet.BoxZoom
+category: interactive-pan-zoom
+repo: https://github.com/gregallensworth/L.Control.BoxZoom
+author: Greg Allensworth
+author-url: https://github.com/gregallensworth/L.Control.BoxZoom
+demo: https://gregallensworth.github.io/L.Control.BoxZoom/
+compatible-v0:
+compatible-v1: true
+---
+
+A visible, clickable control to perform a box zoom.

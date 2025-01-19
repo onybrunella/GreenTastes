@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f5749b6d0b34e87d7af0a62d4a7f65e680618455fff438984f2fa581e3e410dc
-size 445
+<table><thead>
+	<tr>
+		<th>Function</th>
+		<th>Returns</th>
+		<th>Description</th>
+	</tr>
+	</thead><tbody>
+	{{#each documentables}}
+	<tr id='{{id}}'>
+		<td><code><b>{{name}}</b>(
+		{{~#each params~}}
+			{{#if type}}<nobr>&lt;{{{type type}}}&gt;</nobr> {{/if}}<i>{{name}}</i>
+			{{~#unless @last}}, {{/unless}}{{/each~}}
+		)</code></td>
+		<td><code>{{{type type}}}</code></td>
+		<td>{{{markdown comments}}}</td>
+	</tr>
+	{{/each}}
+</tbody></table>

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3edcdcf35afb0a7f8259bdbfecbaa32a5209163cac655ef115fa03fbf4c871b8
-size 434
+---
+name: Leaflet.OpenCage.Geosearch
+category: geocoding
+repo: https://github.com/OpenCageData/geosearch/tree/master/packages/leaflet-opencage-geosearch
+author: OpenCage
+author-url: https://github.com/opencagedata
+demo: https://opencagedata.com/tutorials/leaflet-location-search
+compatible-v0:
+compatible-v1: true
+---
+
+A plugin that uses <a href="https://opencagedata.com/geosearch">OpenCage's geosearch</a> for location autosuggest.

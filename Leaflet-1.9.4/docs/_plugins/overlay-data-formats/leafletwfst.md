@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:51c5cb502f5d5802e0bbdcfa9a3a7bbde3a8246dae7ba58cbcb66befb2ced87e
-size 299
+---
+name: Leaflet-WFST
+category: overlay-data-formats
+repo: https://github.com/Flexberry/Leaflet-WFST
+author: Flexberry
+author-url: https://github.com/Flexberry/
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+<a href="https://www.ogc.org/standards/wfs">WFS</a> client layer with transaction support

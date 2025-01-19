@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:963ce236c23777a3e15dfabe8447f44400ddedc26ab4d5d1292e5afb41f0676a
-size 318
+---
+name: L.LocationShare
+category: geolocation
+repo: https://github.com/CliffCloud/Leaflet.LocationShare
+author: atstp
+author-url: https://github.com/atstp
+demo: https://cliffcloud.github.io/Leaflet.LocationShare/
+compatible-v0: true
+compatible-v1: false
+---
+
+Allow users to send and receive a marker with a message.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:83f14d9df2798621c1f7f675445a0e02e17c8e6e05ed2f006c81037ec26c7361
-size 329
+---
+name: Leaflet.bezier
+category: markers-renderers
+repo: https://github.com/lifeeka/leaflet.bezier
+author: Supun Praneeth
+author-url: https://github.com/spmsupun
+demo: https://github.com/lifeeka/leaflet.bezier#demo
+compatible-v0:
+compatible-v1: true
+---
+
+Draws a Bézier line between two points with an animated flight object.

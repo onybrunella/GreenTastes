@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eed771fd6198c028ab03f33fc70fd473cc0087d562d0f1f751cc3e91013c5890
-size 339
+---
+name: required
+category: required (same name as directory)
+repo: required
+author: required
+author-url:
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Describe here your **plugin**, you can use *markdown* to format your text. Keep it short and check out the [plugin guide](https://github.com/Leaflet/Leaflet/blob/main/PLUGIN-GUIDE.md).

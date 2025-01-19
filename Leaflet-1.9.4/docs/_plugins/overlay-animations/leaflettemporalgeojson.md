@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2c4d0961484c5d39b3c04ab96ec3068c0d873f544b1e5ef4f49b45be7dcc1c68
-size 311
+---
+name: leaflet-temporal-geojson
+category: overlay-animations
+repo: https://github.com/onaci/leaflet-temporal-geojson
+author: danwild
+author-url: https://github.com/danwild
+demo: https://onaci.github.io/leaflet-temporal-geojson/
+compatible-v0:
+compatible-v1: true
+---
+
+Flexible animation of GeoJSON features.

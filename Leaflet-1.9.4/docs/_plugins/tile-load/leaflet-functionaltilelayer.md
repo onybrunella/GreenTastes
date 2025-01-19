@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:54de53eee9f71f6c78d52ee22f3463d4457c9c13eff1fd7891ea73de8370ca9b
-size 340
+---
+name: Leaflet.FunctionalTileLayer
+category: tile-load
+repo: https://github.com/ismyrnow/Leaflet.functionaltilelayer
+author: Ishmael Smyrnow
+author-url: https://github.com/ismyrnow
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Allows you to define tile layer URLs using a function. Even works with asynchronous sources, using promises.

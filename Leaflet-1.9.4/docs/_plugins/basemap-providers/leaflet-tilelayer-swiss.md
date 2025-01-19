@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fa764b5748287bab78adf9a61cf7d78e4db1e5d9178d1e3cd4d34c4c68736493
-size 342
+---
+name: Leaflet.TileLayer.Swiss
+category: basemap-providers
+repo: https://github.com/rkaravia/Leaflet.TileLayer.Swiss
+author: Roman Karavia
+author-url: https://github.com/rkaravia
+demo: https://leaflet-tilelayer-swiss.karavia.ch/
+compatible-v0:
+compatible-v1: true
+---
+
+Displays national maps of Switzerland using map tiles from Swisstopo.

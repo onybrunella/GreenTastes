@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:89e4a6293454ea7c7d3dc3f6725f02498cd3a029dde11abada48ce30d6ac7e5f
-size 421
+---
+name: Leaflet.PolylineDecorator
+category: markers-renderers
+repo: https://github.com/bbecquet/Leaflet.PolylineDecorator
+author: Benjamin Becquet
+author-url: https://github.com/bbecquet
+demo: https://bbecquet.github.io/Leaflet.PolylineDecorator/example/example.html
+compatible-v0:
+compatible-v1: true
+---
+
+Allows you to draw patterns (like dashes, arrows or evenly spaced Markers) along Polylines or coordinate paths.

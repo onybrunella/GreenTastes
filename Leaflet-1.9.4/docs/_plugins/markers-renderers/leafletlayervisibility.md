@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:20abb02223508e29a2800eccb9292863211f3133a6adaf1a4beb6de9b80cc4eb
-size 377
+---
+name: leaflet-layervisibility
+category: markers-renderers
+repo: https://github.com/phloose/leaflet-layervisibility
+author: Philipp Loose
+author-url: https://github.com/phloose/
+demo: https://phloose.github.io/leaflet-layervisibility/
+compatible-v0:
+compatible-v1: true
+---
+
+Extends L.Layer and L.LayerGroup with methods to hide/show layers without removing/re-adding them.

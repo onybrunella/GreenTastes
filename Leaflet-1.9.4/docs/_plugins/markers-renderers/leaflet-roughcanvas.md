@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6d5e08e87e49f0f55c200251e7d9899fdb954828ae363d59d25a7e29dee3b63e
-size 378
+---
+name: Leaflet.RoughCanvas
+category: markers-renderers
+repo: https://github.com/zhuang-hao-ming/Leaflet.RoughCanvas
+author: haoming
+author-url: https://github.com/zhuang-hao-ming/
+demo: https://zhuang-hao-ming.github.io/Leaflet.RoughCanvas/
+compatible-v0:
+compatible-v1: true
+---
+
+Leaflet.RoughCanvas renders hand-drawn, sketch style vector map (polyline, polygon, geojson).

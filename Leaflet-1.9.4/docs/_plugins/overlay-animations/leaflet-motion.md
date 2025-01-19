@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4b81a2c647598bbeb99e122e2b26c61fbbcc67b9477b6f21f59e82dd1fab0a9d
-size 333
+---
+name: leaflet.motion
+category: overlay-animations
+repo: https://github.com/Igor-Vladyka/leaflet.motion
+author: Igor Vladyka
+author-url: https://github.com/Igor-Vladyka/
+demo: https://igor-vladyka.github.io/leaflet.motion/
+compatible-v0:
+compatible-v1: true
+---
+
+Adds simple motion to your polyline with marker in a head on line.

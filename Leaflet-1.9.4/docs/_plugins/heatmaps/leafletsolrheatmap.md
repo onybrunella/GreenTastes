@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b657869a2bc8f8e06f18bdabb0c0d2076fafa8c1db47b353c44be2b31500a6bd
-size 418
+---
+name: Leaflet-Solr-Heatmap
+category: heatmaps
+repo: https://github.com/mejackreed/leaflet-solr-heatmap
+author: Jack Reed
+author-url: https://github.com/mejackreed
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+A Leaflet plugin for rendering heatmaps and clusters from <a href="https://solr.apache.org/guide/6_6/spatial-search.html">Solr's Heatmap Faceting</a>. High performance for millions of points or polygons.

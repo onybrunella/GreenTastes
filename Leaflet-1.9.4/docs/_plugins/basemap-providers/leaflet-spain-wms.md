@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2a90b728a23cd2a1e6f85dd40d9c400251ec8b9bc6bc3689533caf2d45ba5963
-size 362
+---
+name: Leaflet.Spain.WMS
+category: basemap-providers
+repo: https://github.com/sigdeletras/Leaflet.Spain.WMS
+author: Patricio Soriano
+author-url: https://github.com/sigdeletras
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Provides easy setup for several Web Map Services (WMS) layers for Spain (PNOA, IGN base, Catastro, etc), from Spanish mapping agencies.

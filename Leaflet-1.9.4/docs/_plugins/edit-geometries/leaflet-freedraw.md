@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fe4ec05415e28bb650f8a7fbd04082168c9f2977220a7b849a34c3d74ab1f551
-size 330
+---
+name: Leaflet.FreeDraw
+category: edit-geometries
+repo: https://github.com/Wildhoney/Leaflet.FreeDraw
+author: Wildhoney
+author-url: https://github.com/Wildhoney
+demo: https://github.com/Wildhoney/Leaflet.FreeDraw#readme
+compatible-v0:
+compatible-v1: true
+---
+
+Zoopla inspired freehand polygon creation using Leaflet.js and D3.

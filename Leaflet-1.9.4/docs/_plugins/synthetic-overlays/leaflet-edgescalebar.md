@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7e636e35b7cce202d528d4d5bf81a52349a97a97010d73c4df4a8763a17d49e0
-size 331
+---
+name: Leaflet.EdgeScaleBar
+category: synthetic-overlays
+repo: https://github.com/dtutic/Leaflet.EdgeScaleBar
+author: Dražen Tutić, Ana Kuveždić Divjak
+author-url: https://github.com/GEOF-OSGL
+demo:
+compatible-v0:
+compatible-v1: true
+---
+
+Creates scale bars along top and right edge of a map in the Web Mercator projection.

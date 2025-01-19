@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:323ef81b71f4f8a1bc40339d7b322adc94832c819893bf42eeb437620361035f
-size 368
+---
+name: Leaflet.EditInOSM
+category: 3rd-party-integration
+repo: https://github.com/yohanboniface/Leaflet.EditInOSM
+author: Yohan Boniface
+author-url: https://yohanboniface.me/
+demo: http://yohanboniface.github.io/Leaflet.EditInOSM/examples/basic.html
+compatible-v0:
+compatible-v1: true
+---
+
+Add a control with links to open the current map view on main OSM editors.

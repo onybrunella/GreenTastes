@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8cb31d7580ddb6d39d5ad195cec76a29e6300b1db4736a7de1353046a50551e8
-size 463
+---
+name: leaflet-blurred-location-display
+category: user-interface
+repo: https://github.com/publiclab/leaflet-blurred-location-display
+author: Public Lab
+author-url: https://github.com/publiclab
+demo: https://publiclab.github.io/leaflet-blurred-location-display/examples/HumanReadableBlurring.html
+compatible-v0:
+compatible-v1: true
+---
+
+Cleverly dispays "blurred" locations using color-coded heatmap and color-coded markers while fetching data from remote API.

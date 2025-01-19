@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4aba0aa24272538f4457af95f040fee283b99c61ec60cd3d26839c2dda316239
-size 354
+---
+name: Leaflet.Control.Appearance
+category: layer-switching-controls
+repo: https://github.com/Kanahiro/Leaflet.Control.Appearance
+author: Kanahiro Iguchi
+author-url: https://www.labo288.site/
+demo:
+compatible-v0:
+compatible-v1: true
+---
+
+Extend of Control.Layers, can control Appearances of Layers - color, opacity and able to remove a overlay layer.

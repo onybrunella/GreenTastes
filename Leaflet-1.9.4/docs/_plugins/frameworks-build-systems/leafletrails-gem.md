@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:efdb1da90366bd8a8540fda2146f6c3da63f74f796db204bd1c7b2f6f9a06f2e
-size 376
+---
+name: leaflet-rails gem
+category: frameworks-build-systems
+repo: https://github.com/axyjo/leaflet-rails
+author: Akshay Joshi
+author-url: https://github.com/axyjo
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+This gem provides the leaflet.js map display library for your Rails 5 application. <a href="https://rubygems.org/gems/leaflet-rails">leaflet-rails on RubyGems</a>

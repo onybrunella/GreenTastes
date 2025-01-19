@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:71b2516680514f53e30e3724808499c2593454ecc6b5c6f9f6266c548381ef39
-size 400
+---
+name: Leaflet GPX
+category: overlay-data-formats
+repo: https://github.com/mpetazzoni/leaflet-gpx
+author: Maxime Petazzoni
+author-url: https://github.com/mpetazzoni/
+demo: https://mpetazzoni.github.io/leaflet-gpx/
+compatible-v0:
+compatible-v1: true
+---
+
+GPX layer, targeted at sporting activities by providing access to information such as distance, moving time, pace, elevation, heart rate, etc.

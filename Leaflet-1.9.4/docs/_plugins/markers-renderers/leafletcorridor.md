@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b7fe2d5524d0b7cd7a9ad3030c188e0982294eb8ae3bf1fe4f5f289db5aa3c11
-size 372
+---
+name: leaflet-corridor
+category: markers-renderers
+repo: https://github.com/mikhailshilkov/leaflet-corridor
+author: Mikhail Shilkov
+author-url: https://github.com/mikhailshilkov
+demo: https://mikhail.io/demos/leaflet-corridor/
+compatible-v0:
+compatible-v1: true
+---
+
+Renders a polyline with width fixed in meters, not in pixels. Adjusts width depending on zoom level.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:28f3847f9dc042b2de78030cc0a4e0ecb8cdbbbb705ec984953c97416d026dd5
-size 419
+---
+name: Leaflet.Maidenhead
+category: synthetic-overlays
+repo: https://gitlab.com/IvanSanchez/leaflet.maidenhead
+author: Iván Sánchez Ortega
+author-url: https://github.com/IvanSanchez
+demo: https://ivansanchez.gitlab.io/leaflet.maidenhead/demo.html
+compatible-v0:
+compatible-v1: true
+---
+
+An implementation of the <a href="https://en.wikipedia.org/wiki/Maidenhead_Locator_System">Maidenhead Locator System grid</a>.

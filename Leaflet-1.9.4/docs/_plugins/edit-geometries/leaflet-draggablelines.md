@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:70c6b8c52bdb3a98cb72594aa733858f169d7ea618c66d404069e624620fe373
-size 348
+---
+name: Leaflet.DraggableLines
+category: edit-geometries
+repo: https://github.com/FacilMap/Leaflet.DraggableLines
+author: Candid Dauth
+author-url: https://github.com/cdauth/
+demo: https://unpkg.com/leaflet-draggable-lines/example.html
+compatible-v0:
+compatible-v1: true
+---
+
+Add/move/remove points on routes, lines and polygons by drag&amp;drop.

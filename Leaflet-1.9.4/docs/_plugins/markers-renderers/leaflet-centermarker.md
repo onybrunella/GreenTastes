@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ef67b3dc97993fd68dc7bec09fe9f6a94e9e1dcafd47195273030259428744e6
-size 391
+---
+name: Leaflet.CenterMarker
+category: markers-renderers
+repo: https://github.com/heyman/leaflet-centermarker
+author: Jonatan Heyman
+author-url: https://heyman.info/
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Marker that is kept fixed to the center of the map when the map is panned by dragging.			Can be seen in action on <a href="https://whatismyaddress.net/">What is my adress?</a>

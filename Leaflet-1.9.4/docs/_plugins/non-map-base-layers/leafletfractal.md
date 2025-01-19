@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:740ca8d86daee24c5c4cc9795f1569e747a6d130d33f9f7686f876838dc0b6f5
-size 343
+---
+name: leaflet-fractal
+category: non-map-base-layers
+repo: https://github.com/aparshin/leaflet-fractal
+author: Alexander Parshin
+author-url: https://github.com/aparshin
+demo: http://aparshin.github.io/leaflet-fractal/
+compatible-v0:
+compatible-v1: true
+---
+
+Renders some fractals (Mandelbrot set, Julia set and some others) using 2D canvas

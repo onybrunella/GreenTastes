@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:196498f997fad165f72c027a23b06de01f2bdd42c08d66b8e23afc16d7ea260d
-size 298
+---
+name: Leaflet.ZoomPanel
+category: interactive-pan-zoom
+repo: https://github.com/will4906/leaflet.zoompanel
+author: Shuhua Huang
+author-url: https://github.com/will4906/
+demo: https://will4906.github.io/leaflet-zoompanel/
+compatible-v0:
+compatible-v1: true
+---
+
+A Zoom Control Panel Of Leaflet.

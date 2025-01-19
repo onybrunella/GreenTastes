@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ab9474215849aa2f698a5cfdd5b5255d08b0ff4c377b4fa64d65e43e88fe613c
-size 393
+---
+name: Leaflet-Select-Polygons
+category: area-overlay-selection
+repo: https://github.com/olanaso/Leaflet-Select-Polygons
+author: Erick S Escalante Olano
+author-url: https://github.com/olanaso
+demo: https://olanaso.github.io/Leaflet-Select-Polygons/
+compatible-v0:
+compatible-v1: true
+---
+
+Leaflet-Select-Polygons allows the selection of several polygons and also adjusts the base map view.

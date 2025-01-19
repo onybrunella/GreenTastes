@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3334f87b75bcb7acc0b1d07d166cffdd61ef179d254466aa64e5c2cb756fba85
-size 333
+---
+name: Leaflet GeoJSON Encoded
+category: basemap-formats
+repo: https://github.com/geobricks/Leaflet.GeoJSON.Encoded
+author: Geobricks
+author-url: https://github.com/geobricks/
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Extends the L.GeoJSON layer using Google polyline encoding algorithm, allowing an optimized data transfer.

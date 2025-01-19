@@ -1,3 +1,27 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7e1223ae2856500eae8b176ac5438d3669ba73295d424ea5efd32154793d3c9c
-size 569
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Leaflet debug page</title>
+
+	<link rel="stylesheet" href="../../dist/leaflet.css" />
+
+	<link rel="stylesheet" href="../css/screen.css" />
+
+	<script src="../../dist/leaflet-src.js"></script>
+</head>
+<body>
+
+	<div id="map" style="width: 600px; height: 600px; border: 1px solid #ccc"></div>
+
+	<script>
+
+	var map = L.map('map').setView( [50, 50], 10);
+	var marker = L.marker([50, 50], {draggable: true}).addTo(map);
+
+	setTimeout(function() {
+		map.removeLayer(marker);
+	}, 3000);
+
+	</script>
+</body>
+</html>

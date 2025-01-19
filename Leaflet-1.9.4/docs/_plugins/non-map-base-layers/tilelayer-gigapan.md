@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e8416fe450e2f08316904f24049fb3e7fb689d5893cba6f9eecbe1814cddfd29
-size 245
+---
+name: TileLayer.Gigapan
+category: non-map-base-layers
+repo: https://github.com/namrehs/Leaflet.Gigapan
+author: Dan Sherman
+author-url: https://github.com/namrehs
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+A TileLayer for Gigapan images.

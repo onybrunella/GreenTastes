@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ad3db88ba2e28294880ca5235376781c6007690f25632aebd191c55f368d082d
-size 337
+---
+name: Map Block Leaflet
+category: 3rd-party-integration
+repo: https://wordpress.org/plugins/map-block-leaflet/
+author: Jesús Olazagoitia
+author-url: https://goiblas.com/
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+A Block for the New WordPress Block Editor based on Leaflet, it allow add and custom maps from a visual interface.

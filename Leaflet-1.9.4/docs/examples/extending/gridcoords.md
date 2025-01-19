@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e32fba58597212ba8946d024b4ba0389f569b8050e6b36e4787cf5bf7d34cc26
-size 720
+---
+layout: tutorial_frame
+title: Grid coordinates
+---
+<script type='text/javascript'>
+
+	var map = L.map('map', {
+		center: [0, 0],
+		zoom: 0
+	});
+
+	L.GridLayer.DebugCoords = L.GridLayer.extend({
+		createTile: function (coords, done) {
+			var tile = document.createElement('div');
+			tile.innerHTML = [coords.x, coords.y, coords.z].join(', ');
+			tile.style.outline = '1px solid red';
+
+			setTimeout(function () {
+				done(null, tile); // Syntax is 'done(error, tile)'
+			}, 500 + Math.random() * 1500);
+
+			return tile;
+		}
+	});
+	
+	L.gridLayer.debugCoords = function (opts) {
+		return new L.GridLayer.DebugCoords(opts);
+	};
+
+	var debugCoordsGrid = L.gridLayer.debugCoords();
+	map.addLayer(debugCoordsGrid);
+	
+</script>

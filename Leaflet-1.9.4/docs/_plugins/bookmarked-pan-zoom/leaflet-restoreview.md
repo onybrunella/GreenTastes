@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2224886ceef8e5428f10c967e2d93511f585e85b8e7cb1f6d5f4c356090aef9f
-size 331
+---
+name: Leaflet.RestoreView
+category: bookmarked-pan-zoom
+repo: https://github.com/makinacorpus/Leaflet.RestoreView
+author: Mathieu Leplatre
+author-url: https://github.com/leplatrem
+demo: https://makinacorpus.github.io/Leaflet.RestoreView/
+compatible-v0:
+compatible-v1: true
+---
+
+Stores and restores map view using localStorage.

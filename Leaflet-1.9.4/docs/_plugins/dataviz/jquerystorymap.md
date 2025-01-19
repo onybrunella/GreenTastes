@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:63f3d218af1efca56bf8a828f723e6e02b35c82551639c1079fecf52df08494b
-size 325
+---
+name: jquery-storymap
+category: dataviz
+repo: https://github.com/atlefren/storymap
+author: Atle Frenvik Sveen
+author-url: https://github.com/atlefren
+demo: http://atlefren.github.io/storymap/
+compatible-v0:
+compatible-v1: true
+---
+
+A jQuery plugin to display several map locations as the user scrolls through paragraphs.

@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c0b59d67ce063d841cc652a346c527e946a51f869f62d2fe45eceaab10174661
-size 199
+---
+layout: v2
+---
+
+<h2>Redirecting...</h2>
+<a href="{{ page.redirect_to }}">Click here if you are not redirected.</a>
+<script>
+location = '{{ page.redirect_to }}' + (location.hash || '');
+</script>

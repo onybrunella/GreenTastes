@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b83e4d59662f3f8f2ab5ab300f2e6bd71a05acb97b3f5d461ea5017072fcba8b
-size 387
+---
+name: L.Credits
+category: user-interface
+repo: https://github.com/GreenInfo-Network/Leaflet-Control-Credits
+author: Greg Allensworth
+author-url: https://github.com/gregallensworth/
+demo: https://greeninfo-network.github.io/Leaflet-Control-Credits/
+compatible-v0:
+compatible-v1: true
+---
+
+A simple, attractive, interactive control to put your logo and link in the corner of your map.

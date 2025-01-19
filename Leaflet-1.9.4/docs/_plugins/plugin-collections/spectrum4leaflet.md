@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0323fe73ef0063516a0b12d1c7e3d9cfc686270d2b672c452ea7c9d34fcfed06
-size 377
+---
+name: Spectrum4Leaflet
+category: plugin-collections
+repo: https://github.com/Estimap/Spectrum4Leaflet
+author: SVoyt
+author-url: https://github.com/SVoyt
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Tools for using Spectrum Spatial Server services with leaflet. This plugin supports: map service, tile service, feature service. It has layers, legend and feature controls.

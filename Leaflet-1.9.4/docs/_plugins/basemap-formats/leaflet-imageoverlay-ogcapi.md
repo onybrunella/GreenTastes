@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:93afb91c971927a8f723db1d2bb8a831514a24f799b64ae44490885fed4bc3d6
-size 414
+---
+name: Leaflet.ImageOverlay.OGCAPI
+category: basemap-formats
+repo: https://gitlab.com/IvanSanchez/leaflet.imageoverlay.ogcapi
+author: Iván Sánchez Ortega
+author-url: https://ivan.sanchezortega.es
+demo: https://ivansanchez.gitlab.io/leaflet.imageoverlay.ogcapi/demo.html
+compatible-v0: false
+compatible-v1: true
+---
+
+A client for the (untiled) [OGC API Maps](https://ogcapi.ogc.org/maps/) draft specification.

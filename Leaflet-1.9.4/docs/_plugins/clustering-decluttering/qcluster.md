@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ebaec55197ddb3e409c84a4e4fb07e151113128c4f87684d5447c3340c652c54
-size 321
+---
+name: q-cluster
+category: clustering-decluttering
+repo: https://github.com/spatialdev/q-cluster
+author: Nicholas Hallahan
+author-url: https://github.com/hallahan
+demo: http://spatialdev.github.io/q-cluster/demo/index.html
+compatible-v0:
+compatible-v1: true
+---
+
+Quick point clustering library with D3 categorization.

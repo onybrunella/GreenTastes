@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:59c22fbdae8b869c6e5414a0dbf01fba39890c720984fe5c49ea8d4c0edfcf23
-size 438
+---
+name: Leaflet.MousePosition.ts
+category: mouse-coordinates
+repo: https://github.com/YUUKIToriyama/Leaflet.MousePosition.ts
+author: Yuuki Toriyama
+author-url: https://github.com/YUUKIToriyama
+demo: https://yuukitoriyama.github.io/Leaflet.MousePosition.ts/
+compatible-v0:
+compatible-v1: true
+---
+
+A fully custmizable coordinate viewer written in TypeScript. You can change how this plugin looks by creating a custom component with JSX.

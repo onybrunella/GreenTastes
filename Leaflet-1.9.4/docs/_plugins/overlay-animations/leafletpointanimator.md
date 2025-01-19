@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dd45bed55f8ecbc1462c59acefc540bc445ad847e99e3bf036f86755deb983b2
-size 307
+---
+name: leaflet-point-animator
+category: overlay-animations
+repo: https://github.com/onaci/leaflet-point-animator
+author: danwild
+author-url: https://github.com/danwild
+demo: https://onaci.github.io/leaflet-point-animator/
+compatible-v0:
+compatible-v1: true
+---
+
+Animate a large number of GeoJSON points.

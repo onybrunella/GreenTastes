@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5d453ca1c24d7dc93c734a8c02d291e9b9263661811c80297fb09b51f59539c7
-size 275
+---
+name: Leaflet GeoSSE
+category: dynamic-custom-data-loading
+repo: https://github.com/ATran31/Leaflet-GeoSSE
+author: An Tran
+author-url: https://github.com/ATran31/
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Add realtime data to a Leaflet map using server sent events.

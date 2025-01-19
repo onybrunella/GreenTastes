@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4ce877c64f9cc5bd69e50fdc47a395745b06603823d163a5e6fd4b2fa625d981
-size 338
+---
+name: Leaflet.glify
+category: dataviz
+repo: https://github.com/robertleeplummerjr/Leaflet.glify
+author: robertleeplummerjr
+author-url: https://github.com/robertleeplummerjr
+demo: https://robertleeplummerjr.github.io/Leaflet.glify/
+compatible-v0:
+compatible-v1: true
+---
+
+Fast rendering for large (+100MB) GeoJSON datasets with WebGL.

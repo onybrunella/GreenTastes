@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f3599e78803171e7c82f1b12afd38dd95727d8a82f3af4b68c22a332cd0c9a98
-size 417
+---
+name: leaflet-geoserver-request
+category: frameworks-build-systems
+repo: https://github.com/iamtekson/leaflet-geoserver-request
+author: Iamtekson
+author-url: https://github.com/iamtekson
+demo: https://iamtekson.github.io/leaflet-geoserver-request/examples/maps.html
+compatible-v0:
+compatible-v1: true
+---
+
+Basic geoserver requests in leaflet. Currently supports wms, wfs, legend, wmsImage request on the leaflet.

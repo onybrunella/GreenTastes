@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8167745140195da3402716dd1a7727e590634e770b4a6a1224b29b6a047331d8
-size 315
+---
+name: Leaflet.Liveupdate
+category: dynamic-custom-data-loading
+repo: https://github.com/tinuzz/leaflet-liveupdate
+author: Martijn Grendelman
+author-url: https://github.com/tinuzz/
+demo: https://www.grendelman.net/leaflet/
+compatible-v0:
+compatible-v1: true
+---
+
+Periodically ('live') update something on a map.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4b3b2bbc2fb041c6a3a11b9bd982a6859165151c18eef1ec6fe724cda3569016
-size 383
+---
+name: Leaflet.UniformControl
+category: layer-switching-controls
+repo: https://github.com/chriscalip/L.UniformControl
+author: Chris Calip
+author-url: https://github.com/chriscalip
+demo: http://chriscalip.github.io/L.UniformControl/examples/layers-control-example-jeans.html
+compatible-v0:
+compatible-v1: true
+---
+
+Leaflet layer control with stylable checkboxes and radio buttons.

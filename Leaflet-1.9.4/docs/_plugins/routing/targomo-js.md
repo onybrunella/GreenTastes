@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e4f65aadd3277bdd138c3f774bc3a88b159151c49833f7bf86249cb63c8cd924
-size 456
+---
+name: Targomo JS
+category: routing
+repo: https://github.com/targomo/targomo-js
+author: Targomo GmbH
+author-url: https://www.targomo.com/
+demo: https://www.targomo.com/developers/documentation/javascript/code_example/
+compatible-v0:
+compatible-v1: true
+---
+
+Targomo visualizes the area which is reachable from a set of starting points in a given time and gives detailed routing information (walk, bike, car and <b>public transportation</b>) to targets.

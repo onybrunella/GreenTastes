@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8d4d9f7c348ee3f90aa0d0ce74bcbcdd9d71aab19855493e06742b9f7e7fb4a8
-size 405
+---
+name: Leaflet.ColorIcon
+category: markers-renderers
+repo: https://github.com/shevekk/Leaflet.ColorIcon
+author: Maxence Martin (shevek)
+author-url: https://github.com/shevekk
+demo: http://dataexplorer.hd.free.fr/Leaflet.ColorIcon/examples/basic/
+compatible-v0: false
+compatible-v1: true
+---
+
+Overwrite color of the icon with CSS filters and make it possible to add same icon-image in different colors.

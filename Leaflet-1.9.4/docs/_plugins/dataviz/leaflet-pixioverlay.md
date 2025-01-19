@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a9e458d0b19f683eeca732182b1bf318d3df52f5bf8edab83f058b4f46703099
-size 359
+---
+name: Leaflet.PixiOverlay
+category: dataviz
+repo: https://github.com/manubb/Leaflet.PixiOverlay
+author: Manuel Baclet
+author-url: https://github.com/manubb
+demo: https://manubb.github.io/Leaflet.PixiOverlay/demo.html
+compatible-v0:
+compatible-v1: true
+---
+
+A Leaflet overlay class for drawing and animating with <a href="https://pixijs.com/">Pixi.js</a>.

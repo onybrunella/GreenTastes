@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b75e38230fd6dc55b6bb37080157cbd0d668d00fd12531039fb0ec3d14e4a4ef
-size 355
+---
+name: Leaflet.Arc
+category: markers-renderers
+repo: https://github.com/MAD-GooZe/Leaflet.Arc
+author: Alexey Gusev
+author-url: https://github.com/MAD-GooZe
+demo: https://mad-gooze.github.io/Leaflet.Arc/
+compatible-v0:
+compatible-v1: true
+---
+
+This plugin adds L.Polyline.Arc function which wraps arc.js functionality for creation of Great Cirlce arcs.

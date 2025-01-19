@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:439cbf965e80947ea7524894b5d4c13c4b90fd88856c893ee3ebe89c9e212d05
-size 372
+---
+name: Leaflet.TileLayer.ColorFilter
+category: tile-image-display
+repo: https://github.com/xtk93x/Leaflet.TileLayer.ColorFilter
+author: Cláudio Kawakani
+author-url: https://github.com/xtk93x
+demo: https://xtk93x.github.io/Leaflet.TileLayer.ColorFilter/
+compatible-v0:
+compatible-v1: true
+---
+
+A simple and lightweight Leaflet plugin to apply CSS filters on map tiles.

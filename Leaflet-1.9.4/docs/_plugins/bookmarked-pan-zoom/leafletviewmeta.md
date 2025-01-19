@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:556bcf82677fa2a1e3289d9c279a51aa39012f8950d8c5e39ef613c4f6e238b0
-size 389
+---
+name: leaflet-view-meta
+category: bookmarked-pan-zoom
+repo: https://github.com/rwev/leaflet-view-meta
+author: rwev
+author-url: https://github.com/rwev
+demo: https://rwev.github.io/leaflet-view-meta/
+compatible-v0:
+compatible-v1: true
+---
+
+Plugin control that displays and persists map view meta-data, center and boundary coordinates to URL for precise sharing and view reconstruction.

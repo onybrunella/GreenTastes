@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:da99b37d674190754698946eebcbe5d1a5f2b9071ae6a2ac75d6f04f3794081d
-size 424
+---
+name: Leaflet.GeographPhotos
+category: data-providers
+repo: https://github.com/geograph-project/Leaflet.GeographPhotos
+author: Barry Hunter
+author-url: https://github.com/barryhunter/
+demo: https://www.geograph.org/leaflet/Leaflet.GeographPhotos/GeographPhotos-example.html
+compatible-v0:
+compatible-v1: true
+---
+
+Display Geographical-Photos from Geograph Britain and Ireland in an interactive overlay, using their API.

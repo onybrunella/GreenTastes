@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8a84eb277d21abebbb4b404915952c5816b57046034b685b26f3342a4f4cea91
-size 341
+---
+name: Leaflet-Wikipedia
+category: data-providers
+repo: https://github.com/MatthewBarker/leaflet-wikipedia
+author: Matthew Barker
+author-url: https://github.com/MatthewBarker
+demo: https://matthewbarker.github.io/leaflet-wikipedia/
+compatible-v0:
+compatible-v1: true
+---
+
+A leaflet plugin to display Wikipedia API entries on a map layer.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2b48d55da09c030ab2626a0b55d7f6868950cd55a90a8b9f8e15fb177309025a
-size 372
+---
+name: leaflet-ais-tracksymbol-search
+category: markers-renderers
+repo: https://github.com/PowerPan/leaflet-ais-tracksymbol-search
+author: Johannes Rudolph
+author-url: https://github.com/powerpan
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Adds a Search Box for your Leaflet Map and Your [leaflet-ais-trackymbol](https://github.com/PowerPan/leaflet-ais-tracksymbol)

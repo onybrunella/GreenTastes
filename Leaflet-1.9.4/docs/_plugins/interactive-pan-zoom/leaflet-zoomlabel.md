@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ca7a8a851f7d1b55c75f8ab51cef398916d3da8897bef77fd40885ffd5eb1540
-size 288
+---
+name: Leaflet.ZoomLabel
+category: interactive-pan-zoom
+repo: https://github.com/unbam/Leaflet.ZoomLabel
+author: Masashi Takeshita
+author-url: https://github.com/unbam
+demo: http://unbam.github.io/Leaflet.ZoomLabel/
+compatible-v0:
+compatible-v1: true
+---
+
+A simple zoom label control.

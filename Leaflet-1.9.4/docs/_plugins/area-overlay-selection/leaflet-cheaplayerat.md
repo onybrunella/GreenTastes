@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:61489d65e9296a429384bdae3e79290a562905eb753afd6c3f82fc5d0333c20b
-size 359
+---
+name: Leaflet.CheapLayerAt
+category: area-overlay-selection
+repo: https://github.com/IvanSanchez/Leaflet.CheapLayerAt
+author: Iván Sánchez Ortega
+author-url: https://github.com/IvanSanchez
+demo: http://ivansanchez.github.io/Leaflet.CheapLayerAt/demo.html
+compatible-v0:
+compatible-v1: true
+---
+
+Allows querying which layer is under a screen coordinate.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3e21ffd50937dde3032e71397ebd59f15dcd2012e603ab662074a0e886eb4e9e
-size 277
+---
+name: L.OS.Graticule
+category: synthetic-overlays
+repo: https://github.com/jonshutt/Leaflet.OS.Graticule
+author: Jon Shutt
+author-url: https://github.com/jonshutt
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Overlays UK Ordinance Survey (OS) 1km grid squares and labels.

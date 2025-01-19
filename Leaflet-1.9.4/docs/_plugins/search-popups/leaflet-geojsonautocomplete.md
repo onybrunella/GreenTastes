@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f13dbde9c1088d2071f9b1bf9873853513a0b8688b9756282e079cdc8bb17465
-size 358
+---
+name: Leaflet.GeoJSONAutocomplete
+category: search-popups
+repo: https://github.com/utahemre/Leaflet.GeoJSONAutocomplete
+author: Yunus Emre Özkaya
+author-url: https://github.com/utahemre
+demo: https://utahemre.github.io/geojsonautocompletedemo.html
+compatible-v0:
+compatible-v1: true
+---
+
+Leaflet Autocomplete For Remote Searching with GeoJSON Services.

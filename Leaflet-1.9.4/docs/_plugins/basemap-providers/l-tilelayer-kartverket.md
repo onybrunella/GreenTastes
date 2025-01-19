@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9fda4b136389d09eb69f1863bdab92b520081f1f7904941f8c5ebe1df9026cc4
-size 374
+---
+name: L.TileLayer.Kartverket
+category: basemap-providers
+repo: https://github.com/knreise/L.TileLayer.Kartverket
+author: Kultur og naturreise
+author-url: https://github.com/knreise
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Provides easy setup of the tile layers from <a href="https://kartverket.no/standardisering/">Kartverket</a> (The Norwegian Mapping Authority)

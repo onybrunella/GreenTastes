@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0ce9ccbd261e0df1ad1021d5d9a8b55af66414f6c21a5072a9430854a6bdd680
-size 292
+---
+name: Leaflet.NACCoordinates
+category: mouse-coordinates
+repo: https://github.com/mahmoodvcs/Leaflet.NACCoordinates
+author: Mahmood Dehghan
+author-url: https://github.com/mahmoodvcs
+demo:
+compatible-v0:
+compatible-v1: true
+---
+
+Displays NAC coordinate of the mouse pointer on mouse move.

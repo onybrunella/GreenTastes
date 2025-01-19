@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e2dfc69e9db0765ba805954ddc14529bc3f838dd4f31b9c108c987611f9eeb85
-size 454
+---
+name: Leaflet.Antimeridian
+category: geoprocessing
+repo: https://github.com/briannaAndCo/Leaflet.Antimeridian
+author: Brianna Landon
+author-url: https://github.com/briannaAndCo
+demo: https://briannaandco.github.io/Leaflet.Antimeridian/
+compatible-v0:
+compatible-v1: true
+---
+
+A plugin to allow polygons and polylines to naturally draw across the Antimeridian (or the International Date Line) instead of always wrapping across the Greenwich meridian.

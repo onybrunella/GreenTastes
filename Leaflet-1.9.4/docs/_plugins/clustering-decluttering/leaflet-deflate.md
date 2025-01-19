@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:79241f1be5cfd4dd75969638c239c9c78a0cfb258f8d21a6ca0e8e26ff1c7a68
-size 327
+---
+name: Leaflet.Deflate
+category: clustering-decluttering
+repo: https://github.com/oliverroick/Leaflet.Deflate
+author: Oliver Roick
+author-url: https://github.com/oliverroick
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Deflates lines and polygons to a marker when their screen size becomes too small in lower zoom levels.

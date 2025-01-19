@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f2c520b4662d82b23cf6f3593ee48761f87883bc8eb353382e604667c0cd656a
-size 259
+---
+name: L.Sleep
+category: events
+repo: https://github.com/CliffCloud/Leaflet.Sleep
+author: atstp
+author-url: https://github.com/atstp
+demo: https://cliffcloud.github.io/Leaflet.Sleep/
+compatible-v0:
+compatible-v1: true
+---
+
+Avoid unwanted scroll capturing.

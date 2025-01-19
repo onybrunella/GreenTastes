@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:452f35f489577f7ac05b5be968611106fad0ebec0aa4adaf600903f3153ab94d
-size 312
+---
+name: Leaflet.TextPath
+category: markers-renderers
+repo: https://github.com/makinacorpus/Leaflet.TextPath
+author: Mathieu Leplatre
+author-url: https://github.com/leplatrem
+demo: https://makinacorpus.github.io/Leaflet.TextPath/
+compatible-v0:
+compatible-v1: true
+---
+
+Allows you to draw text along Polylines.

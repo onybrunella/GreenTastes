@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f7875b4670403b7fbdcf1775f4678010cb8f01108146254034f587233da56cff
-size 469
+---
+name: Leaflet-Craft
+category: edit-geometries
+repo: https://github.com/sagarpreet-chadha/Leaflet-Craft
+author: Sagarpreet Chadha
+author-url: https://github.com/sagarpreet-chadha
+demo: https://sagarpreet-chadha.github.io/Leaflet-Craft/example/index
+compatible-v0:
+compatible-v1: true
+---
+
+Extends Leaflet.FreeDraw and gives extended features like Undo-Redo, deleting markers,dynamic area calculation of polygons ,various hooks/events and in-build control bars, etc.

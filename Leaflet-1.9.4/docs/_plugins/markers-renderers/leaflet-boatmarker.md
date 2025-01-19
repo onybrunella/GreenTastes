@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9c9e662ce401a2715ea641aebed77c1300e2eca82094a28c947a0929bfd45da0
-size 408
+---
+name: Leaflet.BoatMarker
+category: markers-renderers
+repo: https://github.com/thomasbrueggemann/leaflet.boatmarker
+author: Thomas Brüggemann
+author-url: https://github.com/thomasbrueggemann
+demo: http://thomasbrueggemann.github.io/leaflet.boatmarker/
+compatible-v0:
+compatible-v1: true
+---
+
+A boat marker using HTML Canvas for displaying yachts and sailboats with heading and optional wind information.

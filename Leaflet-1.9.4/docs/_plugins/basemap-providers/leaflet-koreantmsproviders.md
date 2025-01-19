@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:db23f367330859411624ec0e53c85d058f495fecb6152434ed4d455a24f3a3ab
-size 327
+---
+name: Leaflet.KoreanTmsProviders
+category: basemap-providers
+repo: https://github.com/tontita/Leaflet.KoreanTmsProviders
+author: Seong Choi
+author-url: https://github.com/tontita/
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Contains configurations for various (South) Korean tile providers — Daum, Naver, VWorld, etc.

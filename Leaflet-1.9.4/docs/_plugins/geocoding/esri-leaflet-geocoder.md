@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:de95c4517cbd37481ad8dff831e2d7ce4a7a00d103f53b9326fd69efe8c43a3b
-size 337
+---
+name: Esri Leaflet Geocoder
+category: geocoding
+repo: https://github.com/Esri/esri-leaflet-geocoder
+author: Patrick Arlt
+author-url: https://github.com/patrickarlt/
+demo: https://esri.github.io/esri-leaflet/examples/
+compatible-v0:
+compatible-v1: true
+---
+
+A geocoding control with suggestions powered by the ArcGIS Online geocoder.

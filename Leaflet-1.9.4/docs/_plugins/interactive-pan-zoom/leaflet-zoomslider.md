@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:67b0f953bf3b00586f7ad86311ea62736ba5ad3399b7fc6318ba2cb2b3667efb
-size 289
+---
+name: Leaflet.zoomslider
+category: interactive-pan-zoom
+repo: https://github.com/kartena/Leaflet.zoomslider/
+author: Kartena
+author-url: http://www.kartena.se/index.html
+demo: https://kartena.github.io/Leaflet.zoomslider/
+compatible-v0:
+compatible-v1: true
+---
+
+A zoom slider control.

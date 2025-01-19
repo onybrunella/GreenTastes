@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:38f8be5702892fbaf324bcda15272c0c6dee578c304026b73007c1b72ebe80ba
-size 294
+---
+name: OSM Buildings
+category: markers-renderers
+repo: https://osmbuildings.org/
+author: Jan Marsch
+author-url: https://github.com/kekscom/
+demo: https://osmbuildings.org/
+compatible-v0:
+compatible-v1: true
+---
+
+Amazing JS library for visualizing 3D OSM building geometry on top of Leaflet.

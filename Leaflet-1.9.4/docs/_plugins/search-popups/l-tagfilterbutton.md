@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a14c1480993be66b3cb3f9d1c98b71768a9c8f0eca42853729e3d7fc667e2be9
-size 311
+---
+name: L.tagFilterButton
+category: search-popups
+repo: https://github.com/maydemirx/leaflet-tag-filter-button
+author: Mehmet Aydemir
+author-url: https://github.com/maydemirx
+demo: https://maydemirx.github.io/leaflet-tag-filter-button/
+compatible-v0:
+compatible-v1: true
+---
+
+LeafLet marker filtering by tags

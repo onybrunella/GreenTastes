@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:88dcd104eb92a3c07e8aca371a32aaf9b118da336cff1695bfca35833738432d
-size 377
+---
+name: Leaflet-search
+category: geocoding
+repo: https://github.com/sjaakp/leaflet-search
+author: Sjaak Priester
+author-url: https://github.com/sjaakp
+demo: https://sjaakpriester.nl/software/leaflet-search
+compatible-v0:
+compatible-v1: true
+---
+
+A Search Control with autocomplete/suggest capabilities. Supports Nominatim, GeoNames, Here, TomTom, and Kadaster (Netherlands).

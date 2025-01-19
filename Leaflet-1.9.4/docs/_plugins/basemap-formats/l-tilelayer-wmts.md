@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f206c42a5824fe639cb6285adf3f687413e76a1eaaea862fe099a0c280ad158a
-size 313
+---
+name: L.TileLayer.WMTS
+category: basemap-formats
+repo: https://github.com/alcalin/L.TileLayer.WMTS
+author: Alexandru Calin
+author-url: https://github.com/alcalin
+demo: https://alcalin.github.io/L.TileLayer.WMTS/example.html
+compatible-v0:
+compatible-v1: true
+---
+
+A simple WMTS Tile Layer plugin for Leaflet.

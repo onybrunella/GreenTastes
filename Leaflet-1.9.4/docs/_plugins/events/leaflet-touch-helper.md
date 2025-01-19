@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6c3d5c586e810464ab6261337bf8b23af83f8f423a7b0bc71f2da00764e01884
-size 382
+---
+name: Leaflet Touch Helper
+category: events
+repo: https://github.com/perliedman/leaflet-touch-helper
+author: Per Liedman
+author-url: https://github.com/perliedman
+demo: https://www.liedman.net/leaflet-touch-helper/
+compatible-v0:
+compatible-v1: true
+---
+
+Makes it easy to touch vector overlays with thick fingers on a small display by adding a transparent, larger touch surface

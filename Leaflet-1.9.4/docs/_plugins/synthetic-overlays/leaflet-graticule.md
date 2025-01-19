@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f9ffeda9987743b4886c3765452620ed43a81f393a0f9b544e55e3bb3b7b6744
-size 261
+---
+name: Leaflet.Graticule
+category: synthetic-overlays
+repo: https://github.com/turban/Leaflet.Graticule
+author: Bjørn Sandvik
+author-url: https://github.com/turban
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Draws a grid of latitude and longitude lines.

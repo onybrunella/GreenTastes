@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cafffb279c82857f3d438f2f450f8694692d01714cbdb3d3f16c3eedfea2a331
-size 283
+---
+name: Windy-Leaflet-plugin
+category: data-providers
+repo: https://github.com/windycom/API
+author: Windy.com
+author-url: https://www.windy.com/
+demo: https://www.windy.com/
+compatible-v0:
+compatible-v1: true
+---
+
+Displays animated weather map on your page using Windy's free API.

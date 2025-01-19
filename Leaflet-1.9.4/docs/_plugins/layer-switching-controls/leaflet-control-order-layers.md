@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f06cdd2d821a7ce837d10394e7baa801bb670c93cc783f429f77589e47c9f9d6
-size 311
+---
+name: Leaflet Control Order Layers
+category: layer-switching-controls
+repo: http://elesdoar.github.io/leaflet-control-orderlayers/
+author: Michael Salgado
+author-url: https://github.com/elesdoar/
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Adds the ability to change overlay order in the layers control.

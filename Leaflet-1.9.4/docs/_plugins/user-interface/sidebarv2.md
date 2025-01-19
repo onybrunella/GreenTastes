@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f5a5ebaad97154b41a539fdc8f4e16409b2a14b1e76e4bab46c07a9e51bf2e9c
-size 313
+---
+name: sidebar-v2
+category: user-interface
+repo: https://github.com/turbo87/sidebar-v2/
+author: Tobias Bieniek
+author-url: https://github.com/turbo87/
+demo: https://turbo87.github.io/sidebar-v2/examples/index.html
+compatible-v0:
+compatible-v1: true
+---
+
+Another responsive sidebar plugin. This time with tabs!

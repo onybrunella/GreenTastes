@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cf98e5f91f360dc1a43c4b8cc5f3b295e99e5d4881d7f646abe95bb649aaa960
-size 322
+---
+root: "../../../"
+layout: v2
+post: true
+bodyclass: post-page
+---
+
+<p><a href="../../../blog.html">&larr; Back to the list of blog posts</a></p>
+
+<h2>{{ page.title }}</h2>
+
+<p class="post-meta">Posted on {{ page.date | date_to_long_string }} by <a href="{{ page.authorsite }}">{{ page.author }}</a></p>
+
+{{ content }}
+

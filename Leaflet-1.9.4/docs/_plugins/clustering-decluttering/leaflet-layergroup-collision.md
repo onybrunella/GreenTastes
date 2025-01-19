@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fee26d50533d3ab144a76e745f64894a5532679a5b3056480a0d24f45c2c57e3
-size 455
+---
+name: Leaflet.LayerGroup.Collision
+category: clustering-decluttering
+repo: https://github.com/MazeMap/Leaflet.LayerGroup.Collision
+author: Iván Sánchez Ortega
+author-url: https://github.com/IvanSanchez
+demo: http://mazemap.github.io/Leaflet.LayerGroup.Collision/demo/demo.html
+compatible-v0:
+compatible-v1: true
+---
+
+Provides collision detection for groups of markers. Unlike clustering, this takes into account the shape &amp; size of the markers.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:387457ca60b6f5b44455de43bc8e875fb1ce45eb749d463b2f3a6f4f7fe1a02b
-size 352
+---
+name: Leaflet.AutoLayers
+category: layer-switching-controls
+repo: https://github.com/aebadirad/Leaflet.AutoLayers
+author: Alex Ebadirad
+author-url: https://github.com/aebadirad
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Automatically pull layers from multiple mapservers and organize/search them with user controlled overlay zIndex management.

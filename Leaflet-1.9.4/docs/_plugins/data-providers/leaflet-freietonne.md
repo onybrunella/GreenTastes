@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f770944635771810f594e764a668b2bc3913d0b6afff45743df054c10e227a94
-size 355
+---
+name: Leaflet.FreieTonne
+category: data-providers
+repo: https://github.com/facilmap/Leaflet.FreieTonne
+author: Candid Dauth
+author-url: https://github.com/cdauth
+demo: https://unpkg.com/leaflet-freie-tonne/example.html
+compatible-v0:
+compatible-v1: true
+---
+
+An overlay with nautical features from <a href="https://www.freietonne.de/">FreieTonne</a>.

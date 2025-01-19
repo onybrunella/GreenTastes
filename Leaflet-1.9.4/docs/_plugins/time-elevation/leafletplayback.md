@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:80e93780877c5710370a6ef1bb1b54e57d1be13ea76ebd1745f803f21b4edc9d
-size 301
+---
+name: LeafletPlayback
+category: time-elevation
+repo: https://github.com/hallahan/LeafletPlayback
+author: Nicholas Hallahan
+author-url: http://theoutpost.io/
+demo: http://virtualfence.theoutpost.io/
+compatible-v0:
+compatible-v1: true
+---
+
+Play back time-stamped GPS Tracks synchronized to a clock.

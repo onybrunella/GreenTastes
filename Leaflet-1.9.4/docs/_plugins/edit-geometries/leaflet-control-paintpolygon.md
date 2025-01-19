@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4cb7891e8019fc2fdeff27420a969f90190ad300c7e1a9d48e25e34f5fd60c97
-size 313
+---
+name: L.Control.PaintPolygon
+category: edit-geometries
+repo: https://github.com/tcoupin/leaflet-paintpolygon
+author: Thibault Coupin
+author-url: https://github.com/tcoupin
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Draw yours polygons with a circle brush like Paint[brush]. Includes turf.js dependencies.

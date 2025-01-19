@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:51757c55e879c10adba494e6fffbc0417998e7989681ea57b53f0bacd73122c6
-size 349
+---
+name: Leaflet.CoordinatedImagePreview
+category: user-interface
+repo: https://github.com/utahemre/Leaflet.CoordinatedImagePreview
+author: Yunus Emre Özkaya
+author-url: https://github.com/utahemre
+demo: https://utahemre.github.io/coordinatedimagepreviewdemo.html
+compatible-v0:
+compatible-v1: true
+---
+
+Displays coordinated images in map bounds.

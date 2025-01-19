@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:715fa5e59348c96c5a425de8372f3ba05c4fa17d1954a18d1c8b722263f1229a
-size 428
+---
+name: Leaflet.BeautifyMarkers
+category: markers-renderers
+repo: https://github.com/masajid390/BeautifyMarker
+author: Muhammad Arslan Sajid
+author-url: https://github.com/masajid390
+demo: https://masajid390.github.io/BeautifyMarker/
+compatible-v0:
+compatible-v1: true
+---
+
+Lightweight plugin that adds colorful iconic markers without image and gives full control of style to end user (i.e. Unlimited colors and CSS styling).

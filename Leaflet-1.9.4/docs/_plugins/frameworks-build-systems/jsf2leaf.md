@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b60ff2eaa2f126cec1c0261cb083f31e72279a2fbc2d0239b24131e44469cff3
-size 251
+---
+name: JSF2Leaf
+category: frameworks-build-systems
+repo: https://github.com/themrleon/JSF2Leaf
+author: Leonardo Ciocari
+author-url: https://github.com/themrleon
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+A JavaServer Faces wrapper for Leaflet.

@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:664b8dc531908306b73146213f01ed5efc385154e04ad26eb4cbd29c7d15a201
-size 406
+---
+name: Leaflet.utfgrid
+category: search-popups
+repo: https://github.com/danzel/Leaflet.utfgrid
+author: Dave Leaver
+author-url: https://github.com/danzel
+demo: 
+compatible-v0: false
+compatible-v1: true
+---
+
+Provides a utfgrid interaction handler for leaflet a very small footprint.
+support for Leaflet &gt;= 1.0.  Includes basic mouseover support plus ability to highlight feature from UTFGrid on hover.

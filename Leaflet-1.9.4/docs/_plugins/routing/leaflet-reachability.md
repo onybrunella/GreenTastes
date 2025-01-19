@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:af414202f488581cb92f2ef2aa442378b041d8a8ea75fbc108002fb788d63da5
-size 500
+---
+name: Leaflet.Reachability
+category: routing
+repo: https://github.com/traffordDataLab/leaflet.reachability
+author: Trafford Data Lab
+author-url: https://github.com/traffordDataLab
+demo: https://www.trafforddatalab.io/leaflet.reachability/leaflet.reachability_example.html
+compatible-v0:
+compatible-v1: true
+---
+
+Show areas of reachability based on time or distance for different modes of travel using the <a href="https://openrouteservice.org/dev/#/api-docs">openrouteservice isochrones API</a>.

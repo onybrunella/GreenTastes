@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ce50e1f9b91e83cd4db436f41bc4ad1e848ec125064a2e156918f9135aae5ceb
-size 296
+---
+name: MaskCanvas
+category: heatmaps
+repo: https://github.com/domoritz/leaflet-maskcanvas
+author: Dominik Moritz
+author-url: https://github.com/domoritz
+demo: https://domoritz.github.io/vbb-coverage/
+compatible-v0:
+compatible-v1: true
+---
+
+Canvas layer that can be used to visualize coverage.

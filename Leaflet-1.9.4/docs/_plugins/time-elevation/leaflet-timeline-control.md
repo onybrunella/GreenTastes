@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2da9be91873d01a606f37392c49d8692f474f1f350b4657b2ee1dacd1b349e0a
-size 357
+---
+name: Leaflet Timeline Control
+category: time-elevation
+repo: https://github.com/zimmicz/Leaflet-Timeline-Control
+author: Michal Zimmermann
+author-url: https://github.com/zimmicz
+demo: https://codesandbox.io/s/leaflet-timeline-control-ibyby
+compatible-v0:
+compatible-v1: true
+---
+
+Unopinionated timeline control that helps you display time series data.

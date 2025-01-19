@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6092e2c1caf7cf5a38d846bb4d51b0909e0db4344aa594b9351eefdc2307c573
-size 339
+---
+name: Leaflet-Area-Selection
+category: area-overlay-selection
+repo: https://github.com/bopen/leaflet-area-selection
+author: B-Open
+author-url: https://www.bopen.eu/
+demo: https://bopen.github.io/leaflet-area-selection/
+compatible-v0:
+compatible-v1: true
+---
+
+leaflet-area-selection allows to easily select a polygonal area on the map.

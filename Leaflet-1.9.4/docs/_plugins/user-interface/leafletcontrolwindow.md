@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6a58b11b48ce7fe054b805f08fc9caa86891a26e23122d580b4c5217d559cf9f
-size 359
+---
+name: leaflet-control-window
+category: user-interface
+repo: https://github.com/mapshakers/leaflet-control-window
+author: mapshakers
+author-url: https://github.com/mapshakers
+demo: http://mapshakers.com/projects/leaflet-control-window/
+compatible-v0:
+compatible-v1: true
+---
+
+Creates modal/modeless, draggable, responsive, customisable window in your map.

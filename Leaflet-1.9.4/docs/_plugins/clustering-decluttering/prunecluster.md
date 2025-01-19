@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dd16175207a292a180ea17f7f4dd21369da6d417f9d173cca592236b6815f481
-size 340
+---
+name: PruneCluster
+category: clustering-decluttering
+repo: https://github.com/SINTEF-9012/PruneCluster
+author: Antoine Pultier
+author-url: https://github.com/yellowiscool
+demo: http://sintef-9012.github.io/PruneCluster/examples/random.10000-size.html
+compatible-v0:
+compatible-v1: true
+---
+
+Fast and realtime marker clustering library.

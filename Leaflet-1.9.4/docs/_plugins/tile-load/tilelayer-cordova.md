@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a00676259d4dc671e633319841438b8c8c6372db4f9f3df5064852591b0119d5
-size 347
+---
+name: TileLayer.Cordova
+category: tile-load
+repo: https://github.com/gregallensworth/L.TileLayer.Cordova
+author: Greg Allensworth
+author-url: https://github.com/gregallensworth
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+For use with Cordova/Phonegap, adds tile caching onto local device storage, switching between offline and online mode.

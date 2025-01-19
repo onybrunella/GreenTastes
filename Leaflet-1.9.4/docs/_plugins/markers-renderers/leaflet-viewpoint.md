@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:26e2bb437f4b3c6d142ad91cfaa8b5dba1bde583498386538c47747cb7ffe777
-size 364
+---
+name: Leaflet.Viewpoint
+category: markers-renderers
+repo: https://github.com/ggolikov/Leaflet.Viewpoint
+author: Grigory Golikov
+author-url: https://github.com/ggolikov
+demo: https://ggolikov.github.io/Leaflet.Viewpoint/example/
+compatible-v0:
+compatible-v1: true
+---
+
+Displays circleMarker with multiple directions.	Useful to show photos taken from one point.

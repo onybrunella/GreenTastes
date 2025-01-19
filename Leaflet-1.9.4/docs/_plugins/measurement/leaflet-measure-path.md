@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1af2a23bd08c14c25c0c6483f531b598c89557b1ab789f18b125403acc001b40
-size 350
+---
+name: Leaflet Measure Path
+category: measurement
+repo: https://github.com/ProminentEdge/leaflet-measure-path
+author: Per Liedman
+author-url: https://github.com/perliedman
+demo: https://prominentedge.com/leaflet-measure-path/
+compatible-v0:
+compatible-v1: true
+---
+
+Show measurements on paths; polylines, polygons and circles currently supported.

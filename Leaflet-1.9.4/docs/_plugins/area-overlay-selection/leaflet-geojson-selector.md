@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ca56b23b7637915166aabab7dade4e8d0e919b061eced3e529e675690e380c2a
-size 370
+---
+name: Leaflet GeoJSON Selector
+category: area-overlay-selection
+repo: https://github.com/stefanocudini/leaflet-geojson-selector
+author: Stefano Cudini
+author-url: https://opengeo.tech/
+demo: https://opengeo.tech/maps/leaflet-geojson-selector/
+compatible-v0:
+compatible-v1: true
+---
+
+Leaflet Control for selection from GeoJSON feature in an interactive list and map.

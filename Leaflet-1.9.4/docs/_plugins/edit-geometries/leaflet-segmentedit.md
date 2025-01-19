@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e1780863223d18ebba15ce742c71c80405d53d23621a940c67187c1a1016ffa5
-size 354
+---
+name: Leaflet.SegmentEdit
+category: edit-geometries
+repo: https://github.com/Lemaf/leaflet-polyline-segment-edit
+author: Lemaf
+author-url: https://github.com/Lemaf
+demo: https://lemaf.github.io/leaflet-polyline-segment-edit/
+compatible-v0:
+compatible-v1: true
+---
+
+An extension to Leaflet.draw to allow editing large polylines one chunk at the time.

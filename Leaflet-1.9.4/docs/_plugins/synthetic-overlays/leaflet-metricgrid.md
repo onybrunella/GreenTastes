@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:31bbaa53a9da110a8de8d6211b910a8c31bfd219b2a876afd88ecc03b4e0ffee
-size 329
+---
+name: Leaflet.MetricGrid
+category: synthetic-overlays
+repo: https://github.com/bill-chadwick/Leaflet.MetricGrid
+author: Bill Chadwick
+author-url: https://github.com/bill-chadwick
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+A general purpose Metric Grid overlay for Leaflet with ready defined UTM, British and Irish Grids.

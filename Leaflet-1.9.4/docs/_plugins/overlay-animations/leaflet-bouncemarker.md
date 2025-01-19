@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:33ffd2c7612ff90f5ded6fff546e761796b11ab1aa3b924d56bcbea35d3b7149
-size 320
+---
+name: Leaflet.BounceMarker
+category: overlay-animations
+repo: https://github.com/maximeh/leaflet.bouncemarker
+author: Maxime Hadjinlian
+author-url: https://github.com/maximeh
+demo: https://maximeh.github.io/leaflet.bouncemarker/
+compatible-v0:
+compatible-v1: true
+---
+
+Make a marker bounce when you add it to a map.

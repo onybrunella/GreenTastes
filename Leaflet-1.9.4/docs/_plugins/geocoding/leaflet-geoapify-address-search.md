@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2d88d9b08330d30c762678ffdfbde43137a9f23b500c0ed2a7d669cd1f2bcb9a
-size 394
+---
+name: Leaflet Geoapify Address Search
+category: geocoding
+repo: https://github.com/geoapify/leaflet-address-search-plugin
+author: Geoapify
+author-url: https://github.com/geoapify
+demo: https://geoapify.github.io/leaflet-address-search-plugin/
+compatible-v0:
+compatible-v1: true
+---
+Adds an Address Autocomplete field to the map, powered by <a href="https://www.geoapify.com/">Geoapify</a>.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0034464017529d9f948d1e5a245832f16d1d48f1b383fc63f1dc2f9d5eb691db
-size 418
+---
+name: Pelias Leaflet Plugin
+category: geocoding
+repo: https://github.com/pelias/leaflet-plugin
+author: Lou Huang
+author-url: https://github.com/louh
+demo: https://pelias.github.io/leaflet-plugin/
+compatible-v0:
+compatible-v1: true
+---
+
+A geocoding control using <a href="https://geocode.earth">Geocode Earth</a> or any hosted service powered by the <a href="https://github.com/pelias/api">Pelias Geocoder API</a>.

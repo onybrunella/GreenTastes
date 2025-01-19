@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0ab122390a1c4b3768ef2b67b56c18dbe8c5568efc48a76fb3d91fc3a4439499
-size 308
+---
+name: Leaflet Categorized Layers
+category: layer-switching-controls
+repo: https://github.com/robbiet480/leaflet-categorized-layers
+author: Robbie Trencheny
+author-url: https://robbies.domains
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Leaflet Control Layers extended for groups of categorized layers

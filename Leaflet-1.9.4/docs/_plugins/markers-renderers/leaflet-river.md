@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:32f26610bbd178a6d2b624f3f24a41c5f97aa71801a44f1262a21d17f78e0a7c
-size 367
+---
+name: Leaflet.River
+category: markers-renderers
+repo: https://github.com/ggolikov/Leaflet.River
+author: Grigory Golikov
+author-url: https://github.com/ggolikov
+demo: https://ggolikov.github.io/Leaflet.River/
+compatible-v0:
+compatible-v1: true
+---
+
+Draw lines with different width (like rivers) on a map. Useful when you want to show how rivers 'flow' on the map.

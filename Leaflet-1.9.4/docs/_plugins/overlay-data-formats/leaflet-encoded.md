@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:30dcd1300d2d708860aaf9cf40eaf2464806a9cdd325d05d143b3d0ad91aab6c
-size 239
+---
+name: Leaflet.encoded
+category: overlay-data-formats
+repo: https://github.com/jieter/Leaflet.encoded
+author: Jieter
+author-url: https://github.com/jieter
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Use encoded polylines in Leaflet.

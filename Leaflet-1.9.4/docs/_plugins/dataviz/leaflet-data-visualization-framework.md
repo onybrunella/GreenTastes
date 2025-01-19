@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:22a6467d987a5353f211a86f79ea36a14b4c5a1898f9f722444b692f60522de8
-size 317
+---
+name: Leaflet Data Visualization Framework
+category: dataviz
+repo: https://github.com/humangeo/leaflet-dvf
+author: Scott Fairgrieve
+author-url: https://github.com/sfairgrieve
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+New markers, layers, and utility classes for easy thematic mapping and data visualization.

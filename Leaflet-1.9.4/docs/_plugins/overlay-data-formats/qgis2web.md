@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b2db9e0c65cfefe166004a6fcd20065edbd1f8a8dd2d7f000355b91a45eb2d31
-size 282
+---
+name: qgis2web
+category: overlay-data-formats
+repo: https://github.com/tomchadwin/qgis2web
+author: Tom Chadwin
+author-url: https://github.com/tomchadwin
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+A <a href="https://qgis.org/">QGIS</a> plugin to make webmaps without coding.

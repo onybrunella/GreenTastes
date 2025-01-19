@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2beaecfa605e1bc2bdc4f901096231f7a8e82c918399b61ecf1b82b13ff8c9db
-size 391
+---
+name: Leaflet.CountrySelect
+category: user-interface
+repo: https://github.com/ahalota/Leaflet.CountrySelect/
+author: Anika Halota
+author-url: https://github.com/ahalota/
+demo: http://ahalota.github.io/Leaflet.CountrySelect/demo.html
+compatible-v0:
+compatible-v1: true
+---
+
+Control with menu of all countries, and an event listener that returns the selected country as a GeoJSON feature.

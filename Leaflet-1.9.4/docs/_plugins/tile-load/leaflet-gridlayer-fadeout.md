@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eb76d3e9412a14cf6faf0131debcdf46ea5617a8bd125c7620c6095ac1762fc3
-size 408
+---
+name: Leaflet.GridLayer.FadeOut
+category: tile-load
+repo: https://gitlab.com/IvanSanchez/Leaflet.GridLayer.FadeOut
+author: Iván Sánchez
+author-url: https://github.com/IvanSanchez
+demo: https://ivansanchez.gitlab.io/Leaflet.GridLayer.FadeOut/demo.html
+compatible-v0: false
+compatible-v1: true
+---
+
+Fades out grid layers and tilelayers when they are removed, making basemap changes smoother (for 1.0.0).

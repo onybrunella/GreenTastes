@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5e4f333a1fb6a21e4fc2ccae43a78272cfa6847e32d46eab1018c021a7578d4f
-size 257
+---
+name: Leaflet.label
+category: markers-renderers
+repo: https://github.com/Leaflet/Leaflet.label
+author: Jacob Toye
+author-url: https://github.com/jacobtoye
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Adds text labels to map markers and vector layers.

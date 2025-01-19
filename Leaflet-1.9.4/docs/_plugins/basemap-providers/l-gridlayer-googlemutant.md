@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5e7308ad11fe7d1d6db6a64af7973aae85560d2ac48c135f8f5f92860ad7efe6
-size 484
+---
+name: L.GridLayer.GoogleMutant
+category: basemap-providers
+repo: https://gitlab.com/IvanSanchez/Leaflet.GridLayer.GoogleMutant
+author: Iván Sánchez
+author-url: https://github.com/IvanSanchez
+demo: http://ivansanchez.gitlab.io/Leaflet.GridLayer.GoogleMutant/demo.html
+compatible-v0:
+compatible-v1: true
+---
+
+Displays Google maps (with minimal artifacts thanks to a <a href="https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver">DOM mutation observer</a> technique).

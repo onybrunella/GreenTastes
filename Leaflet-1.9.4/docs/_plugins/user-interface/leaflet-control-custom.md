@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f4d2695c0cd27c206cb4505e58926768dc0cabdc8e1303148eac94b079668c0d
-size 355
+---
+name: Leaflet.Control.Custom
+category: user-interface
+repo: https://github.com/yigityuce/Leaflet.Control.Custom
+author: Yiğit Yüce
+author-url: https://github.com/yigityuce
+demo: https://yigityuce.github.io/Leaflet.Control.Custom/examples/index.html
+compatible-v0:
+compatible-v1: true
+---
+
+Fully customizable Leaflet control panel with HTML element.

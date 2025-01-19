@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c01440718eda8d50d3ef52de2a28b519bf1d0f4672e35357e6d02b2191f5f56d
-size 353
+---
+name: Leaflet.CondensedAttribution
+category: user-interface
+repo: https://github.com/targomo/Leaflet.CondensedAttribution
+author: Targomo GmbH
+author-url: https://www.targomo.com/
+demo: https://route360.github.io/Leaflet.CondensedAttribution/
+compatible-v0:
+compatible-v1: true
+---
+
+An attribution plugin that makes long attributes visible on hover

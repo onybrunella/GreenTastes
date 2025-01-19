@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d1be348228a340630bbfbed8bb085100081bb66ccdfd750ee34c17c663a8c272
-size 364
+---
+name: Leaflet.OpacityControls
+category: tile-image-display
+repo: https://github.com/lizardtechblog/Leaflet.OpacityControls
+author: Jared Dominguez
+author-url: https://github.com/lizardtechblog/
+demo: https://lizardtechblog.github.io/Leaflet.OpacityControls/
+compatible-v0:
+compatible-v1: true
+---
+
+Simple Leaflet controls to adjust the opacity of a map layer.

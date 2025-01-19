@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6f4b7cf1451d1360dd44a68fb9a0c4aa9d2ac0fae938273f3924ecc714b14e37
-size 316
+---
+name: Leaflet.twofingerZoom
+category: interactive-pan-zoom
+repo: https://github.com/aratcliffe/Leaflet.twofingerzoom
+author: Adam Ratcliffe
+author-url: https://github.com/aratcliffe/
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Interaction handler for touch devices enabling zooming out with a two finger tap.

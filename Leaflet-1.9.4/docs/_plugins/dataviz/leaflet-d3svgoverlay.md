@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1513f898a8ebc2f8b1c59933bce29284b573131e7ac2cf3161215ac67a97ab78
-size 407
+---
+name: Leaflet.D3SvgOverlay
+category: dataviz
+repo: https://github.com/teralytics/Leaflet.D3SvgOverlay
+author: Kirill Zhuravlev
+author-url: https://github.com/xEviL
+demo: http://bl.ocks.org/xEviL/0c4f628645c6c21c8b3a
+compatible-v0:
+compatible-v1: true
+---
+
+SVG overlay class for using with <a href="https://d3js.org/">D3</a> library. Supports zoom animation and scaling without need to redraw the layer.

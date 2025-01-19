@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b48c95030afd59d84e5c9ddecdd2ec6b6127bd901f0b8e91b15b4ffdf28cdc55
-size 444
+---
+name: WP-Trip-Summary
+category: 3rd-party-integration
+repo: https://github.com/alexboia/WP-Trip-Summary/
+author: Alexandru Boia
+author-url: https://wordpress.org/plugins/wp-trip-summary/
+demo: https://github.com/alexboia/WP-Trip-Summary/#screenshots
+compatible-v0:
+compatible-v1: true
+---
+
+A WordPress trip summary plugin to help travel bloggers manage and display structured information about their train rides and biking or hiking trips.

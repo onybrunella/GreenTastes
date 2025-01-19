@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b833cf534c6ba540aa7c62aa31df87715df95c12b2eefe7fec7f29dbbc9a08e2
-size 389
+---
+name: Leaflet.streetlabels
+category: markers-renderers
+repo: https://github.com/3mapslab/Leaflet.streetlabels
+author: 3Maps
+author-url: https://github.com/3mapslab
+demo: https://3mapslab.github.io/Leaflet.streetlabels/
+compatible-v0:
+compatible-v1: true
+---
+
+A Leaflet plugin to show labels following the paths of polylines. An extension of yakitoritabetai Leaflet.LabelTextCollision.

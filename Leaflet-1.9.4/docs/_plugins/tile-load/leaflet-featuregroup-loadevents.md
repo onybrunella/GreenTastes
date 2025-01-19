@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:153dc5b9ad854ec2ed8eb97fe4fcfcaed4b8c3f999fa6d320994a1064b7784b3
-size 378
+---
+name: Leaflet.FeatureGroup.LoadEvents
+category: tile-load
+repo: https://github.com/Outdooractive/Leaflet.FeatureGroup.LoadEvents
+author: G. Lathoud
+author-url: http://glat.info/
+demo: https://outdooractive.github.io/Leaflet.FeatureGroup.LoadEvents/
+compatible-v0: true
+compatible-v1: false
+---
+
+`FeatureGroup` that supports the `"loading"` and `"load"` events (for v0.7.*).

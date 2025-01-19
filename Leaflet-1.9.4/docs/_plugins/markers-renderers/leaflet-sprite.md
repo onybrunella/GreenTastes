@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e5c53ec6f62a4d52269121a4611d953849dc217de6f22f531866c493f190846b
-size 263
+---
+name: Leaflet.Sprite
+category: markers-renderers
+repo: https://github.com/leaflet-extras/leaflet.sprite
+author: Calvin Metcalf
+author-url: https://github.com/calvinmetcalf
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Use sprite based icons in your markers.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:850d24e722c94ecef92761b337f8b5f79073a3fa0c27e4c46a4ac0a33588b290
-size 383
+---
+name: leaflet.wms
+category: basemap-formats
+repo: https://github.com/heigeo/leaflet.wms
+author: S. Andrew Sheppard
+author-url: https://github.com/sheppard/
+demo: http://heigeo.github.io/leaflet.wms/examples/
+compatible-v0:
+compatible-v1: true
+---
+
+Enhanced WMS support for Leaflet, including single-tile/untiled layers, shared WMS sources, and layer identify via GetFeatureInfo.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b4f79d65d050b012366020583ba2977e86317f4245b7269b11008e82bb5bc3c8
-size 394
+---
+name: Leaflet.Signposts
+category: user-interface
+repo: https://github.com/williamlow/Leaflet.Signposts
+author: William Low
+author-url: https://github.com/williamlow
+demo: https://williamlow.github.io/leaflet-signpost/demo.html
+compatible-v0:
+compatible-v1: true
+---
+
+Guides users to points outside the current map view with directional arrows and a count of points in each given direction.

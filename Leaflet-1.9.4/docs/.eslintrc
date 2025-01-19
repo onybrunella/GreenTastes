@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:029c606fede2baba6ecc50efde4d1dce499324b64cfc243e73c042d8035431fb
-size 37
+{
+  "globals": {
+    "L": true
+  }
+}

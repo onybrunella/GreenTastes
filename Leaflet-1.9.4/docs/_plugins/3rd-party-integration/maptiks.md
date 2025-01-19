@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5b80e0c5d2d2101309b441125b1d51de094b501d610e84b4b7cc4437698ec9af
-size 273
+---
+name: Maptiks
+category: 3rd-party-integration
+repo: https://maptiks.com/
+author: Sparkgeo
+author-url: https://sparkgeo.com/
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Analytics platform for web maps. Track map activities, layer load times, marker clicks, and more!

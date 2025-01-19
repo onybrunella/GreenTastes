@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:00841761520e4017825018adaa7638b7cd890c769d54d5c617f7d2412619be57
-size 372
+---
+name: ABP Usermap MyBB
+category: 3rd-party-integration
+repo: https://community.mybb.com/mods.php?action=view&pid=1238
+author: CrazyCat
+author-url: https://gitlab.com/AnoBug
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+A plugin for <a href="https://mybb.com/">MyBB</a> creating a map of users based on Open Street Map and Leaflet, with customisable popup and markers

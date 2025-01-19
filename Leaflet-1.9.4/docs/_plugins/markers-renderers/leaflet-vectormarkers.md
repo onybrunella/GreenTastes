@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:11bb985223c2a261babd84768078bf8ed1e75f8fb3bd727e712b56f98bc75d7c
-size 319
+---
+name: Leaflet.VectorMarkers
+category: markers-renderers
+repo: https://github.com/hiasinho/Leaflet.vector-markers
+author: Mathias Schneider
+author-url: https://github.com/hiasinho
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Vector SVG markers for Leaflet, with an option for Font Awesome/Twitter Bootstrap icons.

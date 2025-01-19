@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:61cb1134c48a2abc9d818dbf49b310715022125568106fad53e7bd3a6e14c2c7
-size 353
+---
+name: leaflet-ruler
+category: measurement
+repo: https://github.com/gokertanrisever/leaflet-ruler
+author: Goker Tanrisever
+author-url: https://github.com/gokertanrisever
+demo: https://gokertanrisever.github.io/leaflet-ruler/
+compatible-v0:
+compatible-v1: true
+---
+
+A simple leaflet plugin to measure true bearing and distance between clicked points.

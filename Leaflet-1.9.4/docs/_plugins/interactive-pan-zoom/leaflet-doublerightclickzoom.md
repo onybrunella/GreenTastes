@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fc23e845a5e097d1838ff192a37ca53e7085838ad6c22977615a2abf6999a0f1
-size 369
+---
+name: Leaflet.DoubleRightClickZoom
+category: interactive-pan-zoom
+repo: https://github.com/GhostGroup/Leaflet.DoubleRightClickZoom
+author: Mike O'Toole
+author-url: https://github.com/mikeotoole/
+demo: http://ghostgroup.github.io/Leaflet.DoubleRightClickZoom/
+compatible-v0:
+compatible-v1: true
+---
+
+Interaction handler enabling zooming out with double right click.

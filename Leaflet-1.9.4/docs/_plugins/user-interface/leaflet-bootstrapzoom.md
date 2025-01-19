@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:531075621ed125a696588e7b61ab206aeefdb5dee9cd111b46aa8d922cc6605e
-size 347
+---
+name: Leaflet.BootstrapZoom
+category: user-interface
+repo: https://github.com/MAD-GooZe/Leaflet.BootstrapZoom
+author: Alexey Gusev
+author-url: https://github.com/MAD-GooZe
+demo: https://mad-gooze.github.io/Leaflet.BootstrapZoom/
+compatible-v0:
+compatible-v1: true
+---
+
+Overrides default zoom control buttons with Twitter Bootstrap styled ones

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:971c652779fd89d0ded32f984ddd157ed31efbb86d07fe300a8e8993b3460ae3
-size 256
+---
+name: leaflet-kml
+category: overlay-data-formats
+repo: https://github.com/windycom/leaflet-kml
+author: Windyx
+author-url: https://github.com/windycom
+demo: https://www.windy.com/uploader
+compatible-v0:
+compatible-v1: true
+---
+
+Loads &amp; displays KML

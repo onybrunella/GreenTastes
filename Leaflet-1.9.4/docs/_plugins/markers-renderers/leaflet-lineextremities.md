@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6e5bbad5822c947069856b597796e8356b7815c710472c1e069d191d415d6aa9
-size 365
+---
+name: Leaflet.LineExtremities
+category: markers-renderers
+repo: https://github.com/makinacorpus/Leaflet.LineExtremities
+author: Frédéric Bonifas
+author-url: https://github.com/fredericbonifas
+demo: https://makinacorpus.github.io/Leaflet.LineExtremities/
+compatible-v0:
+compatible-v1: true
+---
+
+Show symbols at the extremities of polylines, using SVG markers.

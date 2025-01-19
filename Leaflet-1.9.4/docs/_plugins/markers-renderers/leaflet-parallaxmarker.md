@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6f52122879dd7f332acf7a2517e2d2e8bed5f463447d52672add5b21ef407188
-size 363
+---
+name: Leaflet.ParallaxMarker
+category: markers-renderers
+repo: https://github.com/dagjomar/Leaflet.ParallaxMarker
+author: Dag Jomar Mersland
+author-url: https://github.com/dagjomar/
+demo: https://dagjomar.github.io/Leaflet.ParallaxMarker/
+compatible-v0:
+compatible-v1: true
+---
+
+Add markers that moves with a parallax-effect relative to the map when panning.

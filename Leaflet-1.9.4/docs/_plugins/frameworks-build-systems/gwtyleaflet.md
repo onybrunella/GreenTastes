@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:32f241102db61bb237a39b0b44e48947c9fb745508e74463ff5c57e3a43c9040
-size 328
+---
+name: gwty-leaflet
+category: frameworks-build-systems
+repo: https://github.com/gwidgets/gwty-leaflet
+author: Zakaria Amine
+author-url: https://github.com/zak905
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+A Java/GWT JsInterop wrapper for Leaflet. It allows using Leaflet in Java the same way as from a javascript script.

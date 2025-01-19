@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:14665a2b1a0e59cb71bc2875844bb26db37f49fb0f524dbc8a0830de1cdd7f85
-size 329
+---
+name: WebGL Heatmap
+category: heatmaps
+repo: https://github.com/ursudio/leaflet-webgl-heatmap
+author: Benjamin J DeLong
+author-url: http://ursudio.com/webgl-heatmap-leaflet/
+demo: https://ursudio.github.io/leaflet-webgl-heatmap/
+compatible-v0:
+compatible-v1: true
+---
+
+High performance Javascript heatmap plugin using WebGL.

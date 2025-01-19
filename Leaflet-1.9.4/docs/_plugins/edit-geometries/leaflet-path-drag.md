@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:38dbf3a314ed0fbc7733d397ada25128f5b40dbb450cba77a07485aa17f9be76
-size 305
+---
+name: Leaflet.Path.Drag
+category: edit-geometries
+repo: https://github.com/w8r/Leaflet.Path.Drag
+author: Alexander Milevski
+author-url: https://github.com/w8r/
+demo: https://milevski.co/Leaflet.Path.Drag
+compatible-v0:
+compatible-v1: true
+---
+
+Drag handler and interaction for polygons and polylines.

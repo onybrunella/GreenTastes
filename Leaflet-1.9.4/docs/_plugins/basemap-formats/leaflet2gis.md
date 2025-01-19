@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d56d687e79bd86010cb090e16a94871bb5ed9b62fb779002ad82a47d80896fbe
-size 283
+---
+name: Leaflet-2gis
+category: basemap-formats
+repo: https://github.com/emikhalev/leaflet-2gis
+author: Eugene Mikhalev
+author-url: https://github.com/emikhalev/
+demo: http://emikhalev.github.io/leaflet-2gis/
+compatible-v0:
+compatible-v1: true
+---
+
+Adds support for 2GIS tile layer

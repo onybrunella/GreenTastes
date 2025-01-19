@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:adb78ed21b232a3893ea87fe8069a643ec7caa7fd4baba97ef5b779700569cb0
-size 303
+---
+name: L.cascadeButtons
+category: user-interface
+repo: https://github.com/clavijojuan/L.cascadeButtons
+author: clavijojuan
+author-url: https://github.com/clavijojuan
+demo: https://vibrant-perlman-43d7a4.netlify.app/
+compatible-v0:
+compatible-v1: true
+---
+
+A leaflet plugin to create cascade buttons.

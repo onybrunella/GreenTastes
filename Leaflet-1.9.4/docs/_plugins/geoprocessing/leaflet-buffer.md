@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3c2088786631eaa4a2f52208615ac5b32df2cef015281c2104dfce76f3d2c789
-size 258
+---
+name: Leaflet.buffer
+category: geoprocessing
+repo: https://github.com/skeate/Leaflet.buffer
+author: Jonathan Skeate
+author-url: https://github.com/skeate
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Enables buffering of shapes drawn with Leaflet.draw.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:32818756f5c1657b005a0fdf2c1ddbd6bd19e59a74bb1010347b5e463947fea0
-size 440
+---
+name: leaflet-multicontrol
+category: user-interface
+repo: https://github.com/clavijojuan/L.multiControl
+author: Juan Camilo Clavijo Sandoval
+author-url: https://github.com/clavijojuan
+demo: https://serene-heyrovsky-2fb229.netlify.app/
+compatible-v0: false
+compatible-v1: true
+---
+
+Leaflet plugin to implements layers control with multiple functionality such as opacity, color, bringToFront, bringToBack, zoomToLayer, delete and legend.

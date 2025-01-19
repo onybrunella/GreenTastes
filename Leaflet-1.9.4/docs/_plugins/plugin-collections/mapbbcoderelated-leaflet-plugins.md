@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3e9ef61df4eefcb5cdf17ba3f260abc81dfa7e7bebc8defde7e522a63eeef13c
-size 383
+---
+name: MapBBCode-related leaflet plugins
+category: plugin-collections
+repo: http://mapbbcode.org/leaflet.html
+author: Ilya Zverev
+author-url: https://github.com/zverik
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Seven plugins for various features, independent of the MapBBCode library.			From circular and popup icons to buttons, layer switcher, better search and attribution.

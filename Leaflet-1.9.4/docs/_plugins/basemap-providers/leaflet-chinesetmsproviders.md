@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:00c55131348d1aa5ae2b730354603d3c85cafb825ed1f6857c2f1d69d73d16e5
-size 405
+---
+name: Leaflet.ChineseTmsProviders
+category: basemap-providers
+repo: https://github.com/htoooth/Leaflet.ChineseTmsProviders
+author: Tao Huang
+author-url: https://github.com/htoooth/
+demo: http://htoooth.github.io/Leaflet.ChineseTmsProviders/examples/indexTianDiTu.html
+compatible-v0:
+compatible-v1: true
+---
+
+Contains configurations for various Chinese tile providers — TianDiTu, MapABC, GaoDe, etc.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0a93cb35d1cf49bedff899b43d5d080d085c436b85d139d4cdd630c19943835c
-size 294
+---
+name: leaflet-graphicscale
+category: measurement
+repo: https://github.com/nerik/leaflet-graphicscale
+author: Erik Escoffier
+author-url: https://github.com/nerik
+demo: https://nerik.github.io/leaflet-graphicscale/demo/
+compatible-v0:
+compatible-v1: true
+---
+
+Animated graphic scale control.

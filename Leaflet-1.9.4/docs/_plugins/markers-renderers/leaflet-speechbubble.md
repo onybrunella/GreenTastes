@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fcec68ce522fb7211a2d9ef94b6b47caeac78c6f3d7c0f28e81fa061faeea9f4
-size 356
+---
+name: Leaflet.SpeechBubble
+category: markers-renderers
+repo: https://github.com/sybri/Leaflet.SpeechBubble/
+author: Sylvain BRISSY
+author-url: https://github.com/sybri
+demo: https://sybri.github.io/demo/Leaflet.SpeechBubble/demo.html
+compatible-v0:
+compatible-v1: true
+---
+
+Popup a speech bubble with the arrow that follow points, layer, markers, etc.

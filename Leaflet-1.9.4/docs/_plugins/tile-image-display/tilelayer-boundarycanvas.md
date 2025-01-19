@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fa2e2ec1fb13b8bcbf623fb473640f081f0fd7be72737b03b6b7d57e4d349c45
-size 337
+---
+name: TileLayer.BoundaryCanvas
+category: tile-image-display
+repo: https://github.com/aparshin/leaflet-boundary-canvas
+author: Alexander Parshin
+author-url: https://github.com/aparshin
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Allows you to draw tile layers with arbitrary polygonal boundary. HTML5 Canvas is used for rendering.

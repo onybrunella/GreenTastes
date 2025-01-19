@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f8bc9fdb3e2c094b60411b6924d211754c919a821701159f8c836da1f9116e78
-size 330
+---
+name: Leaflet.Bookmarks
+category: bookmarked-pan-zoom
+repo: https://github.com/w8r/Leaflet.Bookmarks
+author: Alexander Milevski
+author-url: https://github.com/w8r/
+demo: https://milevski.co/Leaflet.Bookmarks/
+compatible-v0:
+compatible-v1: true
+---
+
+Control for adding and navigating between user-created bookmarks on the map.

@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:da557ee424d53ddd0ce5f9dc10db90f4deca2da8eaa7d77f6ce906614074a3cb
-size 298
+---
+layout: tutorial_frame
+title: WMS example
+---
+<script type='text/javascript'>
+
+	var map = L.map('map', {
+		center: [0, 0],
+		zoom: 1,
+		crs: L.CRS.EPSG4326
+	});
+
+	var wmsLayer = L.tileLayer.wms('http://ows.mundialis.de/services/service?', {
+		layers: 'TOPO-OSM-WMS'
+	}).addTo(map);
+
+
+</script>

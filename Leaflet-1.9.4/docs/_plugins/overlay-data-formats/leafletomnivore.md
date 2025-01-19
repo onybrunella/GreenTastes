@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7dfb604c93a91421db0564a7dd7f08d6a4b14e3db6e2e69d40833f38799861d5
-size 340
+---
+name: leaflet-omnivore
+category: overlay-data-formats
+repo: https://github.com/mapbox/leaflet-omnivore
+author: Mapbox
+author-url: https://github.com/mapbox
+demo: https://docs.mapbox.com/mapbox.js/example/v1.0.0/omnivore-gpx/
+compatible-v0:
+compatible-v1: true
+---
+
+Loads &amp; converts CSV, KML, GPX, TopoJSON, WKT formats for Leaflet.

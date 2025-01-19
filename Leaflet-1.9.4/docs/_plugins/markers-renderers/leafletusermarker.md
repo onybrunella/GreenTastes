@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8945f76dfaa3aeccdcf466ac935cc7a6e61b710135944472d63ea37a2c561736
-size 416
+---
+name: leaflet-usermarker
+category: markers-renderers
+repo: https://github.com/heyman/leaflet-usermarker
+author: Jonatan Heyman
+author-url: https://heyman.info/
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Plugin for plotting a marker representing a user - or multiple users - on a map,			with support for drawing an accuracy circle. Can be seen in action on			<a href="https://longitude.me/">Longitude.me</a>.

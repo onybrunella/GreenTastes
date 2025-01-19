@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1f37be0a5f987e0e612c5121501307e7b575d1072be573bf4c04e4af1ec3a474
-size 414
+---
+name: Leaflet Search
+category: search-popups
+repo: https://github.com/stefanocudini/leaflet-search
+author: Stefano Cudini
+author-url: https://opengeo.tech/
+demo: https://opengeo.tech/maps/leaflet-search/examples/simple.html
+compatible-v0:
+compatible-v1: true
+---
+
+A control for search Markers/Features location by custom property in LayerGroup/GeoJSON. Support AJAX/JSONP, Autocompletion and 3rd party service

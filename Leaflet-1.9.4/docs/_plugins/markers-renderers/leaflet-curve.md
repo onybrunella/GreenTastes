@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9c27141d20366e2098830ebee52a5ffb8f243d732425556adb0970e13f566407
-size 310
+---
+name: Leaflet.curve
+category: markers-renderers
+repo: https://github.com/elfalem/Leaflet.curve
+author: elfalem
+author-url: https://github.com/elfalem
+demo: http://elfalem.github.io/Leaflet.curve/
+compatible-v0:
+compatible-v1: true
+---
+
+A Leaflet plugin for drawing Bézier curves and other complex shapes.

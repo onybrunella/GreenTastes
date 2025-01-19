@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f288f43412583a86e15f5247697c3652b1bb350b0e344b2d640920b4a86b01a3
-size 288
+---
+name: Leaflet.timezones
+category: synthetic-overlays
+repo: https://github.com/dj0001/Leaflet.timezones
+author: DJ
+author-url: https://github.com/dj0001
+demo: https://dj0001.github.io/Leaflet.timezones/
+compatible-v0:
+compatible-v1: true
+---
+
+Overlay timezones on a Leaflet Earth map.

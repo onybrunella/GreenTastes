@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:97e2a5b05570fa0f751ab98ef52032f202c921ecaa65e395ddde497cd99d74f3
-size 340
+---
+name: leaflet.TrackPlayBack
+category: time-elevation
+repo: https://github.com/linghuam/Leaflet.TrackPlayBack
+author: linghuam
+author-url: https://github.com/linghuam
+demo: https://linghuam.github.io/Leaflet.TrackPlayBack/
+compatible-v0:
+compatible-v1: true
+---
+
+A leaflet track-playback plugin, can display and dynamically play tracks.

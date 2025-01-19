@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d3a01b381718c4a63026f775e0f468304333f1d05c4b3cb5f65b300049b4b217
-size 392
+{
+  "rules": {
+    "quotes": 0,
+    "no-console": 0
+  },
+  "env": {
+    "mocha": true
+  },
+  "globals": {
+    "L": true,
+    "expect": false,
+    "sinon": false,
+    "happen": false,
+    "Hand": false,
+    "touchEventType": false, /* defined in SpecHelper.js */
+    "createContainer": false, /* defined in SpecHelper.js */
+    "removeMapContainer": false /* defined in SpecHelper.js */
+  }
+}

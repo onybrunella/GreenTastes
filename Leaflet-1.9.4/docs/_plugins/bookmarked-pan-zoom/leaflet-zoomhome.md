@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d4f01577b1a7070024bf296611f59005c8b040bc514777f66602be2940b48541
-size 315
+---
+name: Leaflet.zoomhome
+category: bookmarked-pan-zoom
+repo: https://github.com/torfsen/leaflet.zoomhome
+author: Florian Brucker
+author-url: https://github.com/torfsen
+demo: http://torfsen.github.io/leaflet.zoomhome/
+compatible-v0:
+compatible-v1: true
+---
+
+Zoom control with a home button for resetting the view.

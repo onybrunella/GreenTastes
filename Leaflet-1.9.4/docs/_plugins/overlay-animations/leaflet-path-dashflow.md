@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bdae396488c3845f230bf1e5f05792781339693006ef23f692dde1d4bb19cbbc
-size 376
+---
+name: Leaflet.Path.DashFlow
+category: overlay-animations
+repo: https://gitlab.com/IvanSanchez/Leaflet.Path.DashFlow
+author: Iván Sánchez Ortega
+author-url: https://gitlab.com/IvanSanchez
+demo: https://ivansanchez.gitlab.io/Leaflet.Path.DashFlow/demo.html
+compatible-v0:
+compatible-v1: true
+---
+
+Animates the dashArray of lines and circles, creating a basic flow effect.

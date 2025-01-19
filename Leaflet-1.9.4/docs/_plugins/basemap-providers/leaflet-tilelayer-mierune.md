@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dc2387e3653e5a5c03c8f892821ef77ba1ba13473a007fde9d46703b41282cf4
-size 290
+---
+name: Leaflet.TileLayer.Mierune
+category: basemap-providers
+repo: https://github.com/MIERUNE/Leaflet.TileLayer.MIERUNE
+author: Mierune
+author-url: https://github.com/MIERUNE
+demo: https://tile.mierune.co.jp/
+compatible-v0: true
+compatible-v1: true
+---
+
+Displays tiles from Mierune map.

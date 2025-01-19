@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d26e0f9603bfa625e5ecb80a4c8f504bb390e65dea8b228d2e0aa033aaf1e5be
-size 315
+---
+name: L.Donut
+category: markers-renderers
+repo: https://github.com/Falke-Design/L.Donut
+author: Falke-Design
+author-url: https://github.com/Falke-Design/
+demo: https://falke-design.github.io/L.Donut/
+compatible-v0:
+compatible-v1: true
+---
+
+Extension of L.Circle which allows to define a outer and inner radius.

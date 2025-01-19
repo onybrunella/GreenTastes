@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8800a0c8296a3f3cd21a98e11061396467a6f7d34784736d54f017b7865318da
-size 318
+---
+name: Leaflet.Storage
+category: edit-geometries
+repo: https://github.com/umap-project/Leaflet.Storage
+author: Yohan Boniface
+author-url: https://yohanboniface.me/
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Create/update/delete Map, Marker, Polygon, Polyline... and expose them for backend storage with an API.

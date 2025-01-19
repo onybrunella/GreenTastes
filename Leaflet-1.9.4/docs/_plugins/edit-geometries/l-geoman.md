@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:34237fc6d30101a5f017a682a7847f9c6c4911a8ffd56cc7b33cd2871d6b010d
-size 565
+---
+name: Leaflet-Geoman
+category: edit-geometries
+repo: https://github.com/geoman-io/leaflet-geoman
+author: Sumit Kumar
+author-url: https://github.com/codeofsumit
+demo: https://geoman.io/leaflet-geoman
+compatible-v0: false
+compatible-v1: true
+---
+
+Geometry Management for Leaflet 1.0 and higher. Draw, Edit, Drag, Cut, Rotate, Split, Scale, Measure, Snap and Pin Layers like Markers, CircleMarkers, Polylines, Polygons, Circles, Rectangles, ImageOverlays, LayerGroups, GeoJSON, MultiLineStrings and MultiPolygons. Supports holes in polygons, canvas mode and more.

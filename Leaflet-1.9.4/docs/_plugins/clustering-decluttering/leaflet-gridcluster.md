@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:84c32dac1970bfa20515ddd08cc8fd05b3573ffec5fb72db4aa171dfd8c80543
-size 314
+---
+name: Leaflet.GridCluster
+category: clustering-decluttering
+repo: https://github.com/andy-kay/Leaflet.GridCluster
+author: Andreas Kiefer
+author-url: https://github.com/andy-kay
+demo: http://andy-kay.github.io/Leaflet.GridCluster/
+compatible-v0:
+compatible-v1: true
+---
+
+Create grid-based clusters in realtime.

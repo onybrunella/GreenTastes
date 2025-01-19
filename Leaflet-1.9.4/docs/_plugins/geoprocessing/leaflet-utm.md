@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4bfe638dda1490fd8cad89525bbe74821f5bec9edbbe955dd4e2d7a23d6ba89d
-size 436
+---
+name: Leaflet.UTM
+category: geoprocessing
+repo: https://github.com/jjimenezshaw/Leaflet.UTM
+author: Javier Jimenez Shaw
+author-url: https://github.com/jjimenezshaw/
+demo: https://jjimenezshaw.github.io/Leaflet.UTM/examples/input.html
+compatible-v0:
+compatible-v1: true
+---
+
+A simple way to convert L.LatLng into UTM (WGS84) and vice versa. UTM string format easily configurable. It does not depend on any other plugin or 3rd party.

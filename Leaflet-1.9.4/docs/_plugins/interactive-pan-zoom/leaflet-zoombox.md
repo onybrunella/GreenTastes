@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:535fe7799601071a7ef8336179df8a74407a97238a049698b53dc90d23c94ae4
-size 340
+---
+name: Leaflet.ZoomBox
+category: interactive-pan-zoom
+repo: https://github.com/consbio/Leaflet.ZoomBox
+author: Brendan Ward
+author-url: https://github.com/brendan-ward
+demo: https://consbio.github.io/Leaflet.ZoomBox/
+compatible-v0:
+compatible-v1: true
+---
+
+A lightweight zoom box control: draw a box around the area you want to zoom to.

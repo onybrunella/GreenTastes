@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a1203d83b3f526c60303d33b9062baa613b7e97167dcbd2757d4536ee0e8e0a
-size 276
+---
+name: arc.js
+category: geoprocessing
+repo: https://github.com/springmeyer/arc.js
+author: Dane Springmeyer
+author-url: https://github.com/springmeyer
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+A JS library for drawing great circle routes that can be used with Leaflet.

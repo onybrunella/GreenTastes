@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:78177d2e3e367bf8a97dbdb79000b53d7c62946dc7c6703cbd39bb2d35b425e7
-size 309
+---
+name: Leaflet.hotline
+category: time-elevation
+repo: https://github.com/iosphere/Leaflet.hotline
+author: iosphere
+author-url: https://github.com/iosphere
+demo: https://iosphere.github.io/Leaflet.hotline/demo/
+compatible-v0:
+compatible-v1: true
+---
+
+A Leaflet plugin for drawing gradients along polylines.

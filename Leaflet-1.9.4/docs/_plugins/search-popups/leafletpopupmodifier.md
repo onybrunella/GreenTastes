@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1bb341e11e8fab9d48f9b259e1442d72507edb024b05d82a418923199892fe32
-size 312
+---
+name: leaflet-popup-modifier
+category: search-popups
+repo: https://github.com/slutske22/leaflet-popup-modifier
+author: Slutske22
+author-url: https://github.com/slutske22
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Allows user to edit the contents of a popup, or use the popup to remove its source marker.

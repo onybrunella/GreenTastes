@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5d272f14c99105f18a582ad3e6281885b0934dbe8ac40bffcf177f9fe5912afb
-size 336
+---
+name: Leaflet.Pather
+category: edit-geometries
+repo: https://github.com/Wildhoney/L.Pather
+author: Wildhoney
+author-url: https://github.com/Wildhoney
+demo: https://pather.herokuapp.com/
+compatible-v0:
+compatible-v1: true
+---
+
+L.Pather is a freehand polyline creator that simplifies the polyline for mutability. Requires D3 support.

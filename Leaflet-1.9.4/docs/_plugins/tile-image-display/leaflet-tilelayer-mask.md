@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e020804e50f87e128b926b9a113662225f9d25a163fd1584d542f5b2416d209f
-size 313
+---
+name: Leaflet.TileLayer.Mask
+category: tile-image-display
+repo: https://github.com/frogcat/leaflet-tilelayer-mask
+author: Yuzo Matsuzawa
+author-url: https://github.com/frogcat
+demo: http://frogcat.github.io/leaflet-tilelayer-mask/default/
+compatible-v0:
+compatible-v1: true
+---
+
+A TileLayer with mask effect.

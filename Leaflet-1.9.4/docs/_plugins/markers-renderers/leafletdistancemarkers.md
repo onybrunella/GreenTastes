@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d40373785f49b2622930066c080a597b669e391c14a2ff5986f41ee7c3f3aacd
-size 389
+---
+name: leaflet-distance-markers
+category: markers-renderers
+repo: https://github.com/adoroszlai/leaflet-distance-markers
+author: Doroszlai, Attila
+author-url: https://github.com/adoroszlai
+demo: http://adoroszlai.github.io/leaflet-distance-markers/
+compatible-v0:
+compatible-v1: true
+---
+
+Allows displaying markers along a route (L.Polyline) at equivalent distances (eg. one per mile).

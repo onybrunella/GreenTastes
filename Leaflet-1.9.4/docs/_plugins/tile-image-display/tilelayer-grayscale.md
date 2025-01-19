@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a5df3c869fb3dfc390343d624f831bbf2beba84e49b43b49fd8421fb2dec64cc
-size 260
+---
+name: TileLayer.Grayscale
+category: tile-image-display
+repo: https://github.com/Zverik/leaflet-grayscale/
+author: Ilya Zverev
+author-url: https://github.com/Zverik
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+A regular TileLayer with grayscale makeover.

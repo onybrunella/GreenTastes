@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3a584a4389e2a3d1f061fc2ad93f07c6369618fc1186b0882ebfcafb3b29cab4
-size 412
+---
+name: leaflet-tooltip-layout
+category: clustering-decluttering
+repo: https://github.com/ZijingPeng/leaflet-tooltip-layout
+author: Zijing Peng
+author-url: https://github.com/ZijingPeng
+demo: https://zijingpeng.github.io/overlapping-avoided-tooltip/
+compatible-v0:
+compatible-v1: true
+---
+
+A plugin to avoid tooltips overlapping and make it easier to find out the relationship between each tooltip and marker.

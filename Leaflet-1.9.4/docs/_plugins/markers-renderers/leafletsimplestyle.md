@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7afb18d8527dabd5f1b83096baa0b12d2b1d8f38ebb3189aed474e47d6a75de7
-size 401
+---
+name: leaflet-simplestyle
+category: markers-renderers
+repo: https://github.com/rowanwins/leaflet-simplestyle
+author: Rowan Winsemius
+author-url: https://github.com/rowanwins/
+demo: https://rowanwins.github.io/leaflet-simplestyle/example/basic.html
+compatible-v0:
+compatible-v1: true
+---
+
+Extends L.geoJSON to support the <a href="https://github.com/mapbox/simplestyle-spec">simple style</a> spec.

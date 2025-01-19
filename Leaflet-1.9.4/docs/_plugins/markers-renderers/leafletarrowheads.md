@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:011b3aed62307a2d00765fc977d668bad36611b59931a308c3d34c5026fa65b4
-size 352
+---
+name: Leaflet-arrowheads
+category: markers-renderers
+repo: https://github.com/slutske22/leaflet-arrowheads
+author: Slutske22
+author-url: https://github.com/slutske22
+demo: https://codesandbox.io/s/leaflet-arrowheads-example-zfxxc
+compatible-v0:
+compatible-v1: true
+---
+
+Allows user to quickly draw arrowheads on polylines for vector visualization.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8a0d07f76940c81c859fc8304d007c2b3ac1e6d79e80b1b508cc46e56052d3b7
-size 447
+---
+name: Leaflet.DistortableImage
+category: tile-image-display
+repo: https://github.com/publiclab/Leaflet.DistortableImage
+author: Public Lab
+author-url: https://github.com/publiclab
+demo: https://publiclab.github.io/Leaflet.DistortableImage/examples/index.html
+compatible-v0:
+compatible-v1: true
+---
+
+Enable users to <a href="https://publiclab.github.io/Leaflet.DistortableImage/examples/">scale, rotate, and distort images</a> on Leaflet maps.

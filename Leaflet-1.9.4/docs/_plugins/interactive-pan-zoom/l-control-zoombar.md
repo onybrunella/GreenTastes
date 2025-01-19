@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2318b672630878616529527bbc4e8ef157e7678776e283c0807de3606b9f1c6b
-size 354
+---
+name: L.Control.ZoomBar
+category: interactive-pan-zoom
+repo: https://github.com/elrobis/L.Control.ZoomBar
+author: Elijah Robison
+author-url: http://cartometric.com/blog/
+demo: https://elrobis.github.io/L.Control.ZoomBar/
+compatible-v0:
+compatible-v1: true
+---
+
+An extended version of Leaflet's native Zoom control with Home and Zoom-to-Area buttons.

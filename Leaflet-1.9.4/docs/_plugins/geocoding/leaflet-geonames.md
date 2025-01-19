@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4b80188b3f820a9b864e7f9381b82df7fcc2e0ad8b2d0f42d808bf542fbf508c
-size 344
+---
+name: Leaflet.Geonames
+category: geocoding
+repo: https://github.com/consbio/Leaflet.Geonames
+author: Brendan Ward
+author-url: https://github.com/brendan-ward
+demo: https://consbio.github.io/Leaflet.Geonames/
+compatible-v0:
+compatible-v1: true
+---
+
+A lightweight geocoding control powered by <a href="http://www.geonames.org/">GeoNames</a>.

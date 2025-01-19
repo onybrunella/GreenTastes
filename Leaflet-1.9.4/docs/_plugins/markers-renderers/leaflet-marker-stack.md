@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a169f24234b4323a2e658987c2613d8ebc5b7e6b1b8856846abbc7daf7a800b8
-size 437
+---
+name: Leaflet.Marker.Stack
+category: markers-renderers
+repo: https://github.com/IvanSanchez/Leaflet.Marker.Stack
+author: Iván Sánchez
+author-url: https://github.com/IvanSanchez
+demo: http://ivansanchez.github.io/Leaflet.Marker.Stack/demos/color_ramps.html
+compatible-v0:
+compatible-v1: true
+---
+
+A pure Leaflet implementation of CartoDB's "<a href="https://carto.com/blog/stacking-chips-a-map-hack/">stacked chips</a>" symbolizer.

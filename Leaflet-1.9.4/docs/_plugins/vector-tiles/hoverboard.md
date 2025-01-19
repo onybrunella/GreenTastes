@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:db6883f3975e5a839c7ebcbc15fdafbe04a898f0c29cc2b5e4a80a68ade6c1db
-size 341
+---
+name: Hoverboard
+category: vector-tiles
+repo: https://github.com/summer4096/hoverboard
+author: Tristan Davies
+author-url: https://madd.tech/
+demo: https://madd.tech/hoverboard/
+compatible-v0: true
+compatible-v1: false
+---
+
+Render vector tiles on canvas with leaflet (geojson, topojson, and protobuf). Compatible with Leaflet 0.7.x only.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8e54484c38f7166337435f77bc8c6a2272ad685cd95f453c467b80f215bc49e3
-size 419
+---
+name: Leaflet.LayerTreePlugin
+category: layer-switching-controls
+repo: https://github.com/bambrikii/leaflet-layer-tree-plugin
+author: Alexander Arakelyan
+author-url: https://github.com/bambrikii
+demo: https://rawgit.com/bambrikii/leaflet-layer-tree-plugin/master/examples/basic-example.htm
+compatible-v0:
+compatible-v1: true
+---
+
+Leaflet control allows to switch layers on and off, display them in a tree-like way.

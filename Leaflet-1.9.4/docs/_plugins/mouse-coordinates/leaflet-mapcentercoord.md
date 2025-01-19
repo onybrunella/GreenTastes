@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d23b54fe941173c3e2e2b45df16284164e763d0544b33c8f029c835d63397501
-size 379
+---
+name: Leaflet.MapCenterCoord
+category: mouse-coordinates
+repo: https://github.com/xguaita/Leaflet.MapCenterCoord
+author: Xisco Guaita
+author-url: https://github.com/xguaita
+demo: http://xguaita.github.io/Leaflet.MapCenterCoord/
+compatible-v0:
+compatible-v1: true
+---
+
+A Leaflet control to display the coordinates of the map center, especially useful on touch/mobile devices.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:838fd3765e119c897362e0e0b5e5de9730a39a54a1bde0757c7e3eac2903b1c8
-size 331
+---
+name: Leaflet.Canvas-Markers
+category: markers-renderers
+repo: https://github.com/eJuke/Leaflet.Canvas-Markers
+author: Evgeniy Voynov
+author-url: https://github.com/eJuke
+demo: https://ejuke.github.io/Leaflet.Canvas-Markers/examples/index.html
+compatible-v0:
+compatible-v1: true
+---
+
+Displays markers on canvas instead of DOM.

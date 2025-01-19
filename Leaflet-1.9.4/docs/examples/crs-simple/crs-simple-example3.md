@@ -1,3 +1,38 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1da0e77c9e60f6f2cc81d04b0b4dd506b4f1edf40c2367133fe213e4640dda15
-size 899
+---
+layout: tutorial_frame
+title: CRS.Simple example
+---
+<script>
+
+	var map = L.map('map', {
+		crs: L.CRS.Simple,
+		minZoom: -3
+	});
+
+	var yx = L.latLng;
+
+	function xy(x, y) {
+		if (L.Util.isArray(x)) { // When doing xy([x, y]);
+			return yx(x[1], x[0]);
+		}
+		return yx(y, x); // When doing xy(x, y);
+	}
+
+	var bounds = [xy(-25, -26.5), xy(1023, 1021.5)];
+	var image = L.imageOverlay('uqm_map_full.png', bounds).addTo(map);
+
+	var sol      = xy(175.2, 145.0);
+	var mizar    = xy(41.6, 130.1);
+	var kruegerZ = xy(13.4, 56.5);
+	var deneb    = xy(218.7, 8.3);
+
+	var mSol = L.marker(sol).addTo(map).bindPopup('Sol');
+	var mMizar = L.marker(mizar).addTo(map).bindPopup('Mizar');
+	var mKruegerZ = L.marker(kruegerZ).addTo(map).bindPopup('Krueger-Z');
+	var mDeneb = L.marker(deneb).addTo(map).bindPopup('Deneb');
+
+	var travel = L.polyline([sol, deneb]).addTo(map);
+
+	map.setView(xy(120, 70), 1);
+
+</script>

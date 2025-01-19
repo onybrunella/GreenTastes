@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:424819c81de0ebbb59ac7b12619b1e5a979114811ecfbc4fb76d4c1e8029eb9d
-size 396
+---
+name: Leaflet.Elevation
+category: time-elevation
+repo: https://github.com/MrMufflon/Leaflet.Elevation
+author: Felix Bache
+author-url: https://github.com/MrMufflon
+demo: http://mrmufflon.github.io/Leaflet.Elevation/example/example_gpx.html
+compatible-v0:
+compatible-v1: true
+---
+
+A Leaflet plugin to view interactive height profiles of GeoJSON lines using <a href="https://d3js.org//">d3</a>.

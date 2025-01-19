@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:52c72c0b2620b4058ac34dc9612daebdddd0ed583fffe497b094c5d13d1094af
-size 323
+---
+name: Leaflet.Notifications
+category: user-interface
+repo: https://gitlab.com/manuel.richter95/leaflet.notifications
+author: Manuel Richter
+author-url: https://gitlab.com/manuel.richter95
+demo: http://leaflet-notifications.manuel-ri.de/
+compatible-v0:
+compatible-v1: true
+---
+
+Spawn toast notifications inside your map

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d6a702e7fa30a92a6fc13c4df429f82ec1c08c7344405a32e620f8a953a1c8d3
-size 358
+---
+name: Leaflet.GeotagPhoto
+category: markers-renderers
+repo: https://github.com/nypl-spacetime/Leaflet.GeotagPhoto
+author: Bert Spaan
+author-url: https://github.com/bertspaan
+demo: http://spacetime.nypl.org/Leaflet.GeotagPhoto/examples/camera.html
+compatible-v0:
+compatible-v1: true
+---
+
+Plugin for photo geotagging, with two modes: camera and crosshair.

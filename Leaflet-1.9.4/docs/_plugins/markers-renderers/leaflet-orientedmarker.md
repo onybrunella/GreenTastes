@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:05e5bf1ab846cfc24a424b6a4a3f16c3f00134011b6703cad85c1d9b245d9c6d
-size 275
+---
+name: Leaflet.orientedMarker
+category: markers-renderers
+repo: https://github.com/jekuno/leaflet.orientedMarker
+author: jekuno
+author-url: https://github.com/jekuno
+demo: 
+compatible-v0: true
+compatible-v1: false
+---
+
+Allows to manage orientation of markers dynamically.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cf2b6351a239290f73b95c22e386afedfa7ef71043b3c65e10759885b74c60dc
-size 336
+---
+name: Leaflet.print
+category: print-export
+repo: https://github.com/aratcliffe/Leaflet.print
+author: Adam Ratcliffe
+author-url: https://github.com/aratcliffe
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Implements the Mapfish print protocol allowing a Leaflet map to be printed using either the Mapfish or GeoServer print module.

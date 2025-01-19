@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:da81b4d34b63b0b1284081135283a07a1ecc432b5dd39b00e4b8391a0a8d3a25
-size 290
+---
+name: leaflet-clonelayer
+category: minimaps-synced-maps
+repo: https://github.com/jieter/leaflet-clonelayer
+author: Jieter
+author-url: https://github.com/jieter
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Clone Leaflet layers to allow reuse across different maps in the same runtime.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b6a6fe9339c555d3acb4290991b284333a733045b25e27117a406a863ca34332
-size 331
+---
+name: RaphaelLayer
+category: dataviz
+repo: https://github.com/dynmeth/RaphaelLayer
+author: Dynamic Methods
+author-url: https://github.com/dynmeth
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Allows you to use <a href="http://raphaeljs.com/">Raphael</a> as a layer on a Leaflet map for advanced animations and visualizations.

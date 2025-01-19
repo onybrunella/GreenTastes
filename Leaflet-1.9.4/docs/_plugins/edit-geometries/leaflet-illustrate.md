@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e34a4b69fa98fa4f0a9778243aa9236ffccae2d130f8ee4a4a30912105bab2b8
-size 382
+---
+name: Leaflet.Illustrate
+category: edit-geometries
+repo: https://github.com/justinmanley/Leaflet.Illustrate
+author: Justin Manley
+author-url: https://github.com/manleyjster
+demo: https://justinmanley.github.io/Leaflet.Illustrate/examples/0.0.2/simple/
+compatible-v0: true
+compatible-v1: false
+---
+
+Extension for Leaflet.draw enabling users to type annotations directly on maps.

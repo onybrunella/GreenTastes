@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:242fba5e42a4903af4ae31ffc4f4b302b66b0ee4c29aa33bf9766cbb54579983
-size 335
+---
+name: Leaflet.FileLayer
+category: overlay-data-formats
+repo: https://github.com/makinacorpus/Leaflet.FileLayer
+author: Mathieu Leplatre
+author-url: https://github.com/leplatrem
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Loads files (GeoJSON, GPX, KML) into the map using the HTML5 FileReader API (i.e. locally without server).

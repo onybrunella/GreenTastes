@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7b774cc08bbbc5209c5f65c3fa4251ac4261da6cf094f0003145348f5f59afa5
-size 424
+---
+name: Leaflet map component
+category: frameworks-build-systems
+repo: https://github.com/prtksxna/leaflet-map-component
+author: Prateek Saxena
+author-url: https://github.com/prtksxna
+demo: https://prtksxna.github.io/leaflet-map-component/
+compatible-v0:
+compatible-v1: true
+---
+
+Integrate Leaflet in applications made with the <a href="https://docs-05-dot-polymer-project.appspot.com/0.5/">Polymer 0.5</a> web framework.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b5160bbc21a51f01861dc159a6d79b945ebfd512caec49b691bee3db0a768483
-size 393
+---
+name: Leaflet.LabelTextCollision
+category: markers-renderers
+repo: https://github.com/yakitoritabetai/Leaflet.LabelTextCollision
+author: Kenta Hakoishi
+author-url: https://github.com/yakitoritabetai
+demo: https://yakitoritabetai.github.io/Leaflet.LabelTextCollision/
+compatible-v0:
+compatible-v1: true
+---
+
+Displays labels on paths (polylines, polygons, circles) avoiding label collision.

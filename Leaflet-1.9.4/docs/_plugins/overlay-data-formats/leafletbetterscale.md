@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d6b7a32e2a4e904b0c4ef67bc750f926d38b8f21004d6ce4ba1ad28315e691a1
-size 336
+---
+name: Leaflet-BetterScale
+category: overlay-data-formats
+repo: https://github.com/daniellsu/leaflet-betterscale
+author: Dan Brown
+author-url: https://github.com/daniellsu/
+demo: https://daniellsu.github.io/leaflet-betterscale/
+compatible-v0:
+compatible-v1: true
+---
+
+A new, more GIS-like scalebar with alternating black/white bars.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b2e8871e6a15c4a6a862d9f09d0fb2590fb1c721325ec958dd9245fce9f1c959
-size 349
+---
+name: Leaflet.loading
+category: tile-load
+repo: https://github.com/ebrelsford/Leaflet.loading
+author: Eric Brelsford
+author-url: https://github.com/ebrelsford/
+demo: http://ebrelsford.github.io/Leaflet.loading/simple.html
+compatible-v0:
+compatible-v1: true
+---
+
+A simple control that adds a loading indicator as tiles and other data are loaded.

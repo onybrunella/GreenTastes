@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b3be3fc204dde7ead3e1927b5f4018e02a49078cdcf843847e22b82380a464df
-size 395
+---
+name: Leaflet.geojsonCSS
+category: markers-renderers
+repo: https://github.com/albburtsev/Leaflet.geojsonCSS
+author: Alexander Burtsev
+author-url: https://github.com/albburtsev/
+demo: http://albburtsev.github.io/Leaflet.geojsonCSS/src/demo/demo.html
+compatible-v0:
+compatible-v1: true
+---
+
+<a href="https://wiki.openstreetmap.org/wiki/Geojson_CSS">Geojson CSS</a> implementation for Leaflet.

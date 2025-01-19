@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:19a3296a2d2c443483a5234579924bd892f115c2d51c3f91bbd9447917f360c4
-size 414
+---
+name: SuperMap Leaflet
+category: basemap-providers
+repo: https://supermap.github.io/supermap-leaflet/
+author: SuperMap
+author-url: https://github.com/SuperMap
+demo: https://supermap.github.io/supermap-leaflet/example/tiledMapLayer.html
+compatible-v0:
+compatible-v1: true
+---
+
+SuperMap Leaflet is a Leaflet plugins for working with SuperMap service types.         Support for SuperMap services, tiles and more.

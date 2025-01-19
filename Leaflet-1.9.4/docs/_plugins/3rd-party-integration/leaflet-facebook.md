@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:830f93fc461d0665104991ec1374af64c1384ec0fbc23da0666c071a6d8c58d8
-size 283
+---
+name: Leaflet.Facebook
+category: 3rd-party-integration
+repo: https://github.com/mwasil/Leaflet.Facebook/
+author: Marcin Wasilewski
+author-url: https://marcinwasilewski.eu/
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Simple plugin for adding Facebook like button as a control.

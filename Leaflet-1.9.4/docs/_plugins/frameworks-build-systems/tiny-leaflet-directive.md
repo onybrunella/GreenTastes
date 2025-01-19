@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:64861a2f22a669abc44aa7bbce77ef0b64c99839c16eea4a2e5b50ac9747d069
-size 290
+---
+name: Tiny Leaflet Directive
+category: frameworks-build-systems
+repo: https://github.com/CleverMaps/tiny-leaflet-directive
+author: Martin Tesař
+author-url: https://github.com/mattesCZ
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Tiny LeafletJS map directive for your AngularJS apps.

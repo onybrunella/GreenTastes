@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:559053d671d3f61add010ec4faba917eddc2fd99c97db58bc0ef7e9933ebe91d
-size 409
+---
+name: leaflet.latlng-graticule
+category: synthetic-overlays
+repo: https://github.com/cloudybay/leaflet.latlng-graticule
+author: CloudyBay
+author-url: https://github.com/cloudybay/
+demo: https://cloudybay.github.io/leaflet.latlng-graticule/example/
+compatible-v0:
+compatible-v1: true
+---
+
+Create a Canvas as ImageOverlay to draw the Lat/Lon Graticule, and show the grid tick label at the edges of the map.

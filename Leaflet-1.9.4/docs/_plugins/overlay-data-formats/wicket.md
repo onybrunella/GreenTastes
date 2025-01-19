@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fc98d6a652a2776c87888d31270f08e4a4b5a673072119f6b3733eddf096cf17
-size 389
+---
+name: Wicket
+category: overlay-data-formats
+repo: https://github.com/arthur-e/Wicket/
+author: K. Arthur Endsley
+author-url: https://github.com/arthur-e/
+demo: https://arthur-e.github.io/Wicket/
+compatible-v0:
+compatible-v1: true
+---
+
+A modest library for translating between Well-Known Text (WKT) and Leaflet geometry objects (e.g. between L.marker() instances and "POINT()" strings).

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a6078df4cdc28e28dff512ee6769d2098c7b331e07f9200f8f7cf793bb295a32
-size 266
+---
+name: TileLayer.GeoJSON
+category: basemap-formats
+repo: https://github.com/glenrobertson/leaflet-tilelayer-geojson/
+author: Glen Robertson
+author-url: https://github.com/glenrobertson
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+A TileLayer for GeoJSON tiles.

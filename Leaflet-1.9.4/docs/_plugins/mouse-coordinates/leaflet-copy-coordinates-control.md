@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:15a0fb0179ea6ebca259b199414e50fa5284199de755bb4dd4d06f2d4c8444e1
-size 506
+---
+name: Leaflet Copy Coordinates Control
+category: mouse-coordinates
+repo: https://github.com/tinjaw/Leaflet-Copy-Coordinates-Control
+author: Chaim Krause
+author-url: https://github.com/tinjaw
+demo: https://tinjaw.github.io/Leaflet-Copy-Coordinates-Control/
+compatible-v0:
+compatible-v1: true
+---
+
+Works with Leaflet to capture mouseclicks on a map and display the associated coordinates with an easy way to copy them. (Derived from original work by zimmicz. Forked mainly to provide npm functionality.)

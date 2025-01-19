@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:62ada1c337fb32378aa0ea929f228891a62e2cff9463435bf77f7f610c8a0efc
-size 353
+---
+name: Leaflet.CoordProjection
+category: mouse-coordinates
+repo: https://github.com/edihasaj/leaflet-coord-projection
+author: Edi Hasaj
+author-url: https://github.com/edihasaj
+demo: https://edihasaj.github.io/leaflet-coord-projection/
+compatible-v0:
+compatible-v1: true
+---
+
+Shows coordinates on mouse move and displays it based on given projection.

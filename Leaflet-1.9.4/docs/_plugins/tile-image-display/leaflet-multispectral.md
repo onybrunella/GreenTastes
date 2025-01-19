@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:114e02e233e83f94057def3be06cf4d4269a008c6121b8ff61f0f756cecdb587
-size 508
+---
+name: Leaflet.Multispectral
+category: tile-image-display
+repo: https://github.com/publiclab/leaflet-multispectral
+author: Public Lab
+author-url: https://publiclab.org/
+demo: https://publiclab.github.io/leaflet-multispectral/
+compatible-v0:
+compatible-v1: true
+---
+
+Provides multispectral channel manipulation and processing tools (such as NDVI or other remote sensing methods) for Leaflet image layers using pure client-side JavaScript. It uses `image-sequencer` via an ImageOverlay `filter()` function.

@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fe29dfac1ce29160dcb3b87d6548945bf02667262f11f2b5cd97c2b8e3f0936b
-size 389
+<table><thead>
+	<tr>
+		<th>Destructor</th>
+		<th>Description</th>
+	</tr>
+	</thead><tbody>
+	{{#each documentables}}
+	<tr id='{{id}}'>
+		<td><code><b>{{name}}</b>(
+		{{~#each params~}}
+			{{#if type}}<nobr>&lt;{{{type type}}}&gt;</nobr> {{/if}}<i>{{name}}</i>
+			{{~#unless @last}}, {{/unless}}{{/each~}}
+		)</code></td>
+		<td>{{{markdown comments}}}</td>
+	</tr>
+	{{/each}}
+</tbody></table>

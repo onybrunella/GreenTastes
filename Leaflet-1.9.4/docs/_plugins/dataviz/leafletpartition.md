@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4f558122824eb33c3cdb6e2974e5fe661fa63396ae8a65134a5485066483e25d
-size 345
+---
+name: leaflet-partition
+category: dataviz
+repo: https://github.com/locknono/leaflet-partition
+author: locknono
+author-url: https://github.com/locknono
+demo: https://locknono.github.io/leaflet-partition/
+compatible-v0:
+compatible-v1: true
+---
+
+Divide the area into parts in different ways such as voronoi(triangulation) and hexagonal tiling.

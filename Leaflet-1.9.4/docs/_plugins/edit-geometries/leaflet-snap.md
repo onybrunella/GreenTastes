@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dccac17e6a6b6329e0694592cd2563aa07c067fb021ff9f3284a4b8d0bae8a7a
-size 326
+---
+name: Leaflet.Snap
+category: edit-geometries
+repo: https://github.com/makinacorpus/Leaflet.Snap
+author: Mathieu Leplatre
+author-url: https://github.com/leplatrem
+demo: https://makinacorpus.github.io/Leaflet.Snap/
+compatible-v0:
+compatible-v1: true
+---
+
+Enables snapping of draggable markers to polylines and other layers.

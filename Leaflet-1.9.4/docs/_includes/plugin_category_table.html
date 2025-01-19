@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:25af4b8e02e82dda624bcc920c645fa9021bcf3fbf7b77b0fb8e56412b79fbca
-size 592
+{% assign filteredplugins = site.plugins | where: "category", include.category %}
+
+<table class="plugins"><tr><th>Plugin</th><th>Description</th><th>Demo</th><th>Maintainer</th></tr>
+{% for plugin in filteredplugins %}
+	<tr>
+		<td><a href="{{ plugin.repo }}">{{ plugin.name }}</a></td>
+		<td>{{ plugin.content }}</td>
+		<td>
+		{% if plugin.demo %}
+			<a href="{{ plugin.demo }}">Demo</a>
+		{% endif %}
+		</td>
+		<td>
+		{% if plugin.category %}
+			<a href="{{ plugin.author-url }}">{{ plugin.author }}</a>
+		{% else %}
+			{{ plugin.author }}
+		{% endif %}
+		</td>
+	</tr>
+{% endfor %}
+</table>

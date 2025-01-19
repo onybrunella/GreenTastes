@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:77eafcd7318c557f8d7c724c5cf8de84fe69ebd938b0476fa379e0f46c60bdab
-size 365
+---
+name: Leaflet Overpass Layer
+category: data-providers
+repo: https://github.com/GuillaumeAmat/leaflet-overpass-layer
+author: Guillaume AMAT
+author-url: https://github.com/GuillaumeAmat
+demo: https://leaflet-overpass-layer-demo.stackblitz.io/
+compatible-v0:
+compatible-v1: true
+---
+
+Easily include data from the <a href="http://overpass-api.de">overpass api</a>.

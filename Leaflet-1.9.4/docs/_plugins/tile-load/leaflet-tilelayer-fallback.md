@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e7d7d2bfe22059b1861ceedb4226bcdbe0c2eb303c638a49e0d788d4eb5a0b49
-size 398
+---
+name: Leaflet.TileLayer.Fallback
+category: tile-load
+repo: https://github.com/ghybs/Leaflet.TileLayer.Fallback
+author: ghybs
+author-url: https://github.com/ghybs
+demo: https://ghybs.github.io/Leaflet.TileLayer.Fallback/examples/tileLayerFallback-demo.html
+compatible-v0:
+compatible-v1: true
+---
+
+Replaces missing Tiles (HTTP 404 Not Found Error) by scaled up equivalent Tiles from lower zooms.

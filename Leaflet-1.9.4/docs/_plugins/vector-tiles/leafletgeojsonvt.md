@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8930e505a033fe91326c43bf891308f75d7d0fa1f1997b12a3d42c09b4e7a7eb
-size 332
+---
+name: leaflet-geojson-vt
+category: vector-tiles
+repo: https://github.com/iamtekson/leaflet-geojson-vt
+author: Tek Kshetri
+author-url: https://github.com/iamtekson
+demo: https://iamtekson.github.io/leaflet-geojson-vt/demo/
+compatible-v0:
+compatible-v1: true
+---
+
+Displaying the vector tiles of GeoJSON data on the fly on leaflet

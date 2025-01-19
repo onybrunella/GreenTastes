@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:76243427e208ef323993729e21a664f691850297eb09392e8179b0714467886c
-size 384
+---
+name: L.Highlight
+category: geocoding
+repo: https://github.com/mmaciejkowalski/L.Highlight
+author: Maciej Kowalski
+author-url: https://github.com/mmaciejkowalski
+demo: https://mmaciejkowalski.github.io/L.Highlight/
+compatible-v0:
+compatible-v1: true
+---
+
+A plugin that adds the ability to quick highlighting streets and areas using <a href="https://nominatim.org/">Nominatim</a>.

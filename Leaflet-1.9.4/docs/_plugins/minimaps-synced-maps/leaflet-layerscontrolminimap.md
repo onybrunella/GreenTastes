@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e905eb88656a4b63de03ca96b46492811d82012fe6d1a81b500d82cef5e49e82
-size 298
+---
+name: Leaflet.layerscontrol-minimap
+category: minimaps-synced-maps
+repo: https://github.com/jieter/Leaflet.layerscontrol-minimap
+author: Jieter
+author-url: https://github.com/jieter
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Extends the default Leaflet layers control with synced minimaps.

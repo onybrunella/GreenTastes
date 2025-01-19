@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5e427161ad3cd001be55a6a5e59dca0d4168258c7ac8981b670dc9a8f8b499d7
-size 398
+---
+name: Leaflet Hex Time Slider
+category: time-elevation
+repo: https://github.com/albertkun/leaflet_hex_timeslider/
+author: Albert Kochaphum
+author-url: https://github.com/albertkun
+demo: https://albertkun.github.io/leaflet_hex_timeslider/
+compatible-v0:
+compatible-v1: true
+---
+
+Minimalistic time slider using leaflet + d3.js and nouislider for displaying time series data using a geoJSON file.

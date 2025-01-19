@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e8dc5472deb30f65cc147415a7560888d8cc738a959b32e8a1a67b02d6ae7665
-size 433
+---
+name: Leaflet.GestureHandling
+category: events
+repo: https://github.com/elmarquis/Leaflet.GestureHandling/
+author: Andy Marquis
+author-url: https://github.com/elmarquis
+demo: https://elmarquis.github.io/Leaflet.GestureHandling/examples/
+compatible-v0:
+compatible-v1: true
+---
+
+Brings the basic functionality of Google Maps Gesture Handling into Leaflet. Prevents users from getting trapped on the map when scrolling a long page.

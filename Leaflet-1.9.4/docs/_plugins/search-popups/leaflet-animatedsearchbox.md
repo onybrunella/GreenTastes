@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:17a9578e8ca44d742ff58f16e10000d185f9bf9f7afa5a037c42da2d163f81b9
-size 374
+---
+name: Leaflet.AnimatedSearchBox
+category: search-popups
+repo: https://github.com/luka1199/Leaflet.AnimatedSearchBox
+author: Luka Steinbach
+author-url: https://github.com/luka1199/
+demo: https://luka1199.github.io/Leaflet.AnimatedSearchBox/examples/example_fuse.html
+compatible-v0:
+compatible-v1: true
+---
+
+A simple Leaflet plugin that provides a collapsible search box.

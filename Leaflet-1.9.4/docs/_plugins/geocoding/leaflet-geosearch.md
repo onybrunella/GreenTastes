@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:02f001f08771552345eb03cd6a299c21648618463175c863c1932f635437920a
-size 446
+---
+name: Leaflet GeoSearch
+category: geocoding
+repo: https://github.com/smeijer/leaflet-geosearch
+author: Stephan Meijer
+author-url: https://github.com/smeijer
+demo: https://smeijer.github.io/leaflet-geosearch/
+compatible-v0:
+compatible-v1: true
+---
+
+Small geocoding plugin that brings address searching/lookup (aka geosearching) to Leaflet.<br>			Comes with support for Google, OpenStreetMap Nominatim, Bing, Esri and Nokia. Easily extensible.

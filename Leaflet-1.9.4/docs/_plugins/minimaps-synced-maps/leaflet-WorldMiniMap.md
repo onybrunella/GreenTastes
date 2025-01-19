@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:96d88b5e5e9e4f6824d9d7af0c9e1da7fe396faeae7abc89ef4a50b7ec2ae55a
-size 374
+---
+name: leaflet.WorldMiniMap
+category: minimaps-synced-maps
+repo: https://github.com/maneoverland/leaflet.WorldMiniMap
+author: M. Friedl
+author-url: https://github.com/maneoverland
+demo: https://maneoverland.github.io/leaflet.WorldMiniMap/
+compatible-v0: false
+compatible-v1: true
+---
+
+A small minimap showing the map-view on a world-mini-map to aid navigation.

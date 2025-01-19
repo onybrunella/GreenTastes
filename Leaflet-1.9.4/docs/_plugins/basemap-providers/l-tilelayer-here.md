@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4f3c4533ccf534c8f41f4e404f777f40e992685068a70104ef2f07cd066e7ead
-size 325
+---
+name: L.TileLayer.HERE
+category: basemap-providers
+repo: https://gitlab.com/IvanSanchez/Leaflet.TileLayer.HERE
+author: Iván Sánchez
+author-url: https://github.com/IvanSanchez
+demo: https://ivansanchez.gitlab.io/Leaflet.TileLayer.HERE/demo.html
+compatible-v0:
+compatible-v1: true
+---
+
+Displays map tiles from HERE maps.

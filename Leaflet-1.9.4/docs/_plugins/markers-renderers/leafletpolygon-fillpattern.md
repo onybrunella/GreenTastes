@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:43d14d5f888ccbdc3727cafedb70413a36534554dcd982fe2b7cabda3f0d9dd0
-size 368
+---
+name: leaflet-polygon.fillPattern
+category: markers-renderers
+repo: https://github.com/cloudybay/leaflet-polygon-fillPattern
+author: CloudyBay
+author-url: https://github.com/cloudybay/
+demo: http://lwsu.github.io/leaflet-polygon-fillPattern/example/
+compatible-v0:
+compatible-v1: true
+---
+
+Extend the Polygon Object to fill SVG Path element with an image pattern.

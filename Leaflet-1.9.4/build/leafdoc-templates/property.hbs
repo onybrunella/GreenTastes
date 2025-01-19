@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:365546b1f3b3cca5ce355d20e8ad1e65969b7b2640211ec1ae61e9472649b2ad
-size 296
+<table><thead>
+	<tr>
+		<th>Property</th>
+		<th>Type</th>
+		<th>Description</th>
+	</tr>
+	</thead><tbody>
+	{{#each documentables}}
+	<tr id='{{id}}'>
+		<td><code><b>{{name}}</b></code></td>
+		<td><code>{{{type type}}}</code></td>
+		<td>{{{markdown comments}}}</td>
+	</tr>
+	{{/each}}
+</tbody></table>

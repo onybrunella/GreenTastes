@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3348274aced4fd8f6e9ac170f05d6006a6f7ac88ef49b074dfada8307e3c2fd9
-size 365
+---
+name: L.Control.jQueryDialog
+category: frameworks-build-systems
+repo: https://github.com/gregallensworth/L.Control.jQueryDialog
+author: Greg Allensworth
+author-url: https://github.com/gregallensworth
+demo: http://gregallensworth.github.io/L.Control.jQueryDialog/
+compatible-v0:
+compatible-v1: true
+---
+
+Trigger a jQuery UI dialog/modal using an on-map control.

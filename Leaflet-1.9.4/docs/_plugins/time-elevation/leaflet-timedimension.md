@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a20d139a9f6c9a08986525500adac975042da05e097cf7afb1790facfd601363
-size 323
+---
+name: Leaflet.TimeDimension
+category: time-elevation
+repo: https://github.com/socib/Leaflet.TimeDimension
+author: ICTS SOCIB
+author-url: https://www.socib.es/
+demo: https://apps.socib.es/Leaflet.TimeDimension/examples/index.html
+compatible-v0:
+compatible-v1: true
+---
+
+Add time dimension capabilities on a Leaflet map.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6b758959a152702b7389564bd3b127bc97a8cdb3ffb40d1cc96572179aef9cd4
-size 316
+---
+name: L.switchBasemap
+category: layer-switching-controls
+repo: https://github.com/clavijojuan/L.switchBasemap
+author: clavijojuan
+author-url: https://github.com/clavijojuan
+demo: https://elegant-meninsky-515912.netlify.app/
+compatible-v0: false
+compatible-v1: true
+---
+
+An easy leaflet plugin to switch basemap.

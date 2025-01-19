@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f33abf931d0bd5a7e855b7eafc52e7647101597c677ccbef65bc2ddc84a64f87
-size 339
+---
+name: leaflet-icon-pulse
+category: markers-renderers
+repo: https://github.com/mapshakers/leaflet-icon-pulse
+author: mapshakers
+author-url: https://github.com/mapshakers
+demo: http://mapshakers.com/projects/leaflet-pulse-icon/
+compatible-v0:
+compatible-v1: true
+---
+
+Renders pulsing icon using CSS3. It can be used for location marker.

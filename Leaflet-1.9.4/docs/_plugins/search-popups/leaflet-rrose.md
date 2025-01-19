@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bc9efcc616181d0e40ed316efd73421bb1ff0c6d7597c97f389c274c933b3efa
-size 412
+---
+name: Leaflet.Rrose
+category: search-popups
+repo: https://github.com/erictheise/rrose
+author: Eric Theise
+author-url: https://github.com/erictheise
+demo: https://erictheise.com/rrose/
+compatible-v0:
+compatible-v1: true
+---
+
+A Leaflet Plugin for Edge Cases. For use when you want popups on <em>mouseover</em>, not <em>click</em>, and you need popup tips to reorient as you get close to the edges of your map.

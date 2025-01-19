@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8b7379c71f60832ae56f6974967c626967e61c9ee8a6cdb47c0842408f703998
-size 378
+---
+name: Leaflet Popup Angular
+category: frameworks-build-systems
+repo: https://github.com/grantHarris/leaflet-popup-angular
+author: Grant Harris
+author-url: https://github.com/grantHarris
+demo: http://grantharris.github.io/leaflet-popup-angular/examples/examples.html
+compatible-v0:
+compatible-v1: true
+---
+
+Use AngularJS in your Leaflet popups. Extends the built-in L.popup.

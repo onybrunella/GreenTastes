@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e3db3ba450e4e63922fbb94f44583733d2347844674e4d881739996c20ac7789
-size 331
+---
+name: Leaflet Navigation Toolbar
+category: bookmarked-pan-zoom
+repo: https://github.com/davidchouse/Leaflet.NavBar
+author: David C
+author-url: https://github.com/davidchouse
+demo: http://davidchouse.github.io/Leaflet.NavBar/
+compatible-v0:
+compatible-v1: true
+---
+
+Leaflet control for simple back, forward and home navigation.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:876a47569178097ed276c37cf6dc18714fd0d7eb5454036f7e24fac60f212def
-size 325
+---
+name: Leaflet.Control.Opacity
+category: tile-image-display
+repo: https://github.com/dayjournal/Leaflet.Control.Opacity
+author: Yasunori Kirimoto
+author-url: https://day-journal.com/
+demo: https://dayjournal.github.io/Leaflet.Control.Opacity/
+compatible-v0:
+compatible-v1: true
+---
+
+Make multiple tile layers transparent.

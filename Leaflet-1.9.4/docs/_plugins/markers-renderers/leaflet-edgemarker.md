@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7739e0e6f8bbe0abcf3ca64737c0b25c3e73dac952c3bc0dcc8104b480c5f39c
-size 354
+---
+name: Leaflet.EdgeMarker
+category: markers-renderers
+repo: https://github.com/ubergesundheit/Leaflet.EdgeMarker
+author: Gerald Pape
+author-url: https://github.com/ubergesundheit
+demo: http://ubergesundheit.github.io/Leaflet.EdgeMarker/
+compatible-v0:
+compatible-v1: true
+---
+
+Plugin to indicate the existence of Features outside of the current view.

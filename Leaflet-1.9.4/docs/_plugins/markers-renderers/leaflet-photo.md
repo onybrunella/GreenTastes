@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9dd70b182f08a2060663791a57af2ece09f23877cd9207c4b9ca285e8f163f30
-size 314
+---
+name: Leaflet.Photo
+category: markers-renderers
+repo: https://github.com/turban/Leaflet.Photo
+author: Bjørn Sandvik
+author-url: https://github.com/turban
+demo: http://turban.github.io/Leaflet.Photo/examples/picasa.html
+compatible-v0:
+compatible-v1: true
+---
+
+Plugin to show geotagged photos on a Leaflet map.

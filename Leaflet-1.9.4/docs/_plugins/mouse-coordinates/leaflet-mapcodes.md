@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cdeb99d67dd844032ee6937cc0be501fb5d889727e0974a8343ecd545187aca7
-size 352
+---
+name: Leaflet.Mapcodes
+category: mouse-coordinates
+repo: https://github.com/matlads/Leaflet.Mapcodes
+author: Martin Atukunda
+author-url: https://github.com/matlads
+demo: http://matlads.github.io/Leaflet.Mapcodes/
+compatible-v0:
+compatible-v1: true
+---
+
+Displays the <a href="https://www.mapcode.com">Mapcode</a> of the mouse pointer on mouse move.

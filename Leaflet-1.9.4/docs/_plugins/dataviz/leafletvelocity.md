@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a260f01a970a510c7d8e55c0e6efd5a8405ebe31d03e23caaca60d63cb126130
-size 277
+---
+name: leaflet-velocity
+category: dataviz
+repo: https://github.com/onaci/leaflet-velocity
+author: Dan Wild
+author-url: https://github.com/danwild
+demo: https://onaci.github.io/leaflet-velocity/
+compatible-v0:
+compatible-v1: true
+---
+
+Visualise velocity layers with leaflet.

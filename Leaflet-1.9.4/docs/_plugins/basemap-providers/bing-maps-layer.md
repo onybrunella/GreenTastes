@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8c9bbba2efd75b28848f41094b202363006381b10368973584f438f1a352e1b5
-size 458
+---
+name: Bing Maps Layer
+category: basemap-providers
+repo: https://github.com/digidem/leaflet-bing-layer
+author: Gregor MacLennan
+author-url: https://github.com/gmaclennan
+demo: http://lab.digital-democracy.org/leaflet-bing-layer/
+compatible-v0: false
+compatible-v1: true
+---
+
+Add <a href="https://docs.microsoft.com/en-us/bingmaps/rest-services/imagery?redirectedfrom=MSDN">Bing Maps tiles</a> to your Leaflet Map. Requires Leaflet v1.0.0.beta.2 or later.

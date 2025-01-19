@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:00eae29a0b34bdf1c8061eb220120f2403791e207029edfd1faadc4cc7939968
-size 322
+---
+name: leaflet-zoom-min
+category: bookmarked-pan-zoom
+repo: https://github.com/alanshaw/leaflet-zoom-min/
+author: Alan Shaw
+author-url: https://github.com/alanshaw/
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Adds a button to the zoom control that allows you to zoom to the map minimum zoom level in a single click.

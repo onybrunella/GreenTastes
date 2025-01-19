@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1c78b3924f86082fc62095a7b37c791771423dcc27a24de7455b20fbce57e134
-size 375
+---
+name: TileLayer.PouchDBCached
+category: tile-load
+repo: https://github.com/MazeMap/Leaflet.TileLayer.PouchDBCached
+author: Iván Sánchez Ortega
+author-url: https://github.com/IvanSanchez
+demo: https://mazemap.github.io/Leaflet.TileLayer.PouchDBCached/demo.html
+compatible-v0:
+compatible-v1: true
+---
+
+Allows all Leaflet TileLayers to cache into PouchDB for offline use.

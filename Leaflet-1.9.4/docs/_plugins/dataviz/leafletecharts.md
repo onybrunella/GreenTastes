@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1655d9f9f3de8b27300bba5691d34374278d345ea32bd6ebad8ebf480a535402
-size 381
+---
+name: leaflet-echarts
+category: dataviz
+repo: https://github.com/wandergis/leaflet-echarts
+author: wandergis
+author-url: https://github.com/wandergis
+demo: https://wandergis.com/leaflet-echarts/index-en.html
+compatible-v0:
+compatible-v1: true
+---
+
+A plugin for Leaflet to load <a href="https://github.com/apache/echarts">echarts</a> map and make big data visualization easier.

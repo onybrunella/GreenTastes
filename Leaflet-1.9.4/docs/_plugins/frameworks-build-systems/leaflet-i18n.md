@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5d5b0d87a4053990312b9bac6e7d49872b888f2068d82a42548c4354d1192437
-size 260
+---
+name: Leaflet.i18n
+category: frameworks-build-systems
+repo: https://github.com/yohanboniface/Leaflet.i18n
+author: Yohan Boniface
+author-url: https://yohanboniface.me/
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Internationalization for Leaflet plugins.

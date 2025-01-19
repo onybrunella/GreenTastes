@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b4095af7bbde14c4528237656d2161406bbb7af049c7c444239ea12cddd824d8
-size 323
+---
+name: Leaflet Location Picker
+category: mouse-coordinates
+repo: https://github.com/stefanocudini/leaflet-locationpicker
+author: Stefano Cudini
+author-url: https://opengeo.tech/
+demo: https://opengeo.tech/maps/leaflet-locationpicker/
+compatible-v0:
+compatible-v1: true
+---
+
+Simple location picker with mini Leaflet map.

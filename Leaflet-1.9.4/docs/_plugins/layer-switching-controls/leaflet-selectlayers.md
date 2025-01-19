@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2eb52eb3cb0d61207fe6b96bd96eda464de3277f7ff25011ebb04aea386bb8e8
-size 376
+---
+name: Leaflet.SelectLayers
+category: layer-switching-controls
+repo: https://github.com/vogdb/SelectLayersControl
+author: vogdb
+author-url: https://github.com/vogdb
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+a Leaflet plugin which adds new control to switch between different layers on the map. New control replaces L.Control.Layers radio button panel with select tag.

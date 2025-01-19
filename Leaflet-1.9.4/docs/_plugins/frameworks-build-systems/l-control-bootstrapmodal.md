@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:146fedcf5a19c9a6c36df87a59769473de30bee9a4b588e187ca72fdcae14f23
-size 306
+---
+name: L.Control.BootstrapModal
+category: frameworks-build-systems
+repo: https://github.com/gregallensworth/L.Control.BootstrapModal
+author: Greg Allensworth
+author-url: https://github.com/gregallensworth
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Trigger a Bootstrap modal using an on-map control.

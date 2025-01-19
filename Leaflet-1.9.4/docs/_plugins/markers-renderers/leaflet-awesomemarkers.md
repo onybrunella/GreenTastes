@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d2cbc3971ff69898a4e6e138acbc639be7212b5d77b192bdbd0a3fdaa5b4a1f7
-size 393
+---
+name: Leaflet.Awesome-Markers
+category: markers-renderers
+repo: https://github.com/lennardv2/Leaflet.awesome-markers
+author: Lennard Voogdt
+author-url: https://lennardvoogdt.nl/
+demo: https://github.com/lennardv2/Leaflet.awesome-markers#screenshots
+compatible-v0:
+compatible-v1: true
+---
+
+Colorful, iconic &amp; retina-proof markers based on the Font Awesome icons/Twitter Bootstrap icons

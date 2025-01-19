@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:22759bb3a8e1f5a8c4329c084050d081033fb0848f109649ac26fc1e36a34d15
-size 327
+---
+name: Leaflet GeoIP Locator
+category: geocoding
+repo: https://github.com/jakubdostal/leaflet-geoip
+author: Jakub Dostal
+author-url: https://github.com/jakubdostal
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+A simple plugin that allows finding the approximate location of IP addresses and map centering on said location.

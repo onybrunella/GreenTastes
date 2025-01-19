@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c312ac47599d3811d88e690cfcd5742416e99f5ed90e7bb0824a020a97910ec2
-size 346
+---
+name: Leaflet.timeline
+category: time-elevation
+repo: https://github.com/skeate/Leaflet.timeline
+author: Jonathan Skeate
+author-url: https://github.com/skeate
+demo: https://skeate.dev/Leaflet.timeline/examples/earthquakes.html
+compatible-v0:
+compatible-v1: true
+---
+
+Display arbitrary GeoJSON on a map with a timeline slider and play button.

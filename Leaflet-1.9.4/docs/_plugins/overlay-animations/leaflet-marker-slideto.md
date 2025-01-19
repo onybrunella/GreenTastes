@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fd4422480a9169ed3df6238f5c03f924993f09b67850a7572371f9dd91bfd51f
-size 354
+---
+name: Leaflet.Marker.SlideTo
+category: overlay-animations
+repo: https://gitlab.com/IvanSanchez/Leaflet.Marker.SlideTo
+author: Iván Sánchez Ortega
+author-url: https://gitlab.com/u/IvanSanchez
+demo: http://ivansanchez.gitlab.io/Leaflet.Marker.SlideTo/demo.html
+compatible-v0:
+compatible-v1: true
+---
+
+Smoothly move (slide) markers to a new location.

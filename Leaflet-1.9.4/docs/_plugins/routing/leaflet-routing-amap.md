@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:254f640fd306d8ca2e9b916e9bce5e7395503d78455245858e913dccf7a7d967
-size 460
+---
+name: Leaflet.Routing.Amap
+category: routing
+repo: https://github.com/UinJack/Leaflet.Routing.Amap
+author: Jack Good
+author-url: https://github.com/BKGiser
+demo: https://uinjack.github.io/Leaflet.Routing.Amap/example/
+compatible-v0:
+compatible-v1: true
+---
+
+Control for route search using <a href="https://www.amap.com/">AMap(高德地图)</a> as a backend. Supports the Chinese BD09 and GCJ02 coordinate systems, colourful lines, and turn-by-turn popups.

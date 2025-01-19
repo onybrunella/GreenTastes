@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:97f4ca922ec558c9f21bdb5c2cf762635fb123a092b58f1c2be0c396336a26d9
-size 344
+---
+name: Leaflet.Editable
+category: edit-geometries
+repo: https://github.com/Leaflet/Leaflet.Editable
+author: Yohan Boniface
+author-url: https://yohanboniface.me/
+demo: https://leaflet.github.io/Leaflet.Editable/example/index.html
+compatible-v0:
+compatible-v1: true
+---
+
+Lightweight fully customisable and controllable drawing/editing plugin.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e6be5ee3f079902b4566b487241af15bd8c86065a22f8f766e3cb4f38dd268dd
-size 357
+---
+name: Leaflet.DistortableVideo
+category: tile-image-display
+repo: https://github.com/ronikar/Leaflet.DistortableVideo
+author: Roni Karilkar
+author-url: https://github.com/ronikar
+demo: https://ronikar.github.io/Leaflet.DistortableVideo/examples/
+compatible-v0:
+compatible-v1: true
+---
+
+Enable users to scale, rotate, and distort videos on Leaflet maps.

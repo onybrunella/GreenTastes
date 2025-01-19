@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:230dbae20a39fd4c80674d3c1feba0abb6820d47d56782cf1a916f379f9a18fd
-size 302
+---
+name: V-Leaflet
+category: frameworks-build-systems
+repo: https://github.com/mstahv/v-leaflet
+author: Matti Tahvonen
+author-url: https://github.com/mstahv
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Use Leaflet as a component for the <a href="https://vaadin.com/">Vaadin</a> Java/HTML framework.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e68a50552357bdb64490ff521cfbb8df39f0df169c7cf2d41d548e02e2b81de6
-size 283
+---
+name: Leaflet.SimpleGraticule
+category: synthetic-overlays
+repo: https://github.com/ablakey/Leaflet.SimpleGraticule
+author: Andrew Blakey
+author-url: https://github.com/ablakey
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Draws a grid lines for L.CRS.Simple coordinate system.

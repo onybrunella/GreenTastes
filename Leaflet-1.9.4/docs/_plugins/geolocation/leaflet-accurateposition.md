@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a7c184daa305d5fc2f167aca2eeb917689f5089fece11b2aea06713888a22850
-size 365
+---
+name: Leaflet.AccuratePosition
+category: geolocation
+repo: https://github.com/M165437/Leaflet.AccuratePosition
+author: Michael Schmidt-Voigt
+author-url: https://github.com/M165437
+demo: https://m165437.github.io/Leaflet.AccuratePosition/
+compatible-v0: true
+compatible-v1: false
+---
+
+Leaflet.AccuratePosition aims to provide a desired device location accuracy.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7865281f234023f45b5b7c692df56556b785eebe4ab40d90f41333fe92f319e9
-size 322
+---
+name: Leaflet.HtmlLegend
+category: user-interface
+repo: https://github.com/consbio/Leaflet.HtmlLegend
+author: Kaveh Karimi
+author-url: https://github.com/ka7eh
+demo: https://consbio.github.io/Leaflet.HtmlLegend/
+compatible-v0:
+compatible-v1: true
+---
+
+A simple Leaflet plugin for creating legends using HTML elements.

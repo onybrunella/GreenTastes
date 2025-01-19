@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d02c1031f58831121a5a3bafcd229a668f937e40946575509eb93c9ea97fe76d
-size 354
+---
+name: leaflet-spatial-prefix-tree
+category: geoprocessing
+repo: https://github.com/missinglink/leaflet-spatial-prefix-tree
+author: Mapzen
+author-url: https://mapzen.com/
+demo: https://missinglink.github.io/leaflet-spatial-prefix-tree/
+compatible-v0:
+compatible-v1: true
+---
+
+Leaflet plugin for visualizing spatial prefix trees, quadtree and geohash.

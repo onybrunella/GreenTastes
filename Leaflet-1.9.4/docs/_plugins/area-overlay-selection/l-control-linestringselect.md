@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4da7046e0e2453c00db5935dc24669c5c4caac39eb3e1237228e9a7a0fac7460
-size 396
+---
+name: L.Control.LineStringSelect
+category: area-overlay-selection
+repo: https://github.com/w8r/L.Control.LineStringSelect
+author: Alexander Milevski
+author-url: https://github.com/w8r
+demo: https://milevski.co/L.Control.LineStringSelect/examples/
+compatible-v0:
+compatible-v1: true
+---
+
+Fast LineString(polyline) partial selection tool: select a stretch between two points in a complex path.

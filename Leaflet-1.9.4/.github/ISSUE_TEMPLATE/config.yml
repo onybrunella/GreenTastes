@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5c680f94a247516003f1eaf06f11a75f2da022cd85d7a71b8b5b2211dd8e7794
-size 558
+blank_issues_enabled: true
+contact_links:
+  - name: Support
+    url: https://stackoverflow.com/questions/tagged/leaflet
+    about: >
+      We use GitHub as an issue tracker and do not provide support here.
+      For general usage please refer to the Leaflet documentation:
+      https://leafletjs.com.
+      For support questions like "How can I do X with Leaflet?"
+      please search or ask questions on
+      StackOverflow: https://stackoverflow.com/questions/tagged/leaflet or
+      StackExchange: https://gis.stackexchange.com/questions/tagged/leaflet.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aae2cb1f7d945d033148d559d520d97acd1303ab60ca6d1981fe62a7fc395523
-size 298
+---
+name: Leaflet.RevealOSM
+category: search-popups
+repo: https://github.com/yohanboniface/Leaflet.RevealOSM
+author: Yohan Boniface
+author-url: https://yohanboniface.me/
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Very simple but extendable Leaflet plugin to display OSM POIs data on map click.

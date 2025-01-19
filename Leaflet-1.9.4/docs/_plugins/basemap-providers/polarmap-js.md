@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b18bc3f4534db0255d720dc4acaf4c8254f7d410bb87b440377b1419500d0252
-size 477
+---
+name: PolarMap.js
+category: basemap-providers
+repo: https://github.com/GeoSensorWebLab/polarmap.js
+author: GeoSensorWeb Lab
+author-url: https://github.com/geosensorweblab
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+JavaScript library for displaying tiles from <a href="https://webmap.arcticconnect.ca/">ArcticWebMap</a>, a free tile provider with OSM data in multiple Arctic polar projections. Includes lower-level API for deeper integration with other Leaflet plugins.

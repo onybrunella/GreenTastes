@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:650b1e4672400815b4fdc5159c6ac22c88b8eaca6fdfb3cc5b334197f7b6338d
-size 339
+---
+name: Leaflet.MultiTileLayer
+category: tile-load
+repo: https://github.com/mattiasb/Leaflet.MultiTileLayer
+author: Mattias Bengtsson
+author-url: https://github.com/mattiasb
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Allows to compose a TileLayer from several tile sources. Each source is active only on a defined set of zoomlevels.

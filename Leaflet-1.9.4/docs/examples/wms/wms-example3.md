@@ -1,3 +1,34 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6bddd09bdafb186dc1684f8f0f07920c8b55f5e857db362e19725433e7674720
-size 785
+---
+layout: tutorial_frame
+title: WMS example
+---
+<script type='text/javascript'>
+
+	var map = L.map('map', {
+		center: [-17, -67],
+		zoom: 3
+	});
+
+	var basemaps = {
+		Topography: L.tileLayer.wms('http://ows.mundialis.de/services/service?', {
+			layers: 'TOPO-WMS'
+		}),
+
+		Places: L.tileLayer.wms('http://ows.mundialis.de/services/service?', {
+			layers: 'OSM-Overlay-WMS'
+		}),
+
+		'Topography, then places': L.tileLayer.wms('http://ows.mundialis.de/services/service?', {
+			layers: 'TOPO-WMS,OSM-Overlay-WMS'
+		}),
+
+		'Places, then topography': L.tileLayer.wms('http://ows.mundialis.de/services/service?', {
+			layers: 'OSM-Overlay-WMS,TOPO-WMS'
+		})
+	};
+
+	var layerControl = L.control.layers(basemaps, {}, {collapsed: false}).addTo(map);
+
+	basemaps.Topography.addTo(map);
+
+</script>

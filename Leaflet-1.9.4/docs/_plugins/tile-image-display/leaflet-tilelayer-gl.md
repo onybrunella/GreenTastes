@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7fce5936f971a45ab3c002db0ac5fc6ecf305a6e1c0f8f90ff0a74edad901987
-size 354
+---
+name: Leaflet.TileLayer.GL
+category: tile-image-display
+repo: https://gitlab.com/IvanSanchez/Leaflet.TileLayer.GL
+author: Iván Sánchez
+author-url: https://github.com/IvanSanchez
+demo: https://ivansanchez.gitlab.io/Leaflet.TileLayer.GL/demo/repl.html
+compatible-v0:
+compatible-v1: true
+---
+
+Applies custom WebGL shaders to each tile in a tilelayer.

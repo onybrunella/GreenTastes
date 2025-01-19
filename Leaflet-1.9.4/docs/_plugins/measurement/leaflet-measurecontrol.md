@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:437212b615bff6c45770862eef23a6a6e7b6db3957ffd428572b69454bb5fdce
-size 355
+---
+name: Leaflet.MeasureControl
+category: measurement
+repo: https://github.com/makinacorpus/Leaflet.MeasureControl
+author: Makina Corpus
+author-url: https://github.com/makinacorpus/
+demo: https://makinacorpus.github.io/Leaflet.MeasureControl/
+compatible-v0:
+compatible-v1: true
+---
+
+A simple tool to measure distances on maps (*relies on Leaflet.Draw*).

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ea5efd7f80fe7f64fd45a7f2ccbf37c99e2ae62ae85b9970a263a2bf6a89ed08
-size 387
+---
+name: Leaflet.GeojsonLayerSwitcher
+category: user-interface
+repo: https://github.com/easymountain/Leaflet.GeojsonLayerSwitcher
+author: Easy-Mountain
+author-url: https://github.com/easymountain
+demo: https://github.com/easymountain/Leaflet.GeojsonLayerSwitcher#demo
+compatible-v0:
+compatible-v1: true
+---
+
+Allows to navigate between GeoJSON layers, select some, and return selection.

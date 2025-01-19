@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3a846f89b6738e4f8c75b8eeb21339714cccb5047fa7a63bd67ccfa54d66fba2
-size 409
+---
+name: Leaflet.MapboxVectorTile
+category: vector-tiles
+repo: https://github.com/SpatialServer/Leaflet.MapboxVectorTile
+author: SpatialDev
+author-url: https://www.spatialdev.com/
+demo: http://spatialserver.github.io/Leaflet.MapboxVectorTile/examples/confetti.html
+compatible-v0: true
+compatible-v1: false
+---
+
+A Leaflet Plugin that renders Mapbox Vector Tiles on canvas. Compatible with Leaflet 0.7.x only.

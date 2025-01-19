@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3c0eb6d25d0f96e2f4648fecdcb20124cbbe607dd963262e0ca07a9938f49a6b
-size 296
+---
+name: Leaflet.Messagebox
+category: user-interface
+repo: https://github.com/tinuzz/leaflet-messagebox
+author: Martijn Grendelman
+author-url: https://github.com/tinuzz/
+demo: https://www.grendelman.net/leaflet/
+compatible-v0:
+compatible-v1: true
+---
+
+Display a temporary text message on a map.

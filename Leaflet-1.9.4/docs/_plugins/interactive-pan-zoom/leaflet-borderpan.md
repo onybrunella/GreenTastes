@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1b342ca136e2814177ad6a5bc740176818abfcbb32fc0370f34ad9282023149e
-size 268
+---
+name: Leaflet.BorderPan
+category: interactive-pan-zoom
+repo: https://github.com/slara/Leaflet.BorderPan
+author: Sebastián Lara
+author-url: https://github.com/slara
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+A Leaflet plugin to pan by clicking on map borders.

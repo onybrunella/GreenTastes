@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5d100e4f77fe34cd46d2e5b1af0e6a83205c72ffc832fc86d273779992befeb7
-size 299
+---
+name: Leaflet.dbpediaLayer
+category: data-providers
+repo: https://github.com/kr1/Leaflet.dbpediaLayer/
+author: Kr1
+author-url: https://github.com/kr1/
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+A layer with Points of interest from Wikipedia - loaded via ajax from DBpedia's SPARQL endpoint.

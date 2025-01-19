@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c897b453f2fb789253fcd63ae40c9061fb395f5ba9f4d860d9d06f9341fa3a4b
-size 290
+---
+name: Leaflet Swoopy
+category: markers-renderers
+repo: https://github.com/wbkd/leaflet-swoopy
+author: webkid
+author-url: https://webkid.io/
+demo: https://wbkd.github.io/leaflet-swoopy/
+compatible-v0:
+compatible-v1: true
+---
+
+A plugin for creating customizable swoopy arrow annotations.

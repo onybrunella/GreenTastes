@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a8dec58defe8acf967cdf27b97e937a5a59801d6efa64922d7eadc126e4828d8
-size 270
+---
+name: leaflet.TileLayer.WMTS
+category: basemap-formats
+repo: https://github.com/alexandre-melard/leaflet.TileLayer.WMTS
+author: Alexandre Melard
+author-url: https://github.com/mylen
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Add WMTS (IGN) layering for leaflet.

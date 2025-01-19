@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cc3ba7ee7cb34023ba4b7280eebe9aed55cc4f88347c19c4b5ff765b92872771
-size 291
+---
+name: Leaflet GameController
+category: interactive-pan-zoom
+repo: https://github.com/SINTEF-9012/Leaflet.GameController
+author: Antoine Pultier
+author-url: https://github.com/yellowiscool
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Interaction handler providing support for gamepads.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1364dfd797d2ff35c64a770db0746b532e5befea83176a3f72c58ef0e57e09da
-size 239
+---
+name: Leaflet.TileLayer.Canvas
+category: tile-image-display
+repo: https://github.com/GIAPspzoo/L.TileLayer.Canvas
+author: GIAP
+author-url: https://giap.pl
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Render tiles as canvas elements.

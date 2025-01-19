@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f4e901f52f647445817084f28fa386b4a2960e625540579541e299c089f18ed4
-size 335
+---
+name: Leaflet.EdgeBuffer
+category: tile-load
+repo: https://github.com/TolonUK/Leaflet.EdgeBuffer
+author: Alex Paterson
+author-url: https://github.com/TolonUK
+demo: http://www.tolon.co.uk/Leaflet.EdgeBuffer/comparison.html
+compatible-v0: false
+compatible-v1: true
+---
+
+Buffer tiles beyond the edge of the viewport, for Leaflet 1.0.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:78b1793c3df13bf359d0a9239c356c879f17f4240e2f65b05579e6002cdb8e6f
-size 271
+---
+name: Leaflet.Terminator
+category: synthetic-overlays
+repo: https://github.com/joergdietrich/Leaflet.Terminator
+author: Jörg Dietrich
+author-url: https://github.com/joergdietrich
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Overlay day and night regions on a map.

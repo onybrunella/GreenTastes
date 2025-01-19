@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:495eb880298d6fa179ecda3c1cdc67dddcae639102fd0ef3c56e4b13db21dc67
-size 264
+---
+name: Leaflet.Sun
+category: synthetic-overlays
+repo: https://github.com/dj0001/Leaflet.Sun
+author: DJ
+author-url: https://github.com/dj0001
+demo: https://dj0001.github.io/Leaflet.Sun/
+compatible-v0:
+compatible-v1: true
+---
+
+Get sunset or sunrise at map click.

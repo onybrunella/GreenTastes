@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2c0d9e1bff6377495bab82e60f201381bc618f7a3e25bd2ddba7d31e95adb3e1
-size 391
+---
+name: Leaflet.VectorGrid
+category: vector-tiles
+repo: https://github.com/Leaflet/Leaflet.VectorGrid
+author: Iván Sánchez
+author-url: https://github.com/IvanSanchez
+demo: https://github.com/Leaflet/Leaflet.VectorGrid#demos
+compatible-v0: false
+compatible-v1: true
+---
+
+Display gridded vector data (GeoJSON or TopoJSON sliced with geojson-vt, or protobuf vector tiles) in Leaflet 1.0.0.

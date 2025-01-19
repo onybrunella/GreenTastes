@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9498cb4ef697a365acd7f45b1638ddcba595378ad07f8898a41822376d75b308
-size 365
+---
+name: Leaflet.AntPath
+category: overlay-animations
+repo: https://github.com/rubenspgcavalcante/leaflet-ant-path
+author: Rubens Pinheiro
+author-url: https://github.com/rubenspgcavalcante
+demo: https://rubenspgcavalcante.github.io/leaflet-ant-path/
+compatible-v0:
+compatible-v1: true
+---
+
+Leaflet.AntPath put a flux animation (like ants walking) into a Polyline.

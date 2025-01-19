@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a750f19529b96cc62afc0a51de64a901448b05ce2e96bef0bfc039266dcc2dd7
-size 355
+---
+name: Leaflet.Extra-Markers
+category: markers-renderers
+repo: https://github.com/coryasilva/Leaflet.ExtraMarkers
+author: Cory Silva
+author-url: https://www.corysilva.com/
+demo: https://coryasilva.github.io/Leaflet.ExtraMarkers/
+compatible-v0:
+compatible-v1: true
+---
+
+Shameless copy of Awesome-Markers with more shapes, colors and semantic-ui support

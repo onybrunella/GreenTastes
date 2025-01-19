@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1051880c01b318f7080febe66f6e43650021645e1af3b76f4ed8aabe8e3eb316
-size 674
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /
+    open-pull-requests-limit: 999
+    rebase-strategy: disabled
+    schedule:
+      interval: weekly
+    labels:
+      - dependencies
+    ignore:
+      - dependency-name: eslint-config-mourner
+        update-types: ["version-update:semver-major"]
+      - dependency-name: sinon
+        update-types: ["version-update:semver-major"]
+      - dependency-name: mocha
+        update-types: ["version-update:semver-major"]
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    open-pull-requests-limit: 999
+    rebase-strategy: disabled
+    schedule:
+      interval: weekly
+    labels:
+      - dependencies

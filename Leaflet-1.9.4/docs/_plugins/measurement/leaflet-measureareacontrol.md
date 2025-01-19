@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c233a3703caec82e4f0ba83a49e93c3c14f47a60e4eda5436e145ef7ad260290
-size 336
+---
+name: Leaflet.MeasureAreaControl
+category: measurement
+repo: https://github.com/zvaraondrej/Leaflet.MeasureAreaControl
+author: Ondrej Zvara
+author-url: https://github.com/zvaraondrej
+demo: http://zvaraondrej.github.io/Leaflet.MeasureAreaControl/example/
+compatible-v0:
+compatible-v1: true
+---
+
+Control for measuring element's area.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1fbb8d9ccd01e3bddad7f063f3ed078dc257a0bf8861815c267b3bca0a091a77
-size 400
+---
+name: Leaflet.TileLayer.MBTiles
+category: basemap-formats
+repo: https://gitlab.com/IvanSanchez/Leaflet.TileLayer.MBTiles
+author: Iván Sánchez
+author-url: https://github.com/IvanSanchez/
+demo: https://ivansanchez.gitlab.io/Leaflet.TileLayer.MBTiles/demo/demo.html
+compatible-v0:
+compatible-v1: true
+---
+
+Loads <a href="https://github.com/mapbox/mbtiles-spec"><code>.mbtiles</code></a> tilesets.

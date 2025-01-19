@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dac4f325cb7fa3117cdfc443e9e02d6895ea1a7956aadf7e3debc72ab503fe67
-size 425
+---
+name: leaflet-sidepanel
+category: user-interface
+repo: https://github.com/maxwell-ilai/Leaflet.SidePanel
+author: Maxwell Ilai
+author-url: https://github.com/maxwell-ilai
+demo: https://maxwell-ilai.github.io/Leaflet.SidePanel/examples/
+compatible-v0: false
+compatible-v1: true
+---
+
+Sidepanel with tabs. Keep it short and check out the [plugin guide](https://github.com/maxwell-ilai/Leaflet.SidePanel/blob/main/README.md).

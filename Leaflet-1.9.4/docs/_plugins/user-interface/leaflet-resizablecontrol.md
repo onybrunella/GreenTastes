@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1644470f86cfff1e7c7fc219908940a09aae5c3e1be8383e1cdf6267231543e2
-size 346
+---
+name: Leaflet ResizableControl
+category: user-interface
+repo: https://github.com/dalbrx/Leaflet.ResizableControl
+author: David Albrecht
+author-url: https://github.com/dalbrx
+demo: https://dalbrx.github.io/Leaflet.ResizableControl/
+compatible-v0:
+compatible-v1: true
+---
+
+A Leaflet plugin to add a resizable and scrollable control to the map.

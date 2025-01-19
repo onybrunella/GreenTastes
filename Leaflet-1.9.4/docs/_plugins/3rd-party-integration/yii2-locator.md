@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:466880c154c960c6d762d6f63ad99addd6c223f977412843d76e85fa3c6be037
-size 426
+---
+name: Yii2-locator
+category: 3rd-party-integration
+repo: https://github.com/sjaakp/yii2-locator
+author: Sjaak Priester
+author-url: https://github.com/sjaakp
+demo: https://sjaakpriester.nl/software/locator
+compatible-v0:
+compatible-v1: true
+---
+
+Leaflet widget for <a href="https://www.yiiframework.com/">Yii2 PHP Framework</a>. Geographical data stored in an ActiveRecord can be displayed and updated on interactive maps.

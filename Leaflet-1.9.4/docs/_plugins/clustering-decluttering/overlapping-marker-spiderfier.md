@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1532d78b5acf7a6c06258f0a5cdf532b369adb442df62ed2c89b5be94e4454d7
-size 420
+---
+name: Overlapping Marker Spiderfier
+category: clustering-decluttering
+repo: https://github.com/jawj/OverlappingMarkerSpiderfier-Leaflet
+author: George MacKerron
+author-url: http://mackerron.com/
+demo: http://jawj.github.io/OverlappingMarkerSpiderfier-Leaflet/demo.html
+compatible-v0:
+compatible-v1: true
+---
+
+Deals with overlapping markers in a Google Earth-inspired way by gracefully springing them apart on click.

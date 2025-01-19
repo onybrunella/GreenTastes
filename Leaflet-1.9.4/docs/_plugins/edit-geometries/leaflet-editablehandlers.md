@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c8645bb3d01533f87cd503568d4cbaf568fb9cbd18e6c373bdcecba2de196595
-size 319
+---
+name: Leaflet.EditableHandlers
+category: edit-geometries
+repo: https://github.com/kartena/Leaflet.EditableHandlers
+author: Kartena
+author-url: http://www.kartena.se/index.html
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+A set of plugins that includes circle editing, measuring tool, and label for polygon sides.

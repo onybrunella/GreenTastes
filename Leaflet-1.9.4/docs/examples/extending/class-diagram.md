@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8859102504acd4da69b359aad002f734aa6900caeae8978662d4e5bd90bd6619
-size 415
+---
+layout: tutorial_frame
+title: Leaflet class diagram
+css: "#map {
+            width: 100vw;
+            height: 100%;
+        }"
+---
+<script type='text/javascript'>
+
+	var bounds = [[0, 0], [1570, 1910]];
+
+	var map = L.map('map', {
+		crs: L.CRS.Simple,
+		maxZoom: 0,
+		minZoom: -4,
+		maxBounds: bounds
+	});
+
+	var image = L.imageOverlay('class-diagram.png', bounds).addTo(map);
+
+	map.fitBounds(bounds);
+
+</script>

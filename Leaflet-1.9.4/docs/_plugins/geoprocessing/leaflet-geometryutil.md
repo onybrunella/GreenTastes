@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c524c5ce1e2f55629560a0bc447d46a531e724a120d89c49adb0ff70b32338e4
-size 302
+---
+name: Leaflet.GeometryUtil
+category: geoprocessing
+repo: https://github.com/makinacorpus/Leaflet.GeometryUtil
+author: Benjamin Becquet
+author-url: https://github.com/bbecquet
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+A collection of utilities for Leaflet geometries (linear referencing, etc.)

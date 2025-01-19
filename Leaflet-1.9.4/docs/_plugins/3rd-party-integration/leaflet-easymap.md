@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ce188c35f1a3a336a737c7d342ce9074dc3e2df8adebf891b448bdf4dfbd63c6
-size 362
+---
+name: Leaflet Easymap
+category: 3rd-party-integration
+repo: https://github.com/Lapizistik/leaflet-easymap
+author: Klaus Stein
+author-url: https://github.com/Lapizistik
+demo: https://lapizistik.github.io/leaflet-easymap/
+compatible-v0:
+compatible-v1: true
+---
+
+Include a map in your HTML page without one line of programming. A data-driven Javascript module.

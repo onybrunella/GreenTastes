@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:99bf18c533c577d7e35e37d496f23c93bd5fa3b658fa60bbce8b4551afd10632
-size 329
+---
+name: Leaflet.AlmostOver
+category: events
+repo: https://github.com/makinacorpus/Leaflet.AlmostOver
+author: Mathieu Leplatre
+author-url: https://github.com/makinacorpus/
+demo: https://makinacorpus.github.io/Leaflet.AlmostOver/
+compatible-v0:
+compatible-v1: true
+---
+
+Trigger mouse events when cursor is "almost" over a layer.

@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f0cc3ae056d090f6adfdd8e1ba0db3045419bbaa86b33f9eb22bf237f8a88b40
-size 375
+---
+name: Leaflet-GeoPackage
+category: overlay-data-formats
+repo: https://github.com/ngageoint/leaflet-geopackage
+author: Daniel Barela
+author-url: https://github.com/danielbarela
+demo: https://ngageoint.github.io/leaflet-geopackage/examples/index.html
+compatible-v0:
+compatible-v1: true
+---
+
+Load <a href="http://www.geopackage.org/">GeoPackage</a> Tile and Feature Layers.

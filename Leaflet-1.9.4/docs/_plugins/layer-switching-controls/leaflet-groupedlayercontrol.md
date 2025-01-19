@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bf8280af375978680020243d963d8c0f3cf13b6c1df10290517620091b87df4a
-size 389
+---
+name: Leaflet.GroupedLayerControl
+category: layer-switching-controls
+repo: https://github.com/ismyrnow/leaflet-groupedlayercontrol
+author: Ishmael Smyrnow
+author-url: https://github.com/ismyrnow
+demo: https://ismyrnow.github.io/leaflet-groupedlayercontrol/example/advanced.html
+compatible-v0:
+compatible-v1: true
+---
+
+Leaflet layer control with support for grouping overlays together.

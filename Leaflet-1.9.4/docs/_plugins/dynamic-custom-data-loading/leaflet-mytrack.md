@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f424583b23d16724703bf5b8d8ac538a2d0c1ef665ac1803a74f63a8201392b7
-size 288
+---
+name: Leaflet.mytrack
+category: dynamic-custom-data-loading
+repo: https://github.com/dj0001/Leaflet.mytrack
+author: DJ
+author-url: https://github.com/dj0001
+demo: https://dj0001.github.io/Leaflet.mytrack/
+compatible-v0:
+compatible-v1: true
+---
+
+Track my way on a map and download it.

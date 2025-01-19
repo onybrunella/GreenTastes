@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:665169e639074daefd839314cdfe48c4aad6eb9250a0c0f9d1fc1b46d05ac64b
-size 290
+---
+name: leaflet-sidebar
+category: user-interface
+repo: https://github.com/turbo87/leaflet-sidebar/
+author: Tobias Bieniek
+author-url: https://github.com/turbo87/
+demo: http://turbo87.github.io/leaflet-sidebar/examples/
+compatible-v0:
+compatible-v1: true
+---
+
+A responsive sidebar plugin.

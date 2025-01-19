@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:19360c3521ba6531c81533c483687b1f1456099cd97bf29d4365a1d3f7614fc9
-size 299
+---
+name: Leaflet Panel Layers
+category: layer-switching-controls
+repo: https://github.com/stefanocudini/leaflet-panel-layers
+author: Stefano Cudini
+author-url: https://opengeo.tech/
+demo: 
+compatible-v0:
+compatible-v1: true
+---
+
+Leaflet Control Layers extended for group of layers and icons legend

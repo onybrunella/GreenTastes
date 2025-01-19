@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9073f5b770e103d0794d11cf7ffcabd66e512d93b1d317bc24cc7c5af1a88b1f
-size 449
+---
+name: Leaflet.greatCircle
+category: markers-renderers
+repo: https://github.com/nuclearsecrecy/Leaflet.greatCircle
+author: Alex Wellerstein
+author-url: https://github.com/nuclearsecrecy/
+demo: https://nuclearsecrecy.github.io/Leaflet.greatCircle/example/
+compatible-v0:
+compatible-v1: true
+---
+
+A wrapper class for the Leaflet.js Polygon object that draws true "great circles" (showing true geodesic, spherical paths) that wrap around the Earth.

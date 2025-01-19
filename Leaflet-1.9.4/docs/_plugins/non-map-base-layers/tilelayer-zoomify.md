@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4703b0fc9d5499e07036331f8e8499f210efa9d4a5ea01cb11c5a87447209c9a
-size 317
+---
+name: TileLayer.Zoomify
+category: non-map-base-layers
+repo: https://github.com/cmulders/Leaflet.Zoomify
+author: Bjørn Sandvik
+author-url: https://github.com/turban
+demo: https://cmulders.github.io/Leaflet.Zoomify/examples/hubble-image.html
+compatible-v0:
+compatible-v1: true
+---
+
+A TileLayer for Zoomify images.
